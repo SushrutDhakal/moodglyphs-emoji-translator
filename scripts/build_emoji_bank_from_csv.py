@@ -15,7 +15,6 @@ csv_path = script_dir.parent / "full_emoji.csv"
 output_dir = script_dir / "emoji_bank"
 output_dir.mkdir(exist_ok=True)
 
-print("Loading model...")
 model_name = 'sentence-transformers/all-MiniLM-L6-v2'
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModel.from_pretrained(model_name)
@@ -40,7 +39,6 @@ def embed(text):
     return emb.squeeze().cpu().numpy()
 
 emoji_data = []
-print(f"Reading CSV from {csv_path}...")
 
 with open(csv_path, 'r', encoding='utf-8') as f:
     reader = csv.DictReader(f)
@@ -58,13 +56,10 @@ with open(csv_path, 'r', encoding='utf-8') as f:
             'desc': description
         })
 
-print(f"Loaded {len(emoji_data)} emojis")
-print("Generating embeddings...")
-
 embeddings = []
 for i, item in enumerate(emoji_data):
-    if (i + 1) % 100 == 0:
-        print(f"  Processed {i + 1}/{len(emoji_data)}")
+    if (i + 1) % 200 == 0:
+        print(f"{i + 1}/{len(emoji_data)}")
     
     emb = embed(item['desc'])
     embeddings.append(emb)
@@ -77,8 +72,4 @@ emoji_bank.save(
     output_dir / "emoji_bank.json",
     output_dir / "emoji_bank.npy"
 )
-
-print(f"\nEmoji bank saved to {output_dir}")
-print(f"  Total emojis: {len(emoji_bank)}")
-print(f"  Embedding dimension: {embeddings_array.shape[1]}")
 

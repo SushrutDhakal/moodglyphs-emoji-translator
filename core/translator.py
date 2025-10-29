@@ -30,11 +30,9 @@ class Translator:
              emotion_weights="models/emotion_model.pt",
              emoji_bank_dir="emoji_bank",
              profiles_dir="profiles"):
-        print(f"Loading encoder: {model_name}...")
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         encoder = AutoModel.from_pretrained(model_name)
         
-        print(f"Loading emotion model from {emotion_weights}...")
         emotion_model = EmotionModel(model_name, n_emotions=NUM_EMOTIONS)
         
         weights_path = Path(emotion_weights)
@@ -42,16 +40,13 @@ class Translator:
             emotion_model.load_state_dict(
                 torch.load(emotion_weights, map_location='cpu')
             )
-            print("Emotion model weights loaded.")
         else:
-            print(f"Warning: No weights found at {emotion_weights}, using untrained model.")
+            print(f"Warning: No weights found at {emotion_weights}")
         
-        print(f"Loading emoji bank from {emoji_bank_dir}...")
         emoji_bank = EmojiBank.load(
             f"{emoji_bank_dir}/emoji_bank.json",
             f"{emoji_bank_dir}/emoji_bank.npy"
         )
-        print(f"Loaded {len(emoji_bank)} emojis.")
         
         return cls(encoder, tokenizer, emotion_model, emoji_bank, profiles_dir)
     
@@ -183,8 +178,6 @@ class Translator:
             return [(interpretation, dict(top_emotions))]
     
     def load_dataset_for_reverse(self, texts, emotions_list=None):
-        print(f"Encoding {len(texts)} texts for reverse mapping...")
-        
         self.dataset_texts = texts
         self.dataset_emotions = emotions_list if emotions_list else [{}] * len(texts)
         
@@ -194,7 +187,6 @@ class Translator:
             embeddings.append(emb)
         
         self.dataset_text_embs = np.vstack(embeddings)
-        print("Dataset encoded.")
     
     def interactive_session(self, username="default"):
         profile = UserProfile(username, self.profiles_dir)

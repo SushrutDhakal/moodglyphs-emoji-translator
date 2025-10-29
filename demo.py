@@ -6,17 +6,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 
 def main():
-    print("Setting up MoodGlyphs...\n")
-    
     if not Path("models/emotion_model.pt").exists():
-        print("Running initial setup (this will take a few minutes)...")
         subprocess.run([sys.executable, "cli.py", "setup"])
-    else:
-        print("Model already trained, skipping setup.\n")
-    
-    print("\n" + "="*50)
-    print("Setup complete! Ready to translate.")
-    print("="*50 + "\n")
     
     from core import Translator
     from core.emotion_model import EMOTION_LABELS

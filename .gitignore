@@ -36,6 +36,8 @@ ENV/
 models/*.pt
 emoji_bank/*.npy
 data/*.jsonl
+data_goemotions/
+goemotions_data/
 profiles/*.json
 eval_results.json
 

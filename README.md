@@ -1,131 +1,100 @@
-﻿# moodglyphs-emoji-translator
-# MoodGlyphs
+﻿# MoodGlyphs
 
-Text to emoji translator that detects emotions and picks relevant emojis.
+Text-to-emoji translator using emotion detection and semantic matching.
 
-## Install
+## Quick Start
+
+Clone and setup:
 
 ```bash
+git clone https://github.com/SushrutDhakal/moodglyphs-emoji-translator.git
+cd moodglyphs-emoji-translator
 pip install -r requirements.txt
-```
-
-## Setup
-
-First time only:
-
-```bash
 python cli.py setup
 ```
 
-This generates training data, builds the emoji bank, and trains the model. Takes about 5-10 minutes.
+The setup downloads and trains on the GoEmotions dataset (43K human-labeled Reddit comments), builds an emoji bank with 1816 emojis, and trains the emotion detection model. Takes 5-10 minutes.
 
-## Usage
+Test with your own input:
 
 ```bash
-python cli.py translate "your text here"
+python demo.py
 ```
 
-Show emotions:
-```bash
-python cli.py translate "your text" --show-emotions
-```
+Or translate directly:
 
-Interactive mode:
 ```bash
-python cli.py interactive
+python cli.py translate "I'm so excited about this!"
+python cli.py translate "Feeling grateful today" --show-emotions
 ```
 
 ## Commands
 
 - `translate TEXT` - convert text to emojis
 - `reverse EMOJI` - interpret emoji sequence
-- `interactive` - start a session that learns your preferences
+- `interactive` - interactive session with personalization
 - `train` - train model on custom data
-- `eval` - evaluate model
-- `profile` - view user stats
+- `eval` - evaluate model performance
+- `profile` - view usage statistics
 
 Run `python cli.py --help` for all options.
 
-## How it works
+## How it Works
 
-- Encodes text with a transformer model
-- Predicts emotion vectors (30 dimensions)
-- Matches to emoji embeddings using cosine similarity
-- Uses MMR algorithm to pick diverse emojis
-- Learns user preferences over time
+1. **Text Encoding**: Transformer model (MiniLM-L6-v2) encodes input text
+2. **Emotion Detection**: Trained classifier predicts 28 emotion scores (GoEmotions labels)
+3. **Emoji Matching**: Cosine similarity between text and 1816 emoji embeddings
+4. **Diversity Selection**: MMR algorithm picks relevant but diverse emojis
+5. **Personalization**: Learns user preferences over time (optional)
 
-## File structure
+## Tech Stack
 
-```
-core/          - main code
-scripts/       - training and setup
-data/          - training data
-models/        - trained weights
-emoji_bank/    - emoji embeddings
-profiles/      - user preferences
-```
+- **Model**: Fine-tuned sentence-transformers/all-MiniLM-L6-v2
+- **Training Data**: [GoEmotions](https://www.kaggle.com/datasets/debarshichanda/goemotions) (43K labeled Reddit comments)
+- **Emoji Bank**: [Full Emoji Dataset](https://www.kaggle.com/datasets/subinium/emojiimage-dataset) (1816 emojis)
+- **Framework**: PyTorch + HuggingFace Transformers
 
-## Training on your own data
+## Model Performance
 
-Format as JSONL:
+**Emotion Detection Accuracy** (Validation MAE: 0.0525)
+
+| Input | Top Emotion | Confidence |
+|-------|-------------|------------|
+| "This is terrifying!" | Fear | 0.808 |
+| "I'm so angry" | Anger | 0.659 |
+| "I'm super happy" | Joy | 0.832 |
+| "Feeling really sad" | Sadness | 0.840 |
+| "This makes me so grateful" | Gratitude | 0.839 |
+| "This is hilarious" | Amusement | 0.855 |
+
+**Content-Aware Translation**
+- "play soccer" → ⚽
+- "ate pizza" → 🍕
+- "feeling confused" → 🤔
+
+## Custom Training
+
+Format your data as JSONL with emotion vectors:
+
 ```json
-{"id": "1", "text": "example", "labels": {"joy": 0.9, "nostalgia": 0.3}}
+{"text": "example text", "emotions": [0.0, 0.8, 0.0, ...]}
 ```
 
-Then run:
+Train:
+
 ```bash
-python cli.py train --train data.jsonl --val val.jsonl
+python scripts/train.py --train data.jsonl --val val.jsonl --epochs 5
 ```
 
-## Recent Improvements
+## Project Structure
 
-**Emoji Bank Expansion (v2.0)**
-- Upgraded from 95 to **1816 emojis** (19x increase) using full Unicode emoji dataset
-- Better coverage for diverse emotions and expressions
-- Improved semantic matching with richer emoji descriptions
-
-**Model Accuracy (v2.0)**
-- Comprehensive training data covering all 30 emotion dimensions
-- Improved emotion detection accuracy:
-  - "Terrifying" → Fear (0.385) ✓
-  - "Angry" → Anger (0.276) ✓
-  - "Happy" → Joy (0.449) ✓
-  - "Sad" → Sadness/Melancholy (0.555/0.653) ✓
-- Reduced validation MAE from 0.39 to 0.149
-
-## Performance Engineering
-
-### Computational Optimizations
-- **Cached Model Loading**: One-time initialization reduces subsequent requests to <100ms
-- **Batch Emotion Processing**: Parallel inference for multiple texts
-- **MMR Algorithm Optimization**: Efficient diversity selection with minimal overhead
-- **Profile Persistence**: Fast JSON serialization for user preferences
-- **Lazy Embedding Computation**: On-demand emoji bank loading
-
-## Performance Metrics
-
-| Metric | Value | Optimization |
-|--------|-------|-------------|
-| Cold Start (First Load) | ~3-4s | Model initialization + emoji bank |
-| Warm Translation | < 200ms | Cached encoder + optimized inference |
-| Emotion Detection | < 150ms | Efficient transformer forward pass |
-| MMR Selection | < 50ms | Vectorized similarity computation |
-| Memory Footprint | ~120MB | Model weights + emoji embeddings |
-| Profile Operations | < 10ms | Lightweight JSON I/O |
-| Emoji Bank Size | 1816 emojis | Full Unicode coverage |
-
-## Next Steps
-
-Some ideas for improvements:
-
-**Web App**: Convert from CLI to a web interface and deploy online. Could use Flask/FastAPI backend with a simple React or vanilla JS frontend.
-
-**Better Emoji Dataset**: Import a larger emoji dataset from Kaggle instead of the current curated list. More emojis = better expression coverage.
-
-**Model Improvements**: 
-- Train on real emotion-labeled data (GoEmotions, etc) instead of synthetic
-- Increase training epochs and tune hyperparameters
-- Add validation metrics to track accuracy
-- Optimize inference speed for production
-
-**Performance**: Profile bottlenecks, cache model loading, batch requests, maybe quantize the model.
+```
+core/               - emotion model, translator, emoji bank
+scripts/            - training and data processing
+  ├── train.py
+  ├── download_goemotions.py
+  └── load_goemotions.py
+models/             - trained model weights
+emoji_bank/         - emoji embeddings (1816 emojis)
+profiles/           - user personalization data
+```

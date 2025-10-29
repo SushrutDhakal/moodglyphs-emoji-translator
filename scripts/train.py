@@ -31,12 +31,15 @@ class EmotionDataset(Dataset):
     def __getitem__(self, idx):
         sample = self.samples[idx]
         text = sample['text']
-        labels = sample['labels']
         
-        emotion_vector = np.zeros(NUM_EMOTIONS, dtype=np.float32)
-        for i, emotion_name in enumerate(EMOTION_LABELS):
-            if emotion_name in labels:
-                emotion_vector[i] = labels[emotion_name]
+        if 'emotions' in sample:
+            emotion_vector = np.array(sample['emotions'], dtype=np.float32)
+        else:
+            labels = sample['labels']
+            emotion_vector = np.zeros(NUM_EMOTIONS, dtype=np.float32)
+            for i, emotion_name in enumerate(EMOTION_LABELS):
+                if emotion_name in labels:
+                    emotion_vector[i] = labels[emotion_name]
         
         encoding = self.tokenizer(
             text,
@@ -131,14 +134,10 @@ def main():
     args = parser.parse_args()
     
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    print(f"Using device: {device}")
-    
-    print(f"Loading model: {args.model_name}")
     tokenizer = create_tokenizer(args.model_name)
     model = EmotionModel(args.model_name, n_emotions=NUM_EMOTIONS)
     model.to(device)
     
-    print("Loading datasets...")
     train_dataset = EmotionDataset(args.train, tokenizer)
     val_dataset = EmotionDataset(args.val, tokenizer)
     
@@ -153,8 +152,7 @@ def main():
         shuffle=False
     )
     
-    print(f"Train samples: {len(train_dataset)}")
-    print(f"Val samples: {len(val_dataset)}")
+    print(f"Training on {len(train_dataset)} samples, validating on {len(val_dataset)}")
     
     optimizer = AdamW(model.parameters(), lr=args.lr)
     total_steps = len(train_loader) * args.epochs

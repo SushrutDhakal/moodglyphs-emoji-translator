@@ -4,12 +4,11 @@ from transformers import AutoModel, AutoTokenizer
 
 
 EMOTION_LABELS = [
-    'joy', 'sadness', 'anger', 'fear', 'surprise', 'disgust',
-    'nostalgia', 'melancholy', 'yearning', 'longing', 'wistfulness',
-    'sarcasm', 'irony', 'playfulness', 'amusement', 'humor',
-    'anxiety', 'relief', 'calm', 'peace', 'serenity',
-    'hope', 'despair', 'resignation', 'determination',
-    'admiration', 'awe', 'wonder', 'embarrassment', 'pride'
+    'admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring',
+    'confusion', 'curiosity', 'desire', 'disappointment', 'disapproval',
+    'disgust', 'embarrassment', 'excitement', 'fear', 'gratitude', 'grief',
+    'joy', 'love', 'nervousness', 'optimism', 'pride', 'realization',
+    'relief', 'remorse', 'sadness', 'surprise', 'neutral'
 ]
 
 NUM_EMOTIONS = len(EMOTION_LABELS)
