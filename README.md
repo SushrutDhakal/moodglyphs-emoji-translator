@@ -76,3 +76,19 @@ Then run:
 ```bash
 python cli.py train --train data.jsonl --val val.jsonl
 ```
+
+## Next Steps
+
+Some ideas for improvements:
+
+**Web App**: Convert from CLI to a web interface and deploy online. Could use Flask/FastAPI backend with a simple React or vanilla JS frontend.
+
+**Better Emoji Dataset**: Import a larger emoji dataset from Kaggle instead of the current curated list. More emojis = better expression coverage.
+
+**Model Improvements**: 
+- Train on real emotion-labeled data (GoEmotions, etc) instead of synthetic
+- Increase training epochs and tune hyperparameters
+- Add validation metrics to track accuracy
+- Optimize inference speed for production
+
+**Performance**: Profile bottlenecks, cache model loading, batch requests, maybe quantize the model.
