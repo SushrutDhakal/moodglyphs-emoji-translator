@@ -13,7 +13,6 @@ python cli.py setup
 
 Setup installs all performance optimizations, downloads GoEmotions dataset (43K labeled Reddit comments), builds emoji bank (1816 emojis), and trains the emotion model. Takes 5-10 minutes.
 
-**All optimizations are always-on by default** - no configuration needed!
 
 **Test with your input:**
 ```bash
@@ -22,8 +21,8 @@ python demo.py
 
 **Translate directly:**
 ```bash
-python cli.py translate "I'm so excited!"
-python cli.py translate "Feeling grateful" --show-emotions
+python cli.py translate "I'm going to play soccer tomorrow with my friends"
+python cli.py translate "Me and my family is going to a restaurant for dinner" --show-emotions
 ```
 
 ## Commands
@@ -55,18 +54,18 @@ Run `python cli.py --help` for all options.
 
 | Optimization | Before | After | Improvement | Status |
 |--------------|--------|-------|-------------|--------|
-| **FAISS Search** | 12.4ms | 0.12ms | **-99.0%** (103x faster) | ✅ Always on |
-| **LRU Cache (warm)** | 145ms | 0.1ms | **-99.9%** (1450x faster) | ✅ Always on |
-| **Batch Processing (50)** | 7.2 req/s | 156.8 req/s | **+2078%** (21.8x) | ✅ Always available |
-| **Model Quantization** | 87MB | 22MB | **-75%** size | ✅ Always available |
-| **ONNX Runtime** | 145ms | 52ms | **-64%** (2.8x faster) | ✅ Always available |
-| **Beam Search Quality** | 0.68 coherence | 0.84 coherence | **+24%** better | ✅ Always available |
-| **Personalization** | 72% satisfaction | 89% satisfaction | **+17 points** | ✅ Always on |
-| **Submodular MMR** | 0.65 diversity | 0.88 diversity | **+35%** | ✅ Always available |
-| **Calibration (ECE)** | 0.143 error | 0.028 error | **-80%** better | ✅ Always on |
-| **Memory (all combined)** | 117MB | 52MB | **-56%** usage | ✅ Always on |
+| **FAISS Search** | 12.4ms | 0.12ms | **-99.0%** (103x faster) |
+| **LRU Cache (warm)** | 145ms | 0.1ms | **-99.9%** (1450x faster) |
+| **Batch Processing (50)** | 7.2 req/s | 156.8 req/s | **+2078%** (21.8x) |
+| **Model Quantization** | 87MB | 22MB | **-75%** size |
+| **ONNX Runtime** | 145ms | 52ms | **-64%** (2.8x faster) |
+| **Beam Search Quality** | 0.68 coherence | 0.84 coherence | **+24%** better |
+| **Personalization** | 72% satisfaction | 89% satisfaction | **+17 points** |
+| **Submodular MMR** | 0.65 diversity | 0.88 diversity | **+35%** |
+| **Calibration (ECE)** | 0.143 error | 0.028 error | **-80%** better |
+| **Memory (all combined)** | 117MB | 52MB | **-56%** usage |
 
-### Built-In (Auto-Enabled)
+### Topics
 
 **FAISS Search** - 100x faster emoji retrieval
 - Brute force: 12.4ms → FAISS: 0.12ms
@@ -360,8 +359,6 @@ psutil>=5.9.0
 faiss-cpu>=1.7.4        # 100x faster emoji search (always included)
 onnxruntime>=1.15.0     # 2-3x inference speedup (always included)
 ```
-
-**All optimizations are always installed** - no optional dependencies!
 
 ---
 
