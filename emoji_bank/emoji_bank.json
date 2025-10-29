@@ -1,382 +1,7266 @@
 [
   {
-    "emoji": "🕰️",
-    "desc": "antique clock, passage of time, nostalgia, memories fading"
+    "emoji": "😀",
+    "desc": "grinning face. This emoji represents grinning face."
   },
   {
-    "emoji": "📼",
-    "desc": "old cassette tape, vintage memories, nostalgia for past"
+    "emoji": "😃",
+    "desc": "grinning face with big eyes. This emoji represents grinning face with big eyes."
   },
   {
-    "emoji": "🌅",
-    "desc": "sunrise over water, memory of peaceful mornings, gentle hope"
+    "emoji": "😄",
+    "desc": "grinning face with smiling eyes. This emoji represents grinning face with smiling eyes."
   },
   {
-    "emoji": "🍂",
-    "desc": "autumn leaves, change, melancholy, passage of time"
-  },
-  {
-    "emoji": "📷",
-    "desc": "camera capturing moments, memories frozen in time"
-  },
-  {
-    "emoji": "🎞️",
-    "desc": "film reel, old memories, cinematic nostalgia"
-  },
-  {
-    "emoji": "💭",
-    "desc": "thought bubble, contemplation, yearning, deep thinking"
-  },
-  {
-    "emoji": "🌌",
-    "desc": "galaxy stars, vastness, longing, existential wonder"
-  },
-  {
-    "emoji": "🌊",
-    "desc": "ocean waves, deep emotions, yearning, endless feeling"
-  },
-  {
-    "emoji": "🪶",
-    "desc": "feather floating, lightness, wistful longing, gentle yearning"
-  },
-  {
-    "emoji": "🕊️",
-    "desc": "dove flying away, longing for peace, gentle yearning"
-  },
-  {
-    "emoji": "🖤",
-    "desc": "black heart, melancholy, deep sadness, dark emotions"
-  },
-  {
-    "emoji": "🥀",
-    "desc": "wilted flower, decay, melancholy, faded beauty"
-  },
-  {
-    "emoji": "🌧️",
-    "desc": "rain cloud, sadness, melancholy weather, tears"
-  },
-  {
-    "emoji": "😔",
-    "desc": "pensive face, sadness, disappointment, melancholy"
-  },
-  {
-    "emoji": "💔",
-    "desc": "broken heart, heartbreak, deep sadness, loss"
-  },
-  {
-    "emoji": "😢",
-    "desc": "crying face, sadness, tears, emotional pain"
-  },
-  {
-    "emoji": "✨",
-    "desc": "sparkles, joy, magic, wonder, delight"
-  },
-  {
-    "emoji": "💛",
-    "desc": "yellow heart, warmth, friendship, gentle joy"
-  },
-  {
-    "emoji": "🌻",
-    "desc": "sunflower, brightness, optimism, cheerful joy"
-  },
-  {
-    "emoji": "😊",
-    "desc": "smiling face, contentment, gentle happiness, warm joy"
-  },
-  {
-    "emoji": "🎉",
-    "desc": "party popper, celebration, excitement, pure joy"
-  },
-  {
-    "emoji": "💫",
-    "desc": "dizzy stars, excitement, joyful energy, wonder"
-  },
-  {
-    "emoji": "🌟",
-    "desc": "glowing star, achievement, pride, bright joy"
-  },
-  {
-    "emoji": "🙃",
-    "desc": "upside down face, sarcasm, irony, subtle mockery"
-  },
-  {
-    "emoji": "😏",
-    "desc": "smirking face, smugness, sarcasm, knowing irony"
-  },
-  {
-    "emoji": "🤨",
-    "desc": "raised eyebrow, skepticism, sarcastic doubt, irony"
-  },
-  {
-    "emoji": "💀",
-    "desc": "skull, laughing to death, dark humor, extreme sarcasm"
-  },
-  {
-    "emoji": "👁️",
-    "desc": "eye, watching, ironic observation, seeing through things"
-  },
-  {
-    "emoji": "😰",
-    "desc": "anxious face with sweat, stress, worry, nervousness"
-  },
-  {
-    "emoji": "😟",
-    "desc": "worried face, anxiety, concern, unease"
-  },
-  {
-    "emoji": "😬",
-    "desc": "grimacing face, awkwardness, nervous embarrassment, cringe"
-  },
-  {
-    "emoji": "🫠",
-    "desc": "melting face, overwhelm, exhaustion, falling apart"
-  },
-  {
-    "emoji": "😵‍💫",
-    "desc": "dizzy face, confusion, overwhelmed, spiral"
-  },
-  {
-    "emoji": "😌",
-    "desc": "relieved face, peace, calm, contentment"
-  },
-  {
-    "emoji": "🕊️",
-    "desc": "dove, peace, serenity, relief, tranquility"
-  },
-  {
-    "emoji": "🧘",
-    "desc": "meditation, calm, peace, centered relief"
-  },
-  {
-    "emoji": "☁️",
-    "desc": "cloud, softness, calm, gentle peace"
-  },
-  {
-    "emoji": "🌙",
-    "desc": "crescent moon, nighttime calm, peaceful rest"
-  },
-  {
-    "emoji": "🌱",
-    "desc": "seedling, new growth, hope, fresh start"
-  },
-  {
-    "emoji": "🌈",
-    "desc": "rainbow, hope after storm, beauty, optimism"
-  },
-  {
-    "emoji": "🦋",
-    "desc": "butterfly, transformation, hope, beauty emerging"
-  },
-  {
-    "emoji": "⭐",
-    "desc": "star, aspiration, hope, reaching for dreams"
-  },
-  {
-    "emoji": "🔥",
-    "desc": "fire, passion, determination, burning hope"
-  },
-  {
-    "emoji": "😂",
-    "desc": "tears of joy, laughter, amusement, hilarity"
-  },
-  {
-    "emoji": "🤣",
-    "desc": "rolling laughing, extreme amusement, uncontrollable laughter"
+    "emoji": "😁",
+    "desc": "beaming face with smiling eyes. This emoji represents beaming face with smiling eyes."
   },
   {
     "emoji": "😆",
-    "desc": "grinning squint, amusement, happy laughter"
-  },
-  {
-    "emoji": "🤪",
-    "desc": "zany face, silly playfulness, goofy humor"
-  },
-  {
-    "emoji": "😜",
-    "desc": "winking tongue out, playful teasing, fun"
-  },
-  {
-    "emoji": "😤",
-    "desc": "face with steam, frustration, annoyed, indignant"
-  },
-  {
-    "emoji": "😠",
-    "desc": "angry face, anger, irritation, displeasure"
-  },
-  {
-    "emoji": "💢",
-    "desc": "anger symbol, frustration, irritation, vexation"
-  },
-  {
-    "emoji": "🔴",
-    "desc": "red circle, stop, anger, intense emotion"
-  },
-  {
-    "emoji": "😍",
-    "desc": "heart eyes, adoration, love, admiration"
-  },
-  {
-    "emoji": "🤩",
-    "desc": "star struck, awe, amazement, admiration"
-  },
-  {
-    "emoji": "✨",
-    "desc": "sparkles, wonder, awe, magic feeling"
-  },
-  {
-    "emoji": "👑",
-    "desc": "crown, excellence, admiration, respect"
-  },
-  {
-    "emoji": "😳",
-    "desc": "flushed face, embarrassment, awkward, caught off guard"
-  },
-  {
-    "emoji": "🫣",
-    "desc": "peeking face, embarrassment, shy awkwardness"
+    "desc": "grinning squinting face. This emoji represents grinning squinting face."
   },
   {
     "emoji": "😅",
-    "desc": "sweat smile, nervous laugh, awkward relief"
+    "desc": "grinning face with sweat. This emoji represents grinning face with sweat."
   },
   {
-    "emoji": "🤢",
-    "desc": "nauseated face, disgust, revulsion, sick feeling"
+    "emoji": "🤣",
+    "desc": "rolling on the floor laughing. This emoji represents rolling on the floor laughing."
   },
   {
-    "emoji": "😷",
-    "desc": "medical mask, illness, protection, discomfort"
+    "emoji": "😂",
+    "desc": "face with tears of joy. This emoji represents face with tears of joy."
   },
   {
-    "emoji": "🤮",
-    "desc": "vomiting, extreme disgust, repulsion"
+    "emoji": "🙂",
+    "desc": "slightly smiling face. This emoji represents slightly smiling face."
   },
   {
-    "emoji": "💪",
-    "desc": "flexed bicep, strength, determination, power"
+    "emoji": "🙃",
+    "desc": "upside-down face. This emoji represents upside down face."
   },
   {
-    "emoji": "🔥",
-    "desc": "fire, passion, intense determination, drive"
+    "emoji": "😉",
+    "desc": "winking face. This emoji represents winking face."
   },
   {
-    "emoji": "⚡",
-    "desc": "lightning bolt, energy, power, electric determination"
+    "emoji": "😊",
+    "desc": "smiling face with smiling eyes. This emoji represents smiling face with smiling eyes."
   },
   {
-    "emoji": "🎯",
-    "desc": "bullseye, focus, goal, determination to succeed"
-  },
-  {
-    "emoji": "🤔",
-    "desc": "thinking face, curiosity, contemplation, pondering"
-  },
-  {
-    "emoji": "🔍",
-    "desc": "magnifying glass, curiosity, investigation, wonder"
-  },
-  {
-    "emoji": "❓",
-    "desc": "question mark, curiosity, wonder, inquiry"
-  },
-  {
-    "emoji": "🏆",
-    "desc": "trophy, achievement, pride, success"
-  },
-  {
-    "emoji": "🎖️",
-    "desc": "military medal, honor, pride, achievement"
-  },
-  {
-    "emoji": "💎",
-    "desc": "gem, precious, pride, valuable achievement"
-  },
-  {
-    "emoji": "😨",
-    "desc": "fearful face, fear, dread, terror"
-  },
-  {
-    "emoji": "👻",
-    "desc": "ghost, spooky fear, haunting, dread"
-  },
-  {
-    "emoji": "🕷️",
-    "desc": "spider, creepy fear, unease, dread"
-  },
-  {
-    "emoji": "😲",
-    "desc": "astonished face, surprise, shock, amazement"
-  },
-  {
-    "emoji": "🤯",
-    "desc": "exploding head, mind blown, shock, extreme surprise"
-  },
-  {
-    "emoji": "😮",
-    "desc": "open mouth, surprise, shock, unexpected"
-  },
-  {
-    "emoji": "❤️",
-    "desc": "red heart, love, deep affection, passion"
-  },
-  {
-    "emoji": "💕",
-    "desc": "two hearts, love, romance, affection"
+    "emoji": "😇",
+    "desc": "smiling face with halo. This emoji represents smiling face with halo."
   },
   {
     "emoji": "🥰",
-    "desc": "smiling hearts, love, adoration, warm affection"
+    "desc": "smiling face with hearts. This emoji represents smiling face with hearts."
   },
   {
-    "emoji": "💖",
-    "desc": "sparkling heart, love, affection, excitement"
+    "emoji": "😍",
+    "desc": "smiling face with heart-eyes. This emoji represents smiling face with heart eyes."
   },
   {
-    "emoji": "🤷",
-    "desc": "shrug, resignation, acceptance, indifference"
+    "emoji": "🤩",
+    "desc": "star-struck. This emoji represents star struck."
+  },
+  {
+    "emoji": "😘",
+    "desc": "face blowing a kiss. This emoji represents face blowing a kiss."
+  },
+  {
+    "emoji": "😗",
+    "desc": "kissing face. This emoji represents kissing face."
+  },
+  {
+    "emoji": "☺",
+    "desc": "smiling face. This emoji represents smiling face."
+  },
+  {
+    "emoji": "😚",
+    "desc": "kissing face with closed eyes. This emoji represents kissing face with closed eyes."
+  },
+  {
+    "emoji": "😙",
+    "desc": "kissing face with smiling eyes. This emoji represents kissing face with smiling eyes."
+  },
+  {
+    "emoji": "🥲",
+    "desc": "smiling face with tear. This emoji represents smiling face with tear."
+  },
+  {
+    "emoji": "😋",
+    "desc": "face savoring food. This emoji represents face savoring food."
+  },
+  {
+    "emoji": "😛",
+    "desc": "face with tongue. This emoji represents face with tongue."
+  },
+  {
+    "emoji": "😜",
+    "desc": "winking face with tongue. This emoji represents winking face with tongue."
+  },
+  {
+    "emoji": "🤪",
+    "desc": "zany face. This emoji represents zany face."
+  },
+  {
+    "emoji": "😝",
+    "desc": "squinting face with tongue. This emoji represents squinting face with tongue."
+  },
+  {
+    "emoji": "🤑",
+    "desc": "money-mouth face. This emoji represents money mouth face."
+  },
+  {
+    "emoji": "🤗",
+    "desc": "hugging face. This emoji represents hugging face."
+  },
+  {
+    "emoji": "🤭",
+    "desc": "face with hand over mouth. This emoji represents face with hand over mouth."
+  },
+  {
+    "emoji": "🤫",
+    "desc": "shushing face. This emoji represents shushing face."
+  },
+  {
+    "emoji": "🤔",
+    "desc": "thinking face. This emoji represents thinking face."
+  },
+  {
+    "emoji": "🤐",
+    "desc": "zipper-mouth face. This emoji represents zipper mouth face."
+  },
+  {
+    "emoji": "🤨",
+    "desc": "face with raised eyebrow. This emoji represents face with raised eyebrow."
+  },
+  {
+    "emoji": "😐",
+    "desc": "neutral face. This emoji represents neutral face."
   },
   {
     "emoji": "😑",
-    "desc": "expressionless, resignation, acceptance, neutral"
+    "desc": "expressionless face. This emoji represents expressionless face."
   },
   {
     "emoji": "😶",
-    "desc": "no mouth, speechless resignation, quiet acceptance"
+    "desc": "face without mouth. This emoji represents face without mouth."
+  },
+  {
+    "emoji": "😶‍🌫️",
+    "desc": "⊛ face in clouds. This emoji represents ⊛ face in clouds."
+  },
+  {
+    "emoji": "😏",
+    "desc": "smirking face. This emoji represents smirking face."
+  },
+  {
+    "emoji": "😒",
+    "desc": "unamused face. This emoji represents unamused face."
+  },
+  {
+    "emoji": "🙄",
+    "desc": "face with rolling eyes. This emoji represents face with rolling eyes."
+  },
+  {
+    "emoji": "😬",
+    "desc": "grimacing face. This emoji represents grimacing face."
+  },
+  {
+    "emoji": "😮‍💨",
+    "desc": "⊛ face exhaling. This emoji represents ⊛ face exhaling."
+  },
+  {
+    "emoji": "🤥",
+    "desc": "lying face. This emoji represents lying face."
+  },
+  {
+    "emoji": "😌",
+    "desc": "relieved face. This emoji represents relieved face."
+  },
+  {
+    "emoji": "😔",
+    "desc": "pensive face. This emoji represents pensive face."
+  },
+  {
+    "emoji": "😪",
+    "desc": "sleepy face. This emoji represents sleepy face."
+  },
+  {
+    "emoji": "🤤",
+    "desc": "drooling face. This emoji represents drooling face."
+  },
+  {
+    "emoji": "😴",
+    "desc": "sleeping face. This emoji represents sleeping face."
+  },
+  {
+    "emoji": "😷",
+    "desc": "face with medical mask. This emoji represents face with medical mask."
+  },
+  {
+    "emoji": "🤒",
+    "desc": "face with thermometer. This emoji represents face with thermometer."
+  },
+  {
+    "emoji": "🤕",
+    "desc": "face with head-bandage. This emoji represents face with head bandage."
+  },
+  {
+    "emoji": "🤢",
+    "desc": "nauseated face. This emoji represents nauseated face."
+  },
+  {
+    "emoji": "🤮",
+    "desc": "face vomiting. This emoji represents face vomiting."
+  },
+  {
+    "emoji": "🤧",
+    "desc": "sneezing face. This emoji represents sneezing face."
+  },
+  {
+    "emoji": "🥵",
+    "desc": "hot face. This emoji represents hot face."
+  },
+  {
+    "emoji": "🥶",
+    "desc": "cold face. This emoji represents cold face."
+  },
+  {
+    "emoji": "🥴",
+    "desc": "woozy face. This emoji represents woozy face."
+  },
+  {
+    "emoji": "😵",
+    "desc": "knocked-out face. This emoji represents knocked out face."
+  },
+  {
+    "emoji": "😵‍💫",
+    "desc": "⊛ face with spiral eyes. This emoji represents ⊛ face with spiral eyes."
+  },
+  {
+    "emoji": "🤯",
+    "desc": "exploding head. This emoji represents exploding head."
+  },
+  {
+    "emoji": "🤠",
+    "desc": "cowboy hat face. This emoji represents cowboy hat face."
+  },
+  {
+    "emoji": "🥳",
+    "desc": "partying face. This emoji represents partying face."
+  },
+  {
+    "emoji": "🥸",
+    "desc": "disguised face. This emoji represents disguised face."
+  },
+  {
+    "emoji": "😎",
+    "desc": "smiling face with sunglasses. This emoji represents smiling face with sunglasses."
+  },
+  {
+    "emoji": "🤓",
+    "desc": "nerd face. This emoji represents nerd face."
+  },
+  {
+    "emoji": "🧐",
+    "desc": "face with monocle. This emoji represents face with monocle."
+  },
+  {
+    "emoji": "😕",
+    "desc": "confused face. This emoji represents confused face."
+  },
+  {
+    "emoji": "😟",
+    "desc": "worried face. This emoji represents worried face."
+  },
+  {
+    "emoji": "🙁",
+    "desc": "slightly frowning face. This emoji represents slightly frowning face."
+  },
+  {
+    "emoji": "☹",
+    "desc": "frowning face. This emoji represents frowning face."
+  },
+  {
+    "emoji": "😮",
+    "desc": "face with open mouth. This emoji represents face with open mouth."
+  },
+  {
+    "emoji": "😯",
+    "desc": "hushed face. This emoji represents hushed face."
+  },
+  {
+    "emoji": "😲",
+    "desc": "astonished face. This emoji represents astonished face."
+  },
+  {
+    "emoji": "😳",
+    "desc": "flushed face. This emoji represents flushed face."
+  },
+  {
+    "emoji": "🥺",
+    "desc": "pleading face. This emoji represents pleading face."
+  },
+  {
+    "emoji": "😦",
+    "desc": "frowning face with open mouth. This emoji represents frowning face with open mouth."
+  },
+  {
+    "emoji": "😧",
+    "desc": "anguished face. This emoji represents anguished face."
+  },
+  {
+    "emoji": "😨",
+    "desc": "fearful face. This emoji represents fearful face."
+  },
+  {
+    "emoji": "😰",
+    "desc": "anxious face with sweat. This emoji represents anxious face with sweat."
+  },
+  {
+    "emoji": "😥",
+    "desc": "sad but relieved face. This emoji represents sad but relieved face."
+  },
+  {
+    "emoji": "😢",
+    "desc": "crying face. This emoji represents crying face."
+  },
+  {
+    "emoji": "😭",
+    "desc": "loudly crying face. This emoji represents loudly crying face."
+  },
+  {
+    "emoji": "😱",
+    "desc": "face screaming in fear. This emoji represents face screaming in fear."
+  },
+  {
+    "emoji": "😖",
+    "desc": "confounded face. This emoji represents confounded face."
+  },
+  {
+    "emoji": "😣",
+    "desc": "persevering face. This emoji represents persevering face."
   },
   {
     "emoji": "😞",
-    "desc": "disappointed face, despair, letdown, hopeless"
+    "desc": "disappointed face. This emoji represents disappointed face."
   },
   {
     "emoji": "😓",
-    "desc": "downcast sweat, despair, exhausted, hopeless"
+    "desc": "downcast face with sweat. This emoji represents downcast face with sweat."
   },
   {
-    "emoji": "💧",
-    "desc": "droplet, tears, sadness, despair"
+    "emoji": "😩",
+    "desc": "weary face. This emoji represents weary face."
   },
   {
-    "emoji": "☮️",
-    "desc": "peace symbol, serenity, harmony, tranquility"
+    "emoji": "😫",
+    "desc": "tired face. This emoji represents tired face."
+  },
+  {
+    "emoji": "🥱",
+    "desc": "yawning face. This emoji represents yawning face."
+  },
+  {
+    "emoji": "😤",
+    "desc": "face with steam from nose. This emoji represents face with steam from nose."
+  },
+  {
+    "emoji": "😡",
+    "desc": "pouting face. This emoji represents pouting face."
+  },
+  {
+    "emoji": "😠",
+    "desc": "angry face. This emoji represents angry face."
+  },
+  {
+    "emoji": "🤬",
+    "desc": "face with symbols on mouth. This emoji represents face with symbols on mouth."
+  },
+  {
+    "emoji": "😈",
+    "desc": "smiling face with horns. This emoji represents smiling face with horns."
+  },
+  {
+    "emoji": "👿",
+    "desc": "angry face with horns. This emoji represents angry face with horns."
+  },
+  {
+    "emoji": "💀",
+    "desc": "skull. This emoji represents skull."
+  },
+  {
+    "emoji": "☠",
+    "desc": "skull and crossbones. This emoji represents skull and crossbones."
+  },
+  {
+    "emoji": "💩",
+    "desc": "pile of poo. This emoji represents pile of poo."
+  },
+  {
+    "emoji": "🤡",
+    "desc": "clown face. This emoji represents clown face."
+  },
+  {
+    "emoji": "👹",
+    "desc": "ogre. This emoji represents ogre."
+  },
+  {
+    "emoji": "👺",
+    "desc": "goblin. This emoji represents goblin."
+  },
+  {
+    "emoji": "👻",
+    "desc": "ghost. This emoji represents ghost."
+  },
+  {
+    "emoji": "👽",
+    "desc": "alien. This emoji represents alien."
+  },
+  {
+    "emoji": "👾",
+    "desc": "alien monster. This emoji represents alien monster."
+  },
+  {
+    "emoji": "🤖",
+    "desc": "robot. This emoji represents robot."
+  },
+  {
+    "emoji": "😺",
+    "desc": "grinning cat. This emoji represents grinning cat."
+  },
+  {
+    "emoji": "😸",
+    "desc": "grinning cat with smiling eyes. This emoji represents grinning cat with smiling eyes."
+  },
+  {
+    "emoji": "😹",
+    "desc": "cat with tears of joy. This emoji represents cat with tears of joy."
+  },
+  {
+    "emoji": "😻",
+    "desc": "smiling cat with heart-eyes. This emoji represents smiling cat with heart eyes."
+  },
+  {
+    "emoji": "😼",
+    "desc": "cat with wry smile. This emoji represents cat with wry smile."
+  },
+  {
+    "emoji": "😽",
+    "desc": "kissing cat. This emoji represents kissing cat."
+  },
+  {
+    "emoji": "🙀",
+    "desc": "weary cat. This emoji represents weary cat."
+  },
+  {
+    "emoji": "😿",
+    "desc": "crying cat. This emoji represents crying cat."
+  },
+  {
+    "emoji": "😾",
+    "desc": "pouting cat. This emoji represents pouting cat."
+  },
+  {
+    "emoji": "🙈",
+    "desc": "see-no-evil monkey. This emoji represents see no evil monkey."
+  },
+  {
+    "emoji": "🙉",
+    "desc": "hear-no-evil monkey. This emoji represents hear no evil monkey."
+  },
+  {
+    "emoji": "🙊",
+    "desc": "speak-no-evil monkey. This emoji represents speak no evil monkey."
+  },
+  {
+    "emoji": "💋",
+    "desc": "kiss mark. This emoji represents kiss mark."
+  },
+  {
+    "emoji": "💌",
+    "desc": "love letter. This emoji represents love letter."
+  },
+  {
+    "emoji": "💘",
+    "desc": "heart with arrow. This emoji represents heart with arrow."
+  },
+  {
+    "emoji": "💝",
+    "desc": "heart with ribbon. This emoji represents heart with ribbon."
+  },
+  {
+    "emoji": "💖",
+    "desc": "sparkling heart. This emoji represents sparkling heart."
+  },
+  {
+    "emoji": "💗",
+    "desc": "growing heart. This emoji represents growing heart."
+  },
+  {
+    "emoji": "💓",
+    "desc": "beating heart. This emoji represents beating heart."
+  },
+  {
+    "emoji": "💞",
+    "desc": "revolving hearts. This emoji represents revolving hearts."
+  },
+  {
+    "emoji": "💕",
+    "desc": "two hearts. This emoji represents two hearts."
+  },
+  {
+    "emoji": "💟",
+    "desc": "heart decoration. This emoji represents heart decoration."
+  },
+  {
+    "emoji": "❣",
+    "desc": "heart exclamation. This emoji represents heart exclamation."
+  },
+  {
+    "emoji": "💔",
+    "desc": "broken heart. This emoji represents broken heart."
+  },
+  {
+    "emoji": "❤️‍🔥",
+    "desc": "⊛ heart on fire. This emoji represents ⊛ heart on fire."
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "desc": "⊛ mending heart. This emoji represents ⊛ mending heart."
+  },
+  {
+    "emoji": "❤",
+    "desc": "red heart. This emoji represents red heart."
+  },
+  {
+    "emoji": "🧡",
+    "desc": "orange heart. This emoji represents orange heart."
+  },
+  {
+    "emoji": "💛",
+    "desc": "yellow heart. This emoji represents yellow heart."
+  },
+  {
+    "emoji": "💚",
+    "desc": "green heart. This emoji represents green heart."
+  },
+  {
+    "emoji": "💙",
+    "desc": "blue heart. This emoji represents blue heart."
+  },
+  {
+    "emoji": "💜",
+    "desc": "purple heart. This emoji represents purple heart."
+  },
+  {
+    "emoji": "🤎",
+    "desc": "brown heart. This emoji represents brown heart."
+  },
+  {
+    "emoji": "🖤",
+    "desc": "black heart. This emoji represents black heart."
+  },
+  {
+    "emoji": "🤍",
+    "desc": "white heart. This emoji represents white heart."
+  },
+  {
+    "emoji": "💯",
+    "desc": "hundred points. This emoji represents hundred points."
+  },
+  {
+    "emoji": "💢",
+    "desc": "anger symbol. This emoji represents anger symbol."
+  },
+  {
+    "emoji": "💥",
+    "desc": "collision. This emoji represents collision."
+  },
+  {
+    "emoji": "💫",
+    "desc": "dizzy. This emoji represents dizzy."
+  },
+  {
+    "emoji": "💦",
+    "desc": "sweat droplets. This emoji represents sweat droplets."
+  },
+  {
+    "emoji": "💨",
+    "desc": "dashing away. This emoji represents dashing away."
+  },
+  {
+    "emoji": "🕳",
+    "desc": "hole. This emoji represents hole."
+  },
+  {
+    "emoji": "💣",
+    "desc": "bomb. This emoji represents bomb."
+  },
+  {
+    "emoji": "💬",
+    "desc": "speech balloon. This emoji represents speech balloon."
+  },
+  {
+    "emoji": "👁️‍🗨️",
+    "desc": "eye in speech bubble. This emoji represents eye in speech bubble."
+  },
+  {
+    "emoji": "🗨",
+    "desc": "left speech bubble. This emoji represents left speech bubble."
+  },
+  {
+    "emoji": "🗯",
+    "desc": "right anger bubble. This emoji represents right anger bubble."
+  },
+  {
+    "emoji": "💭",
+    "desc": "thought balloon. This emoji represents thought balloon."
+  },
+  {
+    "emoji": "💤",
+    "desc": "zzz. This emoji represents zzz."
+  },
+  {
+    "emoji": "👋",
+    "desc": "waving hand. This emoji represents waving hand."
+  },
+  {
+    "emoji": "🤚",
+    "desc": "raised back of hand. This emoji represents raised back of hand."
+  },
+  {
+    "emoji": "🖐",
+    "desc": "hand with fingers splayed. This emoji represents hand with fingers splayed."
+  },
+  {
+    "emoji": "✋",
+    "desc": "raised hand. This emoji represents raised hand."
+  },
+  {
+    "emoji": "🖖",
+    "desc": "vulcan salute. This emoji represents vulcan salute."
+  },
+  {
+    "emoji": "👌",
+    "desc": "OK hand. This emoji represents OK hand."
+  },
+  {
+    "emoji": "🤌",
+    "desc": "pinched fingers. This emoji represents pinched fingers."
+  },
+  {
+    "emoji": "🤏",
+    "desc": "pinching hand. This emoji represents pinching hand."
+  },
+  {
+    "emoji": "✌",
+    "desc": "victory hand. This emoji represents victory hand."
+  },
+  {
+    "emoji": "🤞",
+    "desc": "crossed fingers. This emoji represents crossed fingers."
+  },
+  {
+    "emoji": "🤟",
+    "desc": "love-you gesture. This emoji represents love you gesture."
+  },
+  {
+    "emoji": "🤘",
+    "desc": "sign of the horns. This emoji represents sign of the horns."
+  },
+  {
+    "emoji": "🤙",
+    "desc": "call me hand. This emoji represents call me hand."
+  },
+  {
+    "emoji": "👈",
+    "desc": "backhand index pointing left. This emoji represents backhand index pointing left."
+  },
+  {
+    "emoji": "👉",
+    "desc": "backhand index pointing right. This emoji represents backhand index pointing right."
+  },
+  {
+    "emoji": "👆",
+    "desc": "backhand index pointing up. This emoji represents backhand index pointing up."
+  },
+  {
+    "emoji": "🖕",
+    "desc": "middle finger. This emoji represents middle finger."
+  },
+  {
+    "emoji": "👇",
+    "desc": "backhand index pointing down. This emoji represents backhand index pointing down."
+  },
+  {
+    "emoji": "☝",
+    "desc": "index pointing up. This emoji represents index pointing up."
+  },
+  {
+    "emoji": "👍",
+    "desc": "thumbs up. This emoji represents thumbs up."
+  },
+  {
+    "emoji": "👎",
+    "desc": "thumbs down. This emoji represents thumbs down."
+  },
+  {
+    "emoji": "✊",
+    "desc": "raised fist. This emoji represents raised fist."
+  },
+  {
+    "emoji": "👊",
+    "desc": "oncoming fist. This emoji represents oncoming fist."
+  },
+  {
+    "emoji": "🤛",
+    "desc": "left-facing fist. This emoji represents left facing fist."
+  },
+  {
+    "emoji": "🤜",
+    "desc": "right-facing fist. This emoji represents right facing fist."
+  },
+  {
+    "emoji": "👏",
+    "desc": "clapping hands. This emoji represents clapping hands."
+  },
+  {
+    "emoji": "🙌",
+    "desc": "raising hands. This emoji represents raising hands."
+  },
+  {
+    "emoji": "👐",
+    "desc": "open hands. This emoji represents open hands."
+  },
+  {
+    "emoji": "🤲",
+    "desc": "palms up together. This emoji represents palms up together."
+  },
+  {
+    "emoji": "🤝",
+    "desc": "handshake. This emoji represents handshake."
+  },
+  {
+    "emoji": "🙏",
+    "desc": "folded hands. This emoji represents folded hands."
+  },
+  {
+    "emoji": "✍",
+    "desc": "writing hand. This emoji represents writing hand."
+  },
+  {
+    "emoji": "💅",
+    "desc": "nail polish. This emoji represents nail polish."
+  },
+  {
+    "emoji": "🤳",
+    "desc": "selfie. This emoji represents selfie."
+  },
+  {
+    "emoji": "💪",
+    "desc": "flexed biceps. This emoji represents flexed biceps."
+  },
+  {
+    "emoji": "🦾",
+    "desc": "mechanical arm. This emoji represents mechanical arm."
+  },
+  {
+    "emoji": "🦿",
+    "desc": "mechanical leg. This emoji represents mechanical leg."
+  },
+  {
+    "emoji": "🦵",
+    "desc": "leg. This emoji represents leg."
+  },
+  {
+    "emoji": "🦶",
+    "desc": "foot. This emoji represents foot."
+  },
+  {
+    "emoji": "👂",
+    "desc": "ear. This emoji represents ear."
+  },
+  {
+    "emoji": "🦻",
+    "desc": "ear with hearing aid. This emoji represents ear with hearing aid."
+  },
+  {
+    "emoji": "👃",
+    "desc": "nose. This emoji represents nose."
+  },
+  {
+    "emoji": "🧠",
+    "desc": "brain. This emoji represents brain."
+  },
+  {
+    "emoji": "🫀",
+    "desc": "anatomical heart. This emoji represents anatomical heart."
+  },
+  {
+    "emoji": "🫁",
+    "desc": "lungs. This emoji represents lungs."
+  },
+  {
+    "emoji": "🦷",
+    "desc": "tooth. This emoji represents tooth."
+  },
+  {
+    "emoji": "🦴",
+    "desc": "bone. This emoji represents bone."
+  },
+  {
+    "emoji": "👀",
+    "desc": "eyes. This emoji represents eyes."
+  },
+  {
+    "emoji": "👁",
+    "desc": "eye. This emoji represents eye."
+  },
+  {
+    "emoji": "👅",
+    "desc": "tongue. This emoji represents tongue."
+  },
+  {
+    "emoji": "👄",
+    "desc": "mouth. This emoji represents mouth."
+  },
+  {
+    "emoji": "👶",
+    "desc": "baby. This emoji represents baby."
+  },
+  {
+    "emoji": "🧒",
+    "desc": "child. This emoji represents child."
+  },
+  {
+    "emoji": "👦",
+    "desc": "boy. This emoji represents boy."
+  },
+  {
+    "emoji": "👧",
+    "desc": "girl. This emoji represents girl."
+  },
+  {
+    "emoji": "🧑",
+    "desc": "person. This emoji represents person."
+  },
+  {
+    "emoji": "👱",
+    "desc": "person: blond hair. This emoji represents person: blond hair."
+  },
+  {
+    "emoji": "👨",
+    "desc": "man. This emoji represents man."
+  },
+  {
+    "emoji": "🧔",
+    "desc": "person: beard. This emoji represents person: beard."
+  },
+  {
+    "emoji": "🧔‍♂️",
+    "desc": "⊛ man: beard. This emoji represents ⊛ man: beard."
+  },
+  {
+    "emoji": "🧔‍♀️",
+    "desc": "⊛ woman: beard. This emoji represents ⊛ woman: beard."
+  },
+  {
+    "emoji": "👨‍🦰",
+    "desc": "man: red hair. This emoji represents man: red hair."
+  },
+  {
+    "emoji": "👨‍🦱",
+    "desc": "man: curly hair. This emoji represents man: curly hair."
+  },
+  {
+    "emoji": "👨‍🦳",
+    "desc": "man: white hair. This emoji represents man: white hair."
+  },
+  {
+    "emoji": "👨‍🦲",
+    "desc": "man: bald. This emoji represents man: bald."
+  },
+  {
+    "emoji": "👩",
+    "desc": "woman. This emoji represents woman."
+  },
+  {
+    "emoji": "👩‍🦰",
+    "desc": "woman: red hair. This emoji represents woman: red hair."
+  },
+  {
+    "emoji": "🧑‍🦰",
+    "desc": "person: red hair. This emoji represents person: red hair."
+  },
+  {
+    "emoji": "👩‍🦱",
+    "desc": "woman: curly hair. This emoji represents woman: curly hair."
+  },
+  {
+    "emoji": "🧑‍🦱",
+    "desc": "person: curly hair. This emoji represents person: curly hair."
+  },
+  {
+    "emoji": "👩‍🦳",
+    "desc": "woman: white hair. This emoji represents woman: white hair."
+  },
+  {
+    "emoji": "🧑‍🦳",
+    "desc": "person: white hair. This emoji represents person: white hair."
+  },
+  {
+    "emoji": "👩‍🦲",
+    "desc": "woman: bald. This emoji represents woman: bald."
+  },
+  {
+    "emoji": "🧑‍🦲",
+    "desc": "person: bald. This emoji represents person: bald."
+  },
+  {
+    "emoji": "👱‍♀️",
+    "desc": "woman: blond hair. This emoji represents woman: blond hair."
+  },
+  {
+    "emoji": "👱‍♂️",
+    "desc": "man: blond hair. This emoji represents man: blond hair."
+  },
+  {
+    "emoji": "🧓",
+    "desc": "older person. This emoji represents older person."
+  },
+  {
+    "emoji": "👴",
+    "desc": "old man. This emoji represents old man."
+  },
+  {
+    "emoji": "👵",
+    "desc": "old woman. This emoji represents old woman."
+  },
+  {
+    "emoji": "🙍",
+    "desc": "person frowning. This emoji represents person frowning."
+  },
+  {
+    "emoji": "🙍‍♂️",
+    "desc": "man frowning. This emoji represents man frowning."
+  },
+  {
+    "emoji": "🙍‍♀️",
+    "desc": "woman frowning. This emoji represents woman frowning."
+  },
+  {
+    "emoji": "🙎",
+    "desc": "person pouting. This emoji represents person pouting."
+  },
+  {
+    "emoji": "🙎‍♂️",
+    "desc": "man pouting. This emoji represents man pouting."
+  },
+  {
+    "emoji": "🙎‍♀️",
+    "desc": "woman pouting. This emoji represents woman pouting."
+  },
+  {
+    "emoji": "🙅",
+    "desc": "person gesturing NO. This emoji represents person gesturing NO."
+  },
+  {
+    "emoji": "🙅‍♂️",
+    "desc": "man gesturing NO. This emoji represents man gesturing NO."
+  },
+  {
+    "emoji": "🙅‍♀️",
+    "desc": "woman gesturing NO. This emoji represents woman gesturing NO."
+  },
+  {
+    "emoji": "🙆",
+    "desc": "person gesturing OK. This emoji represents person gesturing OK."
+  },
+  {
+    "emoji": "🙆‍♂️",
+    "desc": "man gesturing OK. This emoji represents man gesturing OK."
+  },
+  {
+    "emoji": "🙆‍♀️",
+    "desc": "woman gesturing OK. This emoji represents woman gesturing OK."
+  },
+  {
+    "emoji": "💁",
+    "desc": "person tipping hand. This emoji represents person tipping hand."
+  },
+  {
+    "emoji": "💁‍♂️",
+    "desc": "man tipping hand. This emoji represents man tipping hand."
+  },
+  {
+    "emoji": "💁‍♀️",
+    "desc": "woman tipping hand. This emoji represents woman tipping hand."
+  },
+  {
+    "emoji": "🙋",
+    "desc": "person raising hand. This emoji represents person raising hand."
+  },
+  {
+    "emoji": "🙋‍♂️",
+    "desc": "man raising hand. This emoji represents man raising hand."
+  },
+  {
+    "emoji": "🙋‍♀️",
+    "desc": "woman raising hand. This emoji represents woman raising hand."
+  },
+  {
+    "emoji": "🧏",
+    "desc": "deaf person. This emoji represents deaf person."
+  },
+  {
+    "emoji": "🧏‍♂️",
+    "desc": "deaf man. This emoji represents deaf man."
+  },
+  {
+    "emoji": "🧏‍♀️",
+    "desc": "deaf woman. This emoji represents deaf woman."
+  },
+  {
+    "emoji": "🙇",
+    "desc": "person bowing. This emoji represents person bowing."
+  },
+  {
+    "emoji": "🙇‍♂️",
+    "desc": "man bowing. This emoji represents man bowing."
+  },
+  {
+    "emoji": "🙇‍♀️",
+    "desc": "woman bowing. This emoji represents woman bowing."
+  },
+  {
+    "emoji": "🤦",
+    "desc": "person facepalming. This emoji represents person facepalming."
+  },
+  {
+    "emoji": "🤦‍♂️",
+    "desc": "man facepalming. This emoji represents man facepalming."
+  },
+  {
+    "emoji": "🤦‍♀️",
+    "desc": "woman facepalming. This emoji represents woman facepalming."
+  },
+  {
+    "emoji": "🤷",
+    "desc": "person shrugging. This emoji represents person shrugging."
+  },
+  {
+    "emoji": "🤷‍♂️",
+    "desc": "man shrugging. This emoji represents man shrugging."
+  },
+  {
+    "emoji": "🤷‍♀️",
+    "desc": "woman shrugging. This emoji represents woman shrugging."
+  },
+  {
+    "emoji": "🧑‍⚕️",
+    "desc": "health worker. This emoji represents health worker."
+  },
+  {
+    "emoji": "👨‍⚕️",
+    "desc": "man health worker. This emoji represents man health worker."
+  },
+  {
+    "emoji": "👩‍⚕️",
+    "desc": "woman health worker. This emoji represents woman health worker."
+  },
+  {
+    "emoji": "🧑‍🎓",
+    "desc": "student. This emoji represents student."
+  },
+  {
+    "emoji": "👨‍🎓",
+    "desc": "man student. This emoji represents man student."
+  },
+  {
+    "emoji": "👩‍🎓",
+    "desc": "woman student. This emoji represents woman student."
+  },
+  {
+    "emoji": "🧑‍🏫",
+    "desc": "teacher. This emoji represents teacher."
+  },
+  {
+    "emoji": "👨‍🏫",
+    "desc": "man teacher. This emoji represents man teacher."
+  },
+  {
+    "emoji": "👩‍🏫",
+    "desc": "woman teacher. This emoji represents woman teacher."
+  },
+  {
+    "emoji": "🧑‍⚖️",
+    "desc": "judge. This emoji represents judge."
+  },
+  {
+    "emoji": "👨‍⚖️",
+    "desc": "man judge. This emoji represents man judge."
+  },
+  {
+    "emoji": "👩‍⚖️",
+    "desc": "woman judge. This emoji represents woman judge."
+  },
+  {
+    "emoji": "🧑‍🌾",
+    "desc": "farmer. This emoji represents farmer."
+  },
+  {
+    "emoji": "👨‍🌾",
+    "desc": "man farmer. This emoji represents man farmer."
+  },
+  {
+    "emoji": "👩‍🌾",
+    "desc": "woman farmer. This emoji represents woman farmer."
+  },
+  {
+    "emoji": "🧑‍🍳",
+    "desc": "cook. This emoji represents cook."
+  },
+  {
+    "emoji": "👨‍🍳",
+    "desc": "man cook. This emoji represents man cook."
+  },
+  {
+    "emoji": "👩‍🍳",
+    "desc": "woman cook. This emoji represents woman cook."
+  },
+  {
+    "emoji": "🧑‍🔧",
+    "desc": "mechanic. This emoji represents mechanic."
+  },
+  {
+    "emoji": "👨‍🔧",
+    "desc": "man mechanic. This emoji represents man mechanic."
+  },
+  {
+    "emoji": "👩‍🔧",
+    "desc": "woman mechanic. This emoji represents woman mechanic."
+  },
+  {
+    "emoji": "🧑‍🏭",
+    "desc": "factory worker. This emoji represents factory worker."
+  },
+  {
+    "emoji": "👨‍🏭",
+    "desc": "man factory worker. This emoji represents man factory worker."
+  },
+  {
+    "emoji": "👩‍🏭",
+    "desc": "woman factory worker. This emoji represents woman factory worker."
+  },
+  {
+    "emoji": "🧑‍💼",
+    "desc": "office worker. This emoji represents office worker."
+  },
+  {
+    "emoji": "👨‍💼",
+    "desc": "man office worker. This emoji represents man office worker."
+  },
+  {
+    "emoji": "👩‍💼",
+    "desc": "woman office worker. This emoji represents woman office worker."
+  },
+  {
+    "emoji": "🧑‍🔬",
+    "desc": "scientist. This emoji represents scientist."
+  },
+  {
+    "emoji": "👨‍🔬",
+    "desc": "man scientist. This emoji represents man scientist."
+  },
+  {
+    "emoji": "👩‍🔬",
+    "desc": "woman scientist. This emoji represents woman scientist."
+  },
+  {
+    "emoji": "🧑‍💻",
+    "desc": "technologist. This emoji represents technologist."
+  },
+  {
+    "emoji": "👨‍💻",
+    "desc": "man technologist. This emoji represents man technologist."
+  },
+  {
+    "emoji": "👩‍💻",
+    "desc": "woman technologist. This emoji represents woman technologist."
+  },
+  {
+    "emoji": "🧑‍🎤",
+    "desc": "singer. This emoji represents singer."
+  },
+  {
+    "emoji": "👨‍🎤",
+    "desc": "man singer. This emoji represents man singer."
+  },
+  {
+    "emoji": "👩‍🎤",
+    "desc": "woman singer. This emoji represents woman singer."
+  },
+  {
+    "emoji": "🧑‍🎨",
+    "desc": "artist. This emoji represents artist."
+  },
+  {
+    "emoji": "👨‍🎨",
+    "desc": "man artist. This emoji represents man artist."
+  },
+  {
+    "emoji": "👩‍🎨",
+    "desc": "woman artist. This emoji represents woman artist."
+  },
+  {
+    "emoji": "🧑‍✈️",
+    "desc": "pilot. This emoji represents pilot."
+  },
+  {
+    "emoji": "👨‍✈️",
+    "desc": "man pilot. This emoji represents man pilot."
+  },
+  {
+    "emoji": "👩‍✈️",
+    "desc": "woman pilot. This emoji represents woman pilot."
+  },
+  {
+    "emoji": "🧑‍🚀",
+    "desc": "astronaut. This emoji represents astronaut."
+  },
+  {
+    "emoji": "👨‍🚀",
+    "desc": "man astronaut. This emoji represents man astronaut."
+  },
+  {
+    "emoji": "👩‍🚀",
+    "desc": "woman astronaut. This emoji represents woman astronaut."
+  },
+  {
+    "emoji": "🧑‍🚒",
+    "desc": "firefighter. This emoji represents firefighter."
+  },
+  {
+    "emoji": "👨‍🚒",
+    "desc": "man firefighter. This emoji represents man firefighter."
+  },
+  {
+    "emoji": "👩‍🚒",
+    "desc": "woman firefighter. This emoji represents woman firefighter."
+  },
+  {
+    "emoji": "👮",
+    "desc": "police officer. This emoji represents police officer."
+  },
+  {
+    "emoji": "👮‍♂️",
+    "desc": "man police officer. This emoji represents man police officer."
+  },
+  {
+    "emoji": "👮‍♀️",
+    "desc": "woman police officer. This emoji represents woman police officer."
+  },
+  {
+    "emoji": "🕵",
+    "desc": "detective. This emoji represents detective."
+  },
+  {
+    "emoji": "🕵️‍♂️",
+    "desc": "man detective. This emoji represents man detective."
+  },
+  {
+    "emoji": "🕵️‍♀️",
+    "desc": "woman detective. This emoji represents woman detective."
+  },
+  {
+    "emoji": "💂",
+    "desc": "guard. This emoji represents guard."
+  },
+  {
+    "emoji": "💂‍♂️",
+    "desc": "man guard. This emoji represents man guard."
+  },
+  {
+    "emoji": "💂‍♀️",
+    "desc": "woman guard. This emoji represents woman guard."
+  },
+  {
+    "emoji": "🥷",
+    "desc": "ninja. This emoji represents ninja."
+  },
+  {
+    "emoji": "👷",
+    "desc": "construction worker. This emoji represents construction worker."
+  },
+  {
+    "emoji": "👷‍♂️",
+    "desc": "man construction worker. This emoji represents man construction worker."
+  },
+  {
+    "emoji": "👷‍♀️",
+    "desc": "woman construction worker. This emoji represents woman construction worker."
+  },
+  {
+    "emoji": "🤴",
+    "desc": "prince. This emoji represents prince."
+  },
+  {
+    "emoji": "👸",
+    "desc": "princess. This emoji represents princess."
+  },
+  {
+    "emoji": "👳",
+    "desc": "person wearing turban. This emoji represents person wearing turban."
+  },
+  {
+    "emoji": "👳‍♂️",
+    "desc": "man wearing turban. This emoji represents man wearing turban."
+  },
+  {
+    "emoji": "👳‍♀️",
+    "desc": "woman wearing turban. This emoji represents woman wearing turban."
+  },
+  {
+    "emoji": "👲",
+    "desc": "person with skullcap. This emoji represents person with skullcap."
+  },
+  {
+    "emoji": "🧕",
+    "desc": "woman with headscarf. This emoji represents woman with headscarf."
+  },
+  {
+    "emoji": "🤵",
+    "desc": "person in tuxedo. This emoji represents person in tuxedo."
+  },
+  {
+    "emoji": "🤵‍♂️",
+    "desc": "man in tuxedo. This emoji represents man in tuxedo."
+  },
+  {
+    "emoji": "🤵‍♀️",
+    "desc": "woman in tuxedo. This emoji represents woman in tuxedo."
+  },
+  {
+    "emoji": "👰",
+    "desc": "person with veil. This emoji represents person with veil."
+  },
+  {
+    "emoji": "👰‍♂️",
+    "desc": "man with veil. This emoji represents man with veil."
+  },
+  {
+    "emoji": "👰‍♀️",
+    "desc": "woman with veil. This emoji represents woman with veil."
+  },
+  {
+    "emoji": "🤰",
+    "desc": "pregnant woman. This emoji represents pregnant woman."
+  },
+  {
+    "emoji": "🤱",
+    "desc": "breast-feeding. This emoji represents breast feeding."
+  },
+  {
+    "emoji": "👩‍🍼",
+    "desc": "woman feeding baby. This emoji represents woman feeding baby."
+  },
+  {
+    "emoji": "👨‍🍼",
+    "desc": "man feeding baby. This emoji represents man feeding baby."
+  },
+  {
+    "emoji": "🧑‍🍼",
+    "desc": "person feeding baby. This emoji represents person feeding baby."
+  },
+  {
+    "emoji": "👼",
+    "desc": "baby angel. This emoji represents baby angel."
+  },
+  {
+    "emoji": "🎅",
+    "desc": "Santa Claus. This emoji represents Santa Claus."
+  },
+  {
+    "emoji": "🤶",
+    "desc": "Mrs. Claus. This emoji represents Mrs. Claus."
+  },
+  {
+    "emoji": "🧑‍🎄",
+    "desc": "mx claus. This emoji represents mx claus."
+  },
+  {
+    "emoji": "🦸",
+    "desc": "superhero. This emoji represents superhero."
+  },
+  {
+    "emoji": "🦸‍♂️",
+    "desc": "man superhero. This emoji represents man superhero."
+  },
+  {
+    "emoji": "🦸‍♀️",
+    "desc": "woman superhero. This emoji represents woman superhero."
+  },
+  {
+    "emoji": "🦹",
+    "desc": "supervillain. This emoji represents supervillain."
+  },
+  {
+    "emoji": "🦹‍♂️",
+    "desc": "man supervillain. This emoji represents man supervillain."
+  },
+  {
+    "emoji": "🦹‍♀️",
+    "desc": "woman supervillain. This emoji represents woman supervillain."
+  },
+  {
+    "emoji": "🧙",
+    "desc": "mage. This emoji represents mage."
+  },
+  {
+    "emoji": "🧙‍♂️",
+    "desc": "man mage. This emoji represents man mage."
+  },
+  {
+    "emoji": "🧙‍♀️",
+    "desc": "woman mage. This emoji represents woman mage."
+  },
+  {
+    "emoji": "🧚",
+    "desc": "fairy. This emoji represents fairy."
+  },
+  {
+    "emoji": "🧚‍♂️",
+    "desc": "man fairy. This emoji represents man fairy."
+  },
+  {
+    "emoji": "🧚‍♀️",
+    "desc": "woman fairy. This emoji represents woman fairy."
+  },
+  {
+    "emoji": "🧛",
+    "desc": "vampire. This emoji represents vampire."
+  },
+  {
+    "emoji": "🧛‍♂️",
+    "desc": "man vampire. This emoji represents man vampire."
+  },
+  {
+    "emoji": "🧛‍♀️",
+    "desc": "woman vampire. This emoji represents woman vampire."
+  },
+  {
+    "emoji": "🧜",
+    "desc": "merperson. This emoji represents merperson."
+  },
+  {
+    "emoji": "🧜‍♂️",
+    "desc": "merman. This emoji represents merman."
+  },
+  {
+    "emoji": "🧜‍♀️",
+    "desc": "mermaid. This emoji represents mermaid."
+  },
+  {
+    "emoji": "🧝",
+    "desc": "elf. This emoji represents elf."
+  },
+  {
+    "emoji": "🧝‍♂️",
+    "desc": "man elf. This emoji represents man elf."
+  },
+  {
+    "emoji": "🧝‍♀️",
+    "desc": "woman elf. This emoji represents woman elf."
+  },
+  {
+    "emoji": "🧞",
+    "desc": "genie. This emoji represents genie."
+  },
+  {
+    "emoji": "🧞‍♂️",
+    "desc": "man genie. This emoji represents man genie."
+  },
+  {
+    "emoji": "🧞‍♀️",
+    "desc": "woman genie. This emoji represents woman genie."
+  },
+  {
+    "emoji": "🧟",
+    "desc": "zombie. This emoji represents zombie."
+  },
+  {
+    "emoji": "🧟‍♂️",
+    "desc": "man zombie. This emoji represents man zombie."
+  },
+  {
+    "emoji": "🧟‍♀️",
+    "desc": "woman zombie. This emoji represents woman zombie."
+  },
+  {
+    "emoji": "💆",
+    "desc": "person getting massage. This emoji represents person getting massage."
+  },
+  {
+    "emoji": "💆‍♂️",
+    "desc": "man getting massage. This emoji represents man getting massage."
+  },
+  {
+    "emoji": "💆‍♀️",
+    "desc": "woman getting massage. This emoji represents woman getting massage."
+  },
+  {
+    "emoji": "💇",
+    "desc": "person getting haircut. This emoji represents person getting haircut."
+  },
+  {
+    "emoji": "💇‍♂️",
+    "desc": "man getting haircut. This emoji represents man getting haircut."
+  },
+  {
+    "emoji": "💇‍♀️",
+    "desc": "woman getting haircut. This emoji represents woman getting haircut."
+  },
+  {
+    "emoji": "🚶",
+    "desc": "person walking. This emoji represents person walking."
+  },
+  {
+    "emoji": "🚶‍♂️",
+    "desc": "man walking. This emoji represents man walking."
+  },
+  {
+    "emoji": "🚶‍♀️",
+    "desc": "woman walking. This emoji represents woman walking."
+  },
+  {
+    "emoji": "🧍",
+    "desc": "person standing. This emoji represents person standing."
+  },
+  {
+    "emoji": "🧍‍♂️",
+    "desc": "man standing. This emoji represents man standing."
+  },
+  {
+    "emoji": "🧍‍♀️",
+    "desc": "woman standing. This emoji represents woman standing."
+  },
+  {
+    "emoji": "🧎",
+    "desc": "person kneeling. This emoji represents person kneeling."
+  },
+  {
+    "emoji": "🧎‍♂️",
+    "desc": "man kneeling. This emoji represents man kneeling."
+  },
+  {
+    "emoji": "🧎‍♀️",
+    "desc": "woman kneeling. This emoji represents woman kneeling."
+  },
+  {
+    "emoji": "🧑‍🦯",
+    "desc": "person with white cane. This emoji represents person with white cane."
+  },
+  {
+    "emoji": "👨‍🦯",
+    "desc": "man with white cane. This emoji represents man with white cane."
+  },
+  {
+    "emoji": "👩‍🦯",
+    "desc": "woman with white cane. This emoji represents woman with white cane."
+  },
+  {
+    "emoji": "🧑‍🦼",
+    "desc": "person in motorized wheelchair. This emoji represents person in motorized wheelchair."
+  },
+  {
+    "emoji": "👨‍🦼",
+    "desc": "man in motorized wheelchair. This emoji represents man in motorized wheelchair."
+  },
+  {
+    "emoji": "👩‍🦼",
+    "desc": "woman in motorized wheelchair. This emoji represents woman in motorized wheelchair."
+  },
+  {
+    "emoji": "🧑‍🦽",
+    "desc": "person in manual wheelchair. This emoji represents person in manual wheelchair."
+  },
+  {
+    "emoji": "👨‍🦽",
+    "desc": "man in manual wheelchair. This emoji represents man in manual wheelchair."
+  },
+  {
+    "emoji": "👩‍🦽",
+    "desc": "woman in manual wheelchair. This emoji represents woman in manual wheelchair."
+  },
+  {
+    "emoji": "🏃",
+    "desc": "person running. This emoji represents person running."
+  },
+  {
+    "emoji": "🏃‍♂️",
+    "desc": "man running. This emoji represents man running."
+  },
+  {
+    "emoji": "🏃‍♀️",
+    "desc": "woman running. This emoji represents woman running."
+  },
+  {
+    "emoji": "💃",
+    "desc": "woman dancing. This emoji represents woman dancing."
+  },
+  {
+    "emoji": "🕺",
+    "desc": "man dancing. This emoji represents man dancing."
+  },
+  {
+    "emoji": "🕴",
+    "desc": "person in suit levitating. This emoji represents person in suit levitating."
+  },
+  {
+    "emoji": "👯",
+    "desc": "people with bunny ears. This emoji represents people with bunny ears."
+  },
+  {
+    "emoji": "👯‍♂️",
+    "desc": "men with bunny ears. This emoji represents men with bunny ears."
+  },
+  {
+    "emoji": "👯‍♀️",
+    "desc": "women with bunny ears. This emoji represents women with bunny ears."
+  },
+  {
+    "emoji": "🧖",
+    "desc": "person in steamy room. This emoji represents person in steamy room."
+  },
+  {
+    "emoji": "🧖‍♂️",
+    "desc": "man in steamy room. This emoji represents man in steamy room."
+  },
+  {
+    "emoji": "🧖‍♀️",
+    "desc": "woman in steamy room. This emoji represents woman in steamy room."
+  },
+  {
+    "emoji": "🧗",
+    "desc": "person climbing. This emoji represents person climbing."
+  },
+  {
+    "emoji": "🧗‍♂️",
+    "desc": "man climbing. This emoji represents man climbing."
+  },
+  {
+    "emoji": "🧗‍♀️",
+    "desc": "woman climbing. This emoji represents woman climbing."
+  },
+  {
+    "emoji": "🤺",
+    "desc": "person fencing. This emoji represents person fencing."
+  },
+  {
+    "emoji": "🏇",
+    "desc": "horse racing. This emoji represents horse racing."
+  },
+  {
+    "emoji": "⛷",
+    "desc": "skier. This emoji represents skier."
+  },
+  {
+    "emoji": "🏂",
+    "desc": "snowboarder. This emoji represents snowboarder."
+  },
+  {
+    "emoji": "🏌",
+    "desc": "person golfing. This emoji represents person golfing."
+  },
+  {
+    "emoji": "🏌️‍♂️",
+    "desc": "man golfing. This emoji represents man golfing."
+  },
+  {
+    "emoji": "🏌️‍♀️",
+    "desc": "woman golfing. This emoji represents woman golfing."
+  },
+  {
+    "emoji": "🏄",
+    "desc": "person surfing. This emoji represents person surfing."
+  },
+  {
+    "emoji": "🏄‍♂️",
+    "desc": "man surfing. This emoji represents man surfing."
+  },
+  {
+    "emoji": "🏄‍♀️",
+    "desc": "woman surfing. This emoji represents woman surfing."
+  },
+  {
+    "emoji": "🚣",
+    "desc": "person rowing boat. This emoji represents person rowing boat."
+  },
+  {
+    "emoji": "🚣‍♂️",
+    "desc": "man rowing boat. This emoji represents man rowing boat."
+  },
+  {
+    "emoji": "🚣‍♀️",
+    "desc": "woman rowing boat. This emoji represents woman rowing boat."
+  },
+  {
+    "emoji": "🏊",
+    "desc": "person swimming. This emoji represents person swimming."
+  },
+  {
+    "emoji": "🏊‍♂️",
+    "desc": "man swimming. This emoji represents man swimming."
+  },
+  {
+    "emoji": "🏊‍♀️",
+    "desc": "woman swimming. This emoji represents woman swimming."
+  },
+  {
+    "emoji": "⛹",
+    "desc": "person bouncing ball. This emoji represents person bouncing ball."
+  },
+  {
+    "emoji": "⛹️‍♂️",
+    "desc": "man bouncing ball. This emoji represents man bouncing ball."
+  },
+  {
+    "emoji": "⛹️‍♀️",
+    "desc": "woman bouncing ball. This emoji represents woman bouncing ball."
+  },
+  {
+    "emoji": "🏋",
+    "desc": "person lifting weights. This emoji represents person lifting weights."
+  },
+  {
+    "emoji": "🏋️‍♂️",
+    "desc": "man lifting weights. This emoji represents man lifting weights."
+  },
+  {
+    "emoji": "🏋️‍♀️",
+    "desc": "woman lifting weights. This emoji represents woman lifting weights."
+  },
+  {
+    "emoji": "🚴",
+    "desc": "person biking. This emoji represents person biking."
+  },
+  {
+    "emoji": "🚴‍♂️",
+    "desc": "man biking. This emoji represents man biking."
+  },
+  {
+    "emoji": "🚴‍♀️",
+    "desc": "woman biking. This emoji represents woman biking."
+  },
+  {
+    "emoji": "🚵",
+    "desc": "person mountain biking. This emoji represents person mountain biking."
+  },
+  {
+    "emoji": "🚵‍♂️",
+    "desc": "man mountain biking. This emoji represents man mountain biking."
+  },
+  {
+    "emoji": "🚵‍♀️",
+    "desc": "woman mountain biking. This emoji represents woman mountain biking."
+  },
+  {
+    "emoji": "🤸",
+    "desc": "person cartwheeling. This emoji represents person cartwheeling."
+  },
+  {
+    "emoji": "🤸‍♂️",
+    "desc": "man cartwheeling. This emoji represents man cartwheeling."
+  },
+  {
+    "emoji": "🤸‍♀️",
+    "desc": "woman cartwheeling. This emoji represents woman cartwheeling."
+  },
+  {
+    "emoji": "🤼",
+    "desc": "people wrestling. This emoji represents people wrestling."
+  },
+  {
+    "emoji": "🤼‍♂️",
+    "desc": "men wrestling. This emoji represents men wrestling."
+  },
+  {
+    "emoji": "🤼‍♀️",
+    "desc": "women wrestling. This emoji represents women wrestling."
+  },
+  {
+    "emoji": "🤽",
+    "desc": "person playing water polo. This emoji represents person playing water polo."
+  },
+  {
+    "emoji": "🤽‍♂️",
+    "desc": "man playing water polo. This emoji represents man playing water polo."
+  },
+  {
+    "emoji": "🤽‍♀️",
+    "desc": "woman playing water polo. This emoji represents woman playing water polo."
+  },
+  {
+    "emoji": "🤾",
+    "desc": "person playing handball. This emoji represents person playing handball."
+  },
+  {
+    "emoji": "🤾‍♂️",
+    "desc": "man playing handball. This emoji represents man playing handball."
+  },
+  {
+    "emoji": "🤾‍♀️",
+    "desc": "woman playing handball. This emoji represents woman playing handball."
+  },
+  {
+    "emoji": "🤹",
+    "desc": "person juggling. This emoji represents person juggling."
+  },
+  {
+    "emoji": "🤹‍♂️",
+    "desc": "man juggling. This emoji represents man juggling."
+  },
+  {
+    "emoji": "🤹‍♀️",
+    "desc": "woman juggling. This emoji represents woman juggling."
+  },
+  {
+    "emoji": "🧘",
+    "desc": "person in lotus position. This emoji represents person in lotus position."
+  },
+  {
+    "emoji": "🧘‍♂️",
+    "desc": "man in lotus position. This emoji represents man in lotus position."
   },
   {
     "emoji": "🧘‍♀️",
-    "desc": "woman meditating, inner peace, serenity, calm"
+    "desc": "woman in lotus position. This emoji represents woman in lotus position."
+  },
+  {
+    "emoji": "🛀",
+    "desc": "person taking bath. This emoji represents person taking bath."
+  },
+  {
+    "emoji": "🛌",
+    "desc": "person in bed. This emoji represents person in bed."
+  },
+  {
+    "emoji": "🧑‍🤝‍🧑",
+    "desc": "people holding hands. This emoji represents people holding hands."
+  },
+  {
+    "emoji": "👭",
+    "desc": "women holding hands. This emoji represents women holding hands."
+  },
+  {
+    "emoji": "👫",
+    "desc": "woman and man holding hands. This emoji represents woman and man holding hands."
+  },
+  {
+    "emoji": "👬",
+    "desc": "men holding hands. This emoji represents men holding hands."
+  },
+  {
+    "emoji": "💏",
+    "desc": "kiss. This emoji represents kiss."
+  },
+  {
+    "emoji": "👩‍❤️‍💋‍👨",
+    "desc": "kiss: woman, man. This emoji represents kiss: woman, man."
+  },
+  {
+    "emoji": "👨‍❤️‍💋‍👨",
+    "desc": "kiss: man, man. This emoji represents kiss: man, man."
+  },
+  {
+    "emoji": "👩‍❤️‍💋‍👩",
+    "desc": "kiss: woman, woman. This emoji represents kiss: woman, woman."
+  },
+  {
+    "emoji": "💑",
+    "desc": "couple with heart. This emoji represents couple with heart."
+  },
+  {
+    "emoji": "👩‍❤️‍👨",
+    "desc": "couple with heart: woman, man. This emoji represents couple with heart: woman, man."
+  },
+  {
+    "emoji": "👨‍❤️‍👨",
+    "desc": "couple with heart: man, man. This emoji represents couple with heart: man, man."
+  },
+  {
+    "emoji": "👩‍❤️‍👩",
+    "desc": "couple with heart: woman, woman. This emoji represents couple with heart: woman, woman."
+  },
+  {
+    "emoji": "👪",
+    "desc": "family. This emoji represents family."
+  },
+  {
+    "emoji": "👨‍👩‍👦",
+    "desc": "family: man, woman, boy. This emoji represents family: man, woman, boy."
+  },
+  {
+    "emoji": "👨‍👩‍👧",
+    "desc": "family: man, woman, girl. This emoji represents family: man, woman, girl."
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👦",
+    "desc": "family: man, woman, girl, boy. This emoji represents family: man, woman, girl, boy."
+  },
+  {
+    "emoji": "👨‍👩‍👦‍👦",
+    "desc": "family: man, woman, boy, boy. This emoji represents family: man, woman, boy, boy."
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👧",
+    "desc": "family: man, woman, girl, girl. This emoji represents family: man, woman, girl, girl."
+  },
+  {
+    "emoji": "👨‍👨‍👦",
+    "desc": "family: man, man, boy. This emoji represents family: man, man, boy."
+  },
+  {
+    "emoji": "👨‍👨‍👧",
+    "desc": "family: man, man, girl. This emoji represents family: man, man, girl."
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👦",
+    "desc": "family: man, man, girl, boy. This emoji represents family: man, man, girl, boy."
+  },
+  {
+    "emoji": "👨‍👨‍👦‍👦",
+    "desc": "family: man, man, boy, boy. This emoji represents family: man, man, boy, boy."
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👧",
+    "desc": "family: man, man, girl, girl. This emoji represents family: man, man, girl, girl."
+  },
+  {
+    "emoji": "👩‍👩‍👦",
+    "desc": "family: woman, woman, boy. This emoji represents family: woman, woman, boy."
+  },
+  {
+    "emoji": "👩‍👩‍👧",
+    "desc": "family: woman, woman, girl. This emoji represents family: woman, woman, girl."
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👦",
+    "desc": "family: woman, woman, girl, boy. This emoji represents family: woman, woman, girl, boy."
+  },
+  {
+    "emoji": "👩‍👩‍👦‍👦",
+    "desc": "family: woman, woman, boy, boy. This emoji represents family: woman, woman, boy, boy."
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👧",
+    "desc": "family: woman, woman, girl, girl. This emoji represents family: woman, woman, girl, girl."
+  },
+  {
+    "emoji": "👨‍👦",
+    "desc": "family: man, boy. This emoji represents family: man, boy."
+  },
+  {
+    "emoji": "👨‍👦‍👦",
+    "desc": "family: man, boy, boy. This emoji represents family: man, boy, boy."
+  },
+  {
+    "emoji": "👨‍👧",
+    "desc": "family: man, girl. This emoji represents family: man, girl."
+  },
+  {
+    "emoji": "👨‍👧‍👦",
+    "desc": "family: man, girl, boy. This emoji represents family: man, girl, boy."
+  },
+  {
+    "emoji": "👨‍👧‍👧",
+    "desc": "family: man, girl, girl. This emoji represents family: man, girl, girl."
+  },
+  {
+    "emoji": "👩‍👦",
+    "desc": "family: woman, boy. This emoji represents family: woman, boy."
+  },
+  {
+    "emoji": "👩‍👦‍👦",
+    "desc": "family: woman, boy, boy. This emoji represents family: woman, boy, boy."
+  },
+  {
+    "emoji": "👩‍👧",
+    "desc": "family: woman, girl. This emoji represents family: woman, girl."
+  },
+  {
+    "emoji": "👩‍👧‍👦",
+    "desc": "family: woman, girl, boy. This emoji represents family: woman, girl, boy."
+  },
+  {
+    "emoji": "👩‍👧‍👧",
+    "desc": "family: woman, girl, girl. This emoji represents family: woman, girl, girl."
+  },
+  {
+    "emoji": "🗣",
+    "desc": "speaking head. This emoji represents speaking head."
+  },
+  {
+    "emoji": "👤",
+    "desc": "bust in silhouette. This emoji represents bust in silhouette."
+  },
+  {
+    "emoji": "👥",
+    "desc": "busts in silhouette. This emoji represents busts in silhouette."
+  },
+  {
+    "emoji": "🫂",
+    "desc": "people hugging. This emoji represents people hugging."
+  },
+  {
+    "emoji": "👣",
+    "desc": "footprints. This emoji represents footprints."
+  },
+  {
+    "emoji": "🦰",
+    "desc": "red hair. This emoji represents red hair."
+  },
+  {
+    "emoji": "🦱",
+    "desc": "curly hair. This emoji represents curly hair."
+  },
+  {
+    "emoji": "🦳",
+    "desc": "white hair. This emoji represents white hair."
+  },
+  {
+    "emoji": "🦲",
+    "desc": "bald. This emoji represents bald."
+  },
+  {
+    "emoji": "🐵",
+    "desc": "monkey face. This emoji represents monkey face."
+  },
+  {
+    "emoji": "🐒",
+    "desc": "monkey. This emoji represents monkey."
+  },
+  {
+    "emoji": "🦍",
+    "desc": "gorilla. This emoji represents gorilla."
+  },
+  {
+    "emoji": "🦧",
+    "desc": "orangutan. This emoji represents orangutan."
+  },
+  {
+    "emoji": "🐶",
+    "desc": "dog face. This emoji represents dog face."
+  },
+  {
+    "emoji": "🐕",
+    "desc": "dog. This emoji represents dog."
+  },
+  {
+    "emoji": "🦮",
+    "desc": "guide dog. This emoji represents guide dog."
+  },
+  {
+    "emoji": "🐕‍🦺",
+    "desc": "service dog. This emoji represents service dog."
+  },
+  {
+    "emoji": "🐩",
+    "desc": "poodle. This emoji represents poodle."
+  },
+  {
+    "emoji": "🐺",
+    "desc": "wolf. This emoji represents wolf."
+  },
+  {
+    "emoji": "🦊",
+    "desc": "fox. This emoji represents fox."
+  },
+  {
+    "emoji": "🦝",
+    "desc": "raccoon. This emoji represents raccoon."
+  },
+  {
+    "emoji": "🐱",
+    "desc": "cat face. This emoji represents cat face."
+  },
+  {
+    "emoji": "🐈",
+    "desc": "cat. This emoji represents cat."
+  },
+  {
+    "emoji": "🐈‍⬛",
+    "desc": "black cat. This emoji represents black cat."
+  },
+  {
+    "emoji": "🦁",
+    "desc": "lion. This emoji represents lion."
+  },
+  {
+    "emoji": "🐯",
+    "desc": "tiger face. This emoji represents tiger face."
+  },
+  {
+    "emoji": "🐅",
+    "desc": "tiger. This emoji represents tiger."
+  },
+  {
+    "emoji": "🐆",
+    "desc": "leopard. This emoji represents leopard."
+  },
+  {
+    "emoji": "🐴",
+    "desc": "horse face. This emoji represents horse face."
+  },
+  {
+    "emoji": "🐎",
+    "desc": "horse. This emoji represents horse."
+  },
+  {
+    "emoji": "🦄",
+    "desc": "unicorn. This emoji represents unicorn."
+  },
+  {
+    "emoji": "🦓",
+    "desc": "zebra. This emoji represents zebra."
+  },
+  {
+    "emoji": "🦌",
+    "desc": "deer. This emoji represents deer."
+  },
+  {
+    "emoji": "🦬",
+    "desc": "bison. This emoji represents bison."
+  },
+  {
+    "emoji": "🐮",
+    "desc": "cow face. This emoji represents cow face."
+  },
+  {
+    "emoji": "🐂",
+    "desc": "ox. This emoji represents ox."
+  },
+  {
+    "emoji": "🐃",
+    "desc": "water buffalo. This emoji represents water buffalo."
+  },
+  {
+    "emoji": "🐄",
+    "desc": "cow. This emoji represents cow."
+  },
+  {
+    "emoji": "🐷",
+    "desc": "pig face. This emoji represents pig face."
+  },
+  {
+    "emoji": "🐖",
+    "desc": "pig. This emoji represents pig."
+  },
+  {
+    "emoji": "🐗",
+    "desc": "boar. This emoji represents boar."
+  },
+  {
+    "emoji": "🐽",
+    "desc": "pig nose. This emoji represents pig nose."
+  },
+  {
+    "emoji": "🐏",
+    "desc": "ram. This emoji represents ram."
+  },
+  {
+    "emoji": "🐑",
+    "desc": "ewe. This emoji represents ewe."
+  },
+  {
+    "emoji": "🐐",
+    "desc": "goat. This emoji represents goat."
+  },
+  {
+    "emoji": "🐪",
+    "desc": "camel. This emoji represents camel."
+  },
+  {
+    "emoji": "🐫",
+    "desc": "two-hump camel. This emoji represents two hump camel."
+  },
+  {
+    "emoji": "🦙",
+    "desc": "llama. This emoji represents llama."
+  },
+  {
+    "emoji": "🦒",
+    "desc": "giraffe. This emoji represents giraffe."
+  },
+  {
+    "emoji": "🐘",
+    "desc": "elephant. This emoji represents elephant."
+  },
+  {
+    "emoji": "🦣",
+    "desc": "mammoth. This emoji represents mammoth."
+  },
+  {
+    "emoji": "🦏",
+    "desc": "rhinoceros. This emoji represents rhinoceros."
+  },
+  {
+    "emoji": "🦛",
+    "desc": "hippopotamus. This emoji represents hippopotamus."
+  },
+  {
+    "emoji": "🐭",
+    "desc": "mouse face. This emoji represents mouse face."
+  },
+  {
+    "emoji": "🐁",
+    "desc": "mouse. This emoji represents mouse."
+  },
+  {
+    "emoji": "🐀",
+    "desc": "rat. This emoji represents rat."
+  },
+  {
+    "emoji": "🐹",
+    "desc": "hamster. This emoji represents hamster."
+  },
+  {
+    "emoji": "🐰",
+    "desc": "rabbit face. This emoji represents rabbit face."
+  },
+  {
+    "emoji": "🐇",
+    "desc": "rabbit. This emoji represents rabbit."
+  },
+  {
+    "emoji": "🐿",
+    "desc": "chipmunk. This emoji represents chipmunk."
+  },
+  {
+    "emoji": "🦫",
+    "desc": "beaver. This emoji represents beaver."
+  },
+  {
+    "emoji": "🦔",
+    "desc": "hedgehog. This emoji represents hedgehog."
+  },
+  {
+    "emoji": "🦇",
+    "desc": "bat. This emoji represents bat."
+  },
+  {
+    "emoji": "🐻",
+    "desc": "bear. This emoji represents bear."
+  },
+  {
+    "emoji": "🐻‍❄️",
+    "desc": "polar bear. This emoji represents polar bear."
+  },
+  {
+    "emoji": "🐨",
+    "desc": "koala. This emoji represents koala."
+  },
+  {
+    "emoji": "🐼",
+    "desc": "panda. This emoji represents panda."
+  },
+  {
+    "emoji": "🦥",
+    "desc": "sloth. This emoji represents sloth."
+  },
+  {
+    "emoji": "🦦",
+    "desc": "otter. This emoji represents otter."
+  },
+  {
+    "emoji": "🦨",
+    "desc": "skunk. This emoji represents skunk."
+  },
+  {
+    "emoji": "🦘",
+    "desc": "kangaroo. This emoji represents kangaroo."
+  },
+  {
+    "emoji": "🦡",
+    "desc": "badger. This emoji represents badger."
+  },
+  {
+    "emoji": "🐾",
+    "desc": "paw prints. This emoji represents paw prints."
+  },
+  {
+    "emoji": "🦃",
+    "desc": "turkey. This emoji represents turkey."
+  },
+  {
+    "emoji": "🐔",
+    "desc": "chicken. This emoji represents chicken."
+  },
+  {
+    "emoji": "🐓",
+    "desc": "rooster. This emoji represents rooster."
+  },
+  {
+    "emoji": "🐣",
+    "desc": "hatching chick. This emoji represents hatching chick."
+  },
+  {
+    "emoji": "🐤",
+    "desc": "baby chick. This emoji represents baby chick."
+  },
+  {
+    "emoji": "🐥",
+    "desc": "front-facing baby chick. This emoji represents front facing baby chick."
+  },
+  {
+    "emoji": "🐦",
+    "desc": "bird. This emoji represents bird."
+  },
+  {
+    "emoji": "🐧",
+    "desc": "penguin. This emoji represents penguin."
+  },
+  {
+    "emoji": "🕊",
+    "desc": "dove. This emoji represents dove."
+  },
+  {
+    "emoji": "🦅",
+    "desc": "eagle. This emoji represents eagle."
+  },
+  {
+    "emoji": "🦆",
+    "desc": "duck. This emoji represents duck."
+  },
+  {
+    "emoji": "🦢",
+    "desc": "swan. This emoji represents swan."
+  },
+  {
+    "emoji": "🦉",
+    "desc": "owl. This emoji represents owl."
+  },
+  {
+    "emoji": "🦤",
+    "desc": "dodo. This emoji represents dodo."
+  },
+  {
+    "emoji": "🪶",
+    "desc": "feather. This emoji represents feather."
+  },
+  {
+    "emoji": "🦩",
+    "desc": "flamingo. This emoji represents flamingo."
+  },
+  {
+    "emoji": "🦚",
+    "desc": "peacock. This emoji represents peacock."
+  },
+  {
+    "emoji": "🦜",
+    "desc": "parrot. This emoji represents parrot."
+  },
+  {
+    "emoji": "🐸",
+    "desc": "frog. This emoji represents frog."
+  },
+  {
+    "emoji": "🐊",
+    "desc": "crocodile. This emoji represents crocodile."
+  },
+  {
+    "emoji": "🐢",
+    "desc": "turtle. This emoji represents turtle."
+  },
+  {
+    "emoji": "🦎",
+    "desc": "lizard. This emoji represents lizard."
+  },
+  {
+    "emoji": "🐍",
+    "desc": "snake. This emoji represents snake."
+  },
+  {
+    "emoji": "🐲",
+    "desc": "dragon face. This emoji represents dragon face."
+  },
+  {
+    "emoji": "🐉",
+    "desc": "dragon. This emoji represents dragon."
+  },
+  {
+    "emoji": "🦕",
+    "desc": "sauropod. This emoji represents sauropod."
+  },
+  {
+    "emoji": "🦖",
+    "desc": "T-Rex. This emoji represents T Rex."
+  },
+  {
+    "emoji": "🐳",
+    "desc": "spouting whale. This emoji represents spouting whale."
+  },
+  {
+    "emoji": "🐋",
+    "desc": "whale. This emoji represents whale."
+  },
+  {
+    "emoji": "🐬",
+    "desc": "dolphin. This emoji represents dolphin."
+  },
+  {
+    "emoji": "🦭",
+    "desc": "seal. This emoji represents seal."
+  },
+  {
+    "emoji": "🐟",
+    "desc": "fish. This emoji represents fish."
+  },
+  {
+    "emoji": "🐠",
+    "desc": "tropical fish. This emoji represents tropical fish."
+  },
+  {
+    "emoji": "🐡",
+    "desc": "blowfish. This emoji represents blowfish."
+  },
+  {
+    "emoji": "🦈",
+    "desc": "shark. This emoji represents shark."
+  },
+  {
+    "emoji": "🐙",
+    "desc": "octopus. This emoji represents octopus."
+  },
+  {
+    "emoji": "🐚",
+    "desc": "spiral shell. This emoji represents spiral shell."
+  },
+  {
+    "emoji": "🐌",
+    "desc": "snail. This emoji represents snail."
+  },
+  {
+    "emoji": "🦋",
+    "desc": "butterfly. This emoji represents butterfly."
+  },
+  {
+    "emoji": "🐛",
+    "desc": "bug. This emoji represents bug."
+  },
+  {
+    "emoji": "🐜",
+    "desc": "ant. This emoji represents ant."
+  },
+  {
+    "emoji": "🐝",
+    "desc": "honeybee. This emoji represents honeybee."
+  },
+  {
+    "emoji": "🪲",
+    "desc": "beetle. This emoji represents beetle."
+  },
+  {
+    "emoji": "🐞",
+    "desc": "lady beetle. This emoji represents lady beetle."
+  },
+  {
+    "emoji": "🦗",
+    "desc": "cricket. This emoji represents cricket."
+  },
+  {
+    "emoji": "🪳",
+    "desc": "cockroach. This emoji represents cockroach."
+  },
+  {
+    "emoji": "🕷",
+    "desc": "spider. This emoji represents spider."
+  },
+  {
+    "emoji": "🕸",
+    "desc": "spider web. This emoji represents spider web."
+  },
+  {
+    "emoji": "🦂",
+    "desc": "scorpion. This emoji represents scorpion."
+  },
+  {
+    "emoji": "🦟",
+    "desc": "mosquito. This emoji represents mosquito."
+  },
+  {
+    "emoji": "🪰",
+    "desc": "fly. This emoji represents fly."
+  },
+  {
+    "emoji": "🪱",
+    "desc": "worm. This emoji represents worm."
+  },
+  {
+    "emoji": "🦠",
+    "desc": "microbe. This emoji represents microbe."
+  },
+  {
+    "emoji": "💐",
+    "desc": "bouquet. This emoji represents bouquet."
+  },
+  {
+    "emoji": "🌸",
+    "desc": "cherry blossom. This emoji represents cherry blossom."
+  },
+  {
+    "emoji": "💮",
+    "desc": "white flower. This emoji represents white flower."
+  },
+  {
+    "emoji": "🏵",
+    "desc": "rosette. This emoji represents rosette."
+  },
+  {
+    "emoji": "🌹",
+    "desc": "rose. This emoji represents rose."
+  },
+  {
+    "emoji": "🥀",
+    "desc": "wilted flower. This emoji represents wilted flower."
+  },
+  {
+    "emoji": "🌺",
+    "desc": "hibiscus. This emoji represents hibiscus."
+  },
+  {
+    "emoji": "🌻",
+    "desc": "sunflower. This emoji represents sunflower."
+  },
+  {
+    "emoji": "🌼",
+    "desc": "blossom. This emoji represents blossom."
+  },
+  {
+    "emoji": "🌷",
+    "desc": "tulip. This emoji represents tulip."
+  },
+  {
+    "emoji": "🌱",
+    "desc": "seedling. This emoji represents seedling."
+  },
+  {
+    "emoji": "🪴",
+    "desc": "potted plant. This emoji represents potted plant."
+  },
+  {
+    "emoji": "🌲",
+    "desc": "evergreen tree. This emoji represents evergreen tree."
+  },
+  {
+    "emoji": "🌳",
+    "desc": "deciduous tree. This emoji represents deciduous tree."
+  },
+  {
+    "emoji": "🌴",
+    "desc": "palm tree. This emoji represents palm tree."
+  },
+  {
+    "emoji": "🌵",
+    "desc": "cactus. This emoji represents cactus."
+  },
+  {
+    "emoji": "🌾",
+    "desc": "sheaf of rice. This emoji represents sheaf of rice."
+  },
+  {
+    "emoji": "🌿",
+    "desc": "herb. This emoji represents herb."
+  },
+  {
+    "emoji": "☘",
+    "desc": "shamrock. This emoji represents shamrock."
+  },
+  {
+    "emoji": "🍀",
+    "desc": "four leaf clover. This emoji represents four leaf clover."
+  },
+  {
+    "emoji": "🍁",
+    "desc": "maple leaf. This emoji represents maple leaf."
+  },
+  {
+    "emoji": "🍂",
+    "desc": "fallen leaf. This emoji represents fallen leaf."
   },
   {
     "emoji": "🍃",
-    "desc": "leaves fluttering, gentle peace, nature calm"
+    "desc": "leaf fluttering in wind. This emoji represents leaf fluttering in wind."
   },
   {
-    "emoji": "🌫️",
-    "desc": "fog, hazy memory, wistful, distant feeling"
+    "emoji": "🍇",
+    "desc": "grapes. This emoji represents grapes."
+  },
+  {
+    "emoji": "🍈",
+    "desc": "melon. This emoji represents melon."
+  },
+  {
+    "emoji": "🍉",
+    "desc": "watermelon. This emoji represents watermelon."
+  },
+  {
+    "emoji": "🍊",
+    "desc": "tangerine. This emoji represents tangerine."
+  },
+  {
+    "emoji": "🍋",
+    "desc": "lemon. This emoji represents lemon."
+  },
+  {
+    "emoji": "🍌",
+    "desc": "banana. This emoji represents banana."
+  },
+  {
+    "emoji": "🍍",
+    "desc": "pineapple. This emoji represents pineapple."
+  },
+  {
+    "emoji": "🥭",
+    "desc": "mango. This emoji represents mango."
+  },
+  {
+    "emoji": "🍎",
+    "desc": "red apple. This emoji represents red apple."
+  },
+  {
+    "emoji": "🍏",
+    "desc": "green apple. This emoji represents green apple."
+  },
+  {
+    "emoji": "🍐",
+    "desc": "pear. This emoji represents pear."
+  },
+  {
+    "emoji": "🍑",
+    "desc": "peach. This emoji represents peach."
+  },
+  {
+    "emoji": "🍒",
+    "desc": "cherries. This emoji represents cherries."
+  },
+  {
+    "emoji": "🍓",
+    "desc": "strawberry. This emoji represents strawberry."
+  },
+  {
+    "emoji": "🫐",
+    "desc": "blueberries. This emoji represents blueberries."
+  },
+  {
+    "emoji": "🥝",
+    "desc": "kiwi fruit. This emoji represents kiwi fruit."
+  },
+  {
+    "emoji": "🍅",
+    "desc": "tomato. This emoji represents tomato."
+  },
+  {
+    "emoji": "🫒",
+    "desc": "olive. This emoji represents olive."
+  },
+  {
+    "emoji": "🥥",
+    "desc": "coconut. This emoji represents coconut."
+  },
+  {
+    "emoji": "🥑",
+    "desc": "avocado. This emoji represents avocado."
+  },
+  {
+    "emoji": "🍆",
+    "desc": "eggplant. This emoji represents eggplant."
+  },
+  {
+    "emoji": "🥔",
+    "desc": "potato. This emoji represents potato."
+  },
+  {
+    "emoji": "🥕",
+    "desc": "carrot. This emoji represents carrot."
+  },
+  {
+    "emoji": "🌽",
+    "desc": "ear of corn. This emoji represents ear of corn."
+  },
+  {
+    "emoji": "🌶",
+    "desc": "hot pepper. This emoji represents hot pepper."
+  },
+  {
+    "emoji": "🫑",
+    "desc": "bell pepper. This emoji represents bell pepper."
+  },
+  {
+    "emoji": "🥒",
+    "desc": "cucumber. This emoji represents cucumber."
+  },
+  {
+    "emoji": "🥬",
+    "desc": "leafy green. This emoji represents leafy green."
+  },
+  {
+    "emoji": "🥦",
+    "desc": "broccoli. This emoji represents broccoli."
+  },
+  {
+    "emoji": "🧄",
+    "desc": "garlic. This emoji represents garlic."
+  },
+  {
+    "emoji": "🧅",
+    "desc": "onion. This emoji represents onion."
+  },
+  {
+    "emoji": "🍄",
+    "desc": "mushroom. This emoji represents mushroom."
+  },
+  {
+    "emoji": "🥜",
+    "desc": "peanuts. This emoji represents peanuts."
+  },
+  {
+    "emoji": "🌰",
+    "desc": "chestnut. This emoji represents chestnut."
+  },
+  {
+    "emoji": "🍞",
+    "desc": "bread. This emoji represents bread."
+  },
+  {
+    "emoji": "🥐",
+    "desc": "croissant. This emoji represents croissant."
+  },
+  {
+    "emoji": "🥖",
+    "desc": "baguette bread. This emoji represents baguette bread."
+  },
+  {
+    "emoji": "🫓",
+    "desc": "flatbread. This emoji represents flatbread."
+  },
+  {
+    "emoji": "🥨",
+    "desc": "pretzel. This emoji represents pretzel."
+  },
+  {
+    "emoji": "🥯",
+    "desc": "bagel. This emoji represents bagel."
+  },
+  {
+    "emoji": "🥞",
+    "desc": "pancakes. This emoji represents pancakes."
+  },
+  {
+    "emoji": "🧇",
+    "desc": "waffle. This emoji represents waffle."
+  },
+  {
+    "emoji": "🧀",
+    "desc": "cheese wedge. This emoji represents cheese wedge."
+  },
+  {
+    "emoji": "🍖",
+    "desc": "meat on bone. This emoji represents meat on bone."
+  },
+  {
+    "emoji": "🍗",
+    "desc": "poultry leg. This emoji represents poultry leg."
+  },
+  {
+    "emoji": "🥩",
+    "desc": "cut of meat. This emoji represents cut of meat."
+  },
+  {
+    "emoji": "🥓",
+    "desc": "bacon. This emoji represents bacon."
+  },
+  {
+    "emoji": "🍔",
+    "desc": "hamburger. This emoji represents hamburger."
+  },
+  {
+    "emoji": "🍟",
+    "desc": "french fries. This emoji represents french fries."
+  },
+  {
+    "emoji": "🍕",
+    "desc": "pizza. This emoji represents pizza."
+  },
+  {
+    "emoji": "🌭",
+    "desc": "hot dog. This emoji represents hot dog."
+  },
+  {
+    "emoji": "🥪",
+    "desc": "sandwich. This emoji represents sandwich."
+  },
+  {
+    "emoji": "🌮",
+    "desc": "taco. This emoji represents taco."
+  },
+  {
+    "emoji": "🌯",
+    "desc": "burrito. This emoji represents burrito."
+  },
+  {
+    "emoji": "🫔",
+    "desc": "tamale. This emoji represents tamale."
+  },
+  {
+    "emoji": "🥙",
+    "desc": "stuffed flatbread. This emoji represents stuffed flatbread."
+  },
+  {
+    "emoji": "🧆",
+    "desc": "falafel. This emoji represents falafel."
+  },
+  {
+    "emoji": "🥚",
+    "desc": "egg. This emoji represents egg."
+  },
+  {
+    "emoji": "🍳",
+    "desc": "cooking. This emoji represents cooking."
+  },
+  {
+    "emoji": "🥘",
+    "desc": "shallow pan of food. This emoji represents shallow pan of food."
+  },
+  {
+    "emoji": "🍲",
+    "desc": "pot of food. This emoji represents pot of food."
+  },
+  {
+    "emoji": "🫕",
+    "desc": "fondue. This emoji represents fondue."
+  },
+  {
+    "emoji": "🥣",
+    "desc": "bowl with spoon. This emoji represents bowl with spoon."
+  },
+  {
+    "emoji": "🥗",
+    "desc": "green salad. This emoji represents green salad."
+  },
+  {
+    "emoji": "🍿",
+    "desc": "popcorn. This emoji represents popcorn."
+  },
+  {
+    "emoji": "🧈",
+    "desc": "butter. This emoji represents butter."
+  },
+  {
+    "emoji": "🧂",
+    "desc": "salt. This emoji represents salt."
+  },
+  {
+    "emoji": "🥫",
+    "desc": "canned food. This emoji represents canned food."
+  },
+  {
+    "emoji": "🍱",
+    "desc": "bento box. This emoji represents bento box."
+  },
+  {
+    "emoji": "🍘",
+    "desc": "rice cracker. This emoji represents rice cracker."
+  },
+  {
+    "emoji": "🍙",
+    "desc": "rice ball. This emoji represents rice ball."
+  },
+  {
+    "emoji": "🍚",
+    "desc": "cooked rice. This emoji represents cooked rice."
+  },
+  {
+    "emoji": "🍛",
+    "desc": "curry rice. This emoji represents curry rice."
+  },
+  {
+    "emoji": "🍜",
+    "desc": "steaming bowl. This emoji represents steaming bowl."
+  },
+  {
+    "emoji": "🍝",
+    "desc": "spaghetti. This emoji represents spaghetti."
+  },
+  {
+    "emoji": "🍠",
+    "desc": "roasted sweet potato. This emoji represents roasted sweet potato."
+  },
+  {
+    "emoji": "🍢",
+    "desc": "oden. This emoji represents oden."
+  },
+  {
+    "emoji": "🍣",
+    "desc": "sushi. This emoji represents sushi."
+  },
+  {
+    "emoji": "🍤",
+    "desc": "fried shrimp. This emoji represents fried shrimp."
+  },
+  {
+    "emoji": "🍥",
+    "desc": "fish cake with swirl. This emoji represents fish cake with swirl."
+  },
+  {
+    "emoji": "🥮",
+    "desc": "moon cake. This emoji represents moon cake."
+  },
+  {
+    "emoji": "🍡",
+    "desc": "dango. This emoji represents dango."
+  },
+  {
+    "emoji": "🥟",
+    "desc": "dumpling. This emoji represents dumpling."
+  },
+  {
+    "emoji": "🥠",
+    "desc": "fortune cookie. This emoji represents fortune cookie."
+  },
+  {
+    "emoji": "🥡",
+    "desc": "takeout box. This emoji represents takeout box."
+  },
+  {
+    "emoji": "🦀",
+    "desc": "crab. This emoji represents crab."
+  },
+  {
+    "emoji": "🦞",
+    "desc": "lobster. This emoji represents lobster."
+  },
+  {
+    "emoji": "🦐",
+    "desc": "shrimp. This emoji represents shrimp."
+  },
+  {
+    "emoji": "🦑",
+    "desc": "squid. This emoji represents squid."
+  },
+  {
+    "emoji": "🦪",
+    "desc": "oyster. This emoji represents oyster."
+  },
+  {
+    "emoji": "🍦",
+    "desc": "soft ice cream. This emoji represents soft ice cream."
+  },
+  {
+    "emoji": "🍧",
+    "desc": "shaved ice. This emoji represents shaved ice."
+  },
+  {
+    "emoji": "🍨",
+    "desc": "ice cream. This emoji represents ice cream."
+  },
+  {
+    "emoji": "🍩",
+    "desc": "doughnut. This emoji represents doughnut."
+  },
+  {
+    "emoji": "🍪",
+    "desc": "cookie. This emoji represents cookie."
+  },
+  {
+    "emoji": "🎂",
+    "desc": "birthday cake. This emoji represents birthday cake."
+  },
+  {
+    "emoji": "🍰",
+    "desc": "shortcake. This emoji represents shortcake."
+  },
+  {
+    "emoji": "🧁",
+    "desc": "cupcake. This emoji represents cupcake."
+  },
+  {
+    "emoji": "🥧",
+    "desc": "pie. This emoji represents pie."
+  },
+  {
+    "emoji": "🍫",
+    "desc": "chocolate bar. This emoji represents chocolate bar."
+  },
+  {
+    "emoji": "🍬",
+    "desc": "candy. This emoji represents candy."
+  },
+  {
+    "emoji": "🍭",
+    "desc": "lollipop. This emoji represents lollipop."
+  },
+  {
+    "emoji": "🍮",
+    "desc": "custard. This emoji represents custard."
+  },
+  {
+    "emoji": "🍯",
+    "desc": "honey pot. This emoji represents honey pot."
+  },
+  {
+    "emoji": "🍼",
+    "desc": "baby bottle. This emoji represents baby bottle."
+  },
+  {
+    "emoji": "🥛",
+    "desc": "glass of milk. This emoji represents glass of milk."
+  },
+  {
+    "emoji": "☕",
+    "desc": "hot beverage. This emoji represents hot beverage."
+  },
+  {
+    "emoji": "🫖",
+    "desc": "teapot. This emoji represents teapot."
+  },
+  {
+    "emoji": "🍵",
+    "desc": "teacup without handle. This emoji represents teacup without handle."
+  },
+  {
+    "emoji": "🍶",
+    "desc": "sake. This emoji represents sake."
+  },
+  {
+    "emoji": "🍾",
+    "desc": "bottle with popping cork. This emoji represents bottle with popping cork."
+  },
+  {
+    "emoji": "🍷",
+    "desc": "wine glass. This emoji represents wine glass."
+  },
+  {
+    "emoji": "🍸",
+    "desc": "cocktail glass. This emoji represents cocktail glass."
+  },
+  {
+    "emoji": "🍹",
+    "desc": "tropical drink. This emoji represents tropical drink."
+  },
+  {
+    "emoji": "🍺",
+    "desc": "beer mug. This emoji represents beer mug."
+  },
+  {
+    "emoji": "🍻",
+    "desc": "clinking beer mugs. This emoji represents clinking beer mugs."
+  },
+  {
+    "emoji": "🥂",
+    "desc": "clinking glasses. This emoji represents clinking glasses."
+  },
+  {
+    "emoji": "🥃",
+    "desc": "tumbler glass. This emoji represents tumbler glass."
+  },
+  {
+    "emoji": "🥤",
+    "desc": "cup with straw. This emoji represents cup with straw."
+  },
+  {
+    "emoji": "🧋",
+    "desc": "bubble tea. This emoji represents bubble tea."
+  },
+  {
+    "emoji": "🧃",
+    "desc": "beverage box. This emoji represents beverage box."
+  },
+  {
+    "emoji": "🧉",
+    "desc": "mate. This emoji represents mate."
+  },
+  {
+    "emoji": "🧊",
+    "desc": "ice. This emoji represents ice."
+  },
+  {
+    "emoji": "🥢",
+    "desc": "chopsticks. This emoji represents chopsticks."
+  },
+  {
+    "emoji": "🍽",
+    "desc": "fork and knife with plate. This emoji represents fork and knife with plate."
+  },
+  {
+    "emoji": "🍴",
+    "desc": "fork and knife. This emoji represents fork and knife."
+  },
+  {
+    "emoji": "🥄",
+    "desc": "spoon. This emoji represents spoon."
+  },
+  {
+    "emoji": "🔪",
+    "desc": "kitchen knife. This emoji represents kitchen knife."
+  },
+  {
+    "emoji": "🏺",
+    "desc": "amphora. This emoji represents amphora."
+  },
+  {
+    "emoji": "🌍",
+    "desc": "globe showing Europe-Africa. This emoji represents globe showing Europe Africa."
+  },
+  {
+    "emoji": "🌎",
+    "desc": "globe showing Americas. This emoji represents globe showing Americas."
+  },
+  {
+    "emoji": "🌏",
+    "desc": "globe showing Asia-Australia. This emoji represents globe showing Asia Australia."
+  },
+  {
+    "emoji": "🌐",
+    "desc": "globe with meridians. This emoji represents globe with meridians."
+  },
+  {
+    "emoji": "🗺",
+    "desc": "world map. This emoji represents world map."
+  },
+  {
+    "emoji": "🗾",
+    "desc": "map of Japan. This emoji represents map of Japan."
+  },
+  {
+    "emoji": "🧭",
+    "desc": "compass. This emoji represents compass."
+  },
+  {
+    "emoji": "🏔",
+    "desc": "snow-capped mountain. This emoji represents snow capped mountain."
+  },
+  {
+    "emoji": "⛰",
+    "desc": "mountain. This emoji represents mountain."
+  },
+  {
+    "emoji": "🌋",
+    "desc": "volcano. This emoji represents volcano."
+  },
+  {
+    "emoji": "🗻",
+    "desc": "mount fuji. This emoji represents mount fuji."
+  },
+  {
+    "emoji": "🏕",
+    "desc": "camping. This emoji represents camping."
+  },
+  {
+    "emoji": "🏖",
+    "desc": "beach with umbrella. This emoji represents beach with umbrella."
+  },
+  {
+    "emoji": "🏜",
+    "desc": "desert. This emoji represents desert."
+  },
+  {
+    "emoji": "🏝",
+    "desc": "desert island. This emoji represents desert island."
+  },
+  {
+    "emoji": "🏞",
+    "desc": "national park. This emoji represents national park."
+  },
+  {
+    "emoji": "🏟",
+    "desc": "stadium. This emoji represents stadium."
+  },
+  {
+    "emoji": "🏛",
+    "desc": "classical building. This emoji represents classical building."
+  },
+  {
+    "emoji": "🏗",
+    "desc": "building construction. This emoji represents building construction."
+  },
+  {
+    "emoji": "🧱",
+    "desc": "brick. This emoji represents brick."
+  },
+  {
+    "emoji": "🪨",
+    "desc": "rock. This emoji represents rock."
+  },
+  {
+    "emoji": "🪵",
+    "desc": "wood. This emoji represents wood."
+  },
+  {
+    "emoji": "🛖",
+    "desc": "hut. This emoji represents hut."
+  },
+  {
+    "emoji": "🏘",
+    "desc": "houses. This emoji represents houses."
+  },
+  {
+    "emoji": "🏚",
+    "desc": "derelict house. This emoji represents derelict house."
+  },
+  {
+    "emoji": "🏠",
+    "desc": "house. This emoji represents house."
+  },
+  {
+    "emoji": "🏡",
+    "desc": "house with garden. This emoji represents house with garden."
+  },
+  {
+    "emoji": "🏢",
+    "desc": "office building. This emoji represents office building."
+  },
+  {
+    "emoji": "🏣",
+    "desc": "Japanese post office. This emoji represents Japanese post office."
+  },
+  {
+    "emoji": "🏤",
+    "desc": "post office. This emoji represents post office."
+  },
+  {
+    "emoji": "🏥",
+    "desc": "hospital. This emoji represents hospital."
+  },
+  {
+    "emoji": "🏦",
+    "desc": "bank. This emoji represents bank."
+  },
+  {
+    "emoji": "🏨",
+    "desc": "hotel. This emoji represents hotel."
+  },
+  {
+    "emoji": "🏩",
+    "desc": "love hotel. This emoji represents love hotel."
+  },
+  {
+    "emoji": "🏪",
+    "desc": "convenience store. This emoji represents convenience store."
+  },
+  {
+    "emoji": "🏫",
+    "desc": "school. This emoji represents school."
+  },
+  {
+    "emoji": "🏬",
+    "desc": "department store. This emoji represents department store."
+  },
+  {
+    "emoji": "🏭",
+    "desc": "factory. This emoji represents factory."
+  },
+  {
+    "emoji": "🏯",
+    "desc": "Japanese castle. This emoji represents Japanese castle."
+  },
+  {
+    "emoji": "🏰",
+    "desc": "castle. This emoji represents castle."
+  },
+  {
+    "emoji": "💒",
+    "desc": "wedding. This emoji represents wedding."
+  },
+  {
+    "emoji": "🗼",
+    "desc": "Tokyo tower. This emoji represents Tokyo tower."
+  },
+  {
+    "emoji": "🗽",
+    "desc": "Statue of Liberty. This emoji represents Statue of Liberty."
+  },
+  {
+    "emoji": "⛪",
+    "desc": "church. This emoji represents church."
+  },
+  {
+    "emoji": "🕌",
+    "desc": "mosque. This emoji represents mosque."
+  },
+  {
+    "emoji": "🛕",
+    "desc": "hindu temple. This emoji represents hindu temple."
+  },
+  {
+    "emoji": "🕍",
+    "desc": "synagogue. This emoji represents synagogue."
+  },
+  {
+    "emoji": "⛩",
+    "desc": "shinto shrine. This emoji represents shinto shrine."
+  },
+  {
+    "emoji": "🕋",
+    "desc": "kaaba. This emoji represents kaaba."
+  },
+  {
+    "emoji": "⛲",
+    "desc": "fountain. This emoji represents fountain."
+  },
+  {
+    "emoji": "⛺",
+    "desc": "tent. This emoji represents tent."
+  },
+  {
+    "emoji": "🌁",
+    "desc": "foggy. This emoji represents foggy."
+  },
+  {
+    "emoji": "🌃",
+    "desc": "night with stars. This emoji represents night with stars."
+  },
+  {
+    "emoji": "🏙",
+    "desc": "cityscape. This emoji represents cityscape."
+  },
+  {
+    "emoji": "🌄",
+    "desc": "sunrise over mountains. This emoji represents sunrise over mountains."
+  },
+  {
+    "emoji": "🌅",
+    "desc": "sunrise. This emoji represents sunrise."
+  },
+  {
+    "emoji": "🌆",
+    "desc": "cityscape at dusk. This emoji represents cityscape at dusk."
+  },
+  {
+    "emoji": "🌇",
+    "desc": "sunset. This emoji represents sunset."
+  },
+  {
+    "emoji": "🌉",
+    "desc": "bridge at night. This emoji represents bridge at night."
+  },
+  {
+    "emoji": "♨",
+    "desc": "hot springs. This emoji represents hot springs."
+  },
+  {
+    "emoji": "🎠",
+    "desc": "carousel horse. This emoji represents carousel horse."
+  },
+  {
+    "emoji": "🎡",
+    "desc": "ferris wheel. This emoji represents ferris wheel."
+  },
+  {
+    "emoji": "🎢",
+    "desc": "roller coaster. This emoji represents roller coaster."
+  },
+  {
+    "emoji": "💈",
+    "desc": "barber pole. This emoji represents barber pole."
+  },
+  {
+    "emoji": "🎪",
+    "desc": "circus tent. This emoji represents circus tent."
+  },
+  {
+    "emoji": "🚂",
+    "desc": "locomotive. This emoji represents locomotive."
+  },
+  {
+    "emoji": "🚃",
+    "desc": "railway car. This emoji represents railway car."
+  },
+  {
+    "emoji": "🚄",
+    "desc": "high-speed train. This emoji represents high speed train."
+  },
+  {
+    "emoji": "🚅",
+    "desc": "bullet train. This emoji represents bullet train."
+  },
+  {
+    "emoji": "🚆",
+    "desc": "train. This emoji represents train."
+  },
+  {
+    "emoji": "🚇",
+    "desc": "metro. This emoji represents metro."
+  },
+  {
+    "emoji": "🚈",
+    "desc": "light rail. This emoji represents light rail."
+  },
+  {
+    "emoji": "🚉",
+    "desc": "station. This emoji represents station."
+  },
+  {
+    "emoji": "🚊",
+    "desc": "tram. This emoji represents tram."
+  },
+  {
+    "emoji": "🚝",
+    "desc": "monorail. This emoji represents monorail."
+  },
+  {
+    "emoji": "🚞",
+    "desc": "mountain railway. This emoji represents mountain railway."
+  },
+  {
+    "emoji": "🚋",
+    "desc": "tram car. This emoji represents tram car."
+  },
+  {
+    "emoji": "🚌",
+    "desc": "bus. This emoji represents bus."
+  },
+  {
+    "emoji": "🚍",
+    "desc": "oncoming bus. This emoji represents oncoming bus."
+  },
+  {
+    "emoji": "🚎",
+    "desc": "trolleybus. This emoji represents trolleybus."
+  },
+  {
+    "emoji": "🚐",
+    "desc": "minibus. This emoji represents minibus."
+  },
+  {
+    "emoji": "🚑",
+    "desc": "ambulance. This emoji represents ambulance."
+  },
+  {
+    "emoji": "🚒",
+    "desc": "fire engine. This emoji represents fire engine."
+  },
+  {
+    "emoji": "🚓",
+    "desc": "police car. This emoji represents police car."
+  },
+  {
+    "emoji": "🚔",
+    "desc": "oncoming police car. This emoji represents oncoming police car."
+  },
+  {
+    "emoji": "🚕",
+    "desc": "taxi. This emoji represents taxi."
+  },
+  {
+    "emoji": "🚖",
+    "desc": "oncoming taxi. This emoji represents oncoming taxi."
+  },
+  {
+    "emoji": "🚗",
+    "desc": "automobile. This emoji represents automobile."
+  },
+  {
+    "emoji": "🚘",
+    "desc": "oncoming automobile. This emoji represents oncoming automobile."
+  },
+  {
+    "emoji": "🚙",
+    "desc": "sport utility vehicle. This emoji represents sport utility vehicle."
+  },
+  {
+    "emoji": "🛻",
+    "desc": "pickup truck. This emoji represents pickup truck."
+  },
+  {
+    "emoji": "🚚",
+    "desc": "delivery truck. This emoji represents delivery truck."
+  },
+  {
+    "emoji": "🚛",
+    "desc": "articulated lorry. This emoji represents articulated lorry."
+  },
+  {
+    "emoji": "🚜",
+    "desc": "tractor. This emoji represents tractor."
+  },
+  {
+    "emoji": "🏎",
+    "desc": "racing car. This emoji represents racing car."
+  },
+  {
+    "emoji": "🏍",
+    "desc": "motorcycle. This emoji represents motorcycle."
+  },
+  {
+    "emoji": "🛵",
+    "desc": "motor scooter. This emoji represents motor scooter."
+  },
+  {
+    "emoji": "🦽",
+    "desc": "manual wheelchair. This emoji represents manual wheelchair."
+  },
+  {
+    "emoji": "🦼",
+    "desc": "motorized wheelchair. This emoji represents motorized wheelchair."
+  },
+  {
+    "emoji": "🛺",
+    "desc": "auto rickshaw. This emoji represents auto rickshaw."
+  },
+  {
+    "emoji": "🚲",
+    "desc": "bicycle. This emoji represents bicycle."
+  },
+  {
+    "emoji": "🛴",
+    "desc": "kick scooter. This emoji represents kick scooter."
+  },
+  {
+    "emoji": "🛹",
+    "desc": "skateboard. This emoji represents skateboard."
+  },
+  {
+    "emoji": "🛼",
+    "desc": "roller skate. This emoji represents roller skate."
+  },
+  {
+    "emoji": "🚏",
+    "desc": "bus stop. This emoji represents bus stop."
+  },
+  {
+    "emoji": "🛣",
+    "desc": "motorway. This emoji represents motorway."
+  },
+  {
+    "emoji": "🛤",
+    "desc": "railway track. This emoji represents railway track."
+  },
+  {
+    "emoji": "🛢",
+    "desc": "oil drum. This emoji represents oil drum."
+  },
+  {
+    "emoji": "⛽",
+    "desc": "fuel pump. This emoji represents fuel pump."
+  },
+  {
+    "emoji": "🚨",
+    "desc": "police car light. This emoji represents police car light."
+  },
+  {
+    "emoji": "🚥",
+    "desc": "horizontal traffic light. This emoji represents horizontal traffic light."
+  },
+  {
+    "emoji": "🚦",
+    "desc": "vertical traffic light. This emoji represents vertical traffic light."
+  },
+  {
+    "emoji": "🛑",
+    "desc": "stop sign. This emoji represents stop sign."
+  },
+  {
+    "emoji": "🚧",
+    "desc": "construction. This emoji represents construction."
+  },
+  {
+    "emoji": "⚓",
+    "desc": "anchor. This emoji represents anchor."
+  },
+  {
+    "emoji": "⛵",
+    "desc": "sailboat. This emoji represents sailboat."
+  },
+  {
+    "emoji": "🛶",
+    "desc": "canoe. This emoji represents canoe."
+  },
+  {
+    "emoji": "🚤",
+    "desc": "speedboat. This emoji represents speedboat."
+  },
+  {
+    "emoji": "🛳",
+    "desc": "passenger ship. This emoji represents passenger ship."
+  },
+  {
+    "emoji": "⛴",
+    "desc": "ferry. This emoji represents ferry."
+  },
+  {
+    "emoji": "🛥",
+    "desc": "motor boat. This emoji represents motor boat."
+  },
+  {
+    "emoji": "🚢",
+    "desc": "ship. This emoji represents ship."
+  },
+  {
+    "emoji": "✈",
+    "desc": "airplane. This emoji represents airplane."
+  },
+  {
+    "emoji": "🛩",
+    "desc": "small airplane. This emoji represents small airplane."
+  },
+  {
+    "emoji": "🛫",
+    "desc": "airplane departure. This emoji represents airplane departure."
+  },
+  {
+    "emoji": "🛬",
+    "desc": "airplane arrival. This emoji represents airplane arrival."
+  },
+  {
+    "emoji": "🪂",
+    "desc": "parachute. This emoji represents parachute."
+  },
+  {
+    "emoji": "💺",
+    "desc": "seat. This emoji represents seat."
+  },
+  {
+    "emoji": "🚁",
+    "desc": "helicopter. This emoji represents helicopter."
+  },
+  {
+    "emoji": "🚟",
+    "desc": "suspension railway. This emoji represents suspension railway."
+  },
+  {
+    "emoji": "🚠",
+    "desc": "mountain cableway. This emoji represents mountain cableway."
+  },
+  {
+    "emoji": "🚡",
+    "desc": "aerial tramway. This emoji represents aerial tramway."
+  },
+  {
+    "emoji": "🛰",
+    "desc": "satellite. This emoji represents satellite."
+  },
+  {
+    "emoji": "🚀",
+    "desc": "rocket. This emoji represents rocket."
+  },
+  {
+    "emoji": "🛸",
+    "desc": "flying saucer. This emoji represents flying saucer."
+  },
+  {
+    "emoji": "🛎",
+    "desc": "bellhop bell. This emoji represents bellhop bell."
+  },
+  {
+    "emoji": "🧳",
+    "desc": "luggage. This emoji represents luggage."
+  },
+  {
+    "emoji": "⌛",
+    "desc": "hourglass done. This emoji represents hourglass done."
+  },
+  {
+    "emoji": "⏳",
+    "desc": "hourglass not done. This emoji represents hourglass not done."
+  },
+  {
+    "emoji": "⌚",
+    "desc": "watch. This emoji represents watch."
+  },
+  {
+    "emoji": "⏰",
+    "desc": "alarm clock. This emoji represents alarm clock."
+  },
+  {
+    "emoji": "⏱",
+    "desc": "stopwatch. This emoji represents stopwatch."
+  },
+  {
+    "emoji": "⏲",
+    "desc": "timer clock. This emoji represents timer clock."
+  },
+  {
+    "emoji": "🕰",
+    "desc": "mantelpiece clock. This emoji represents mantelpiece clock."
+  },
+  {
+    "emoji": "🕛",
+    "desc": "twelve o’clock. This emoji represents twelve o’clock."
+  },
+  {
+    "emoji": "🕧",
+    "desc": "twelve-thirty. This emoji represents twelve thirty."
+  },
+  {
+    "emoji": "🕐",
+    "desc": "one o’clock. This emoji represents one o’clock."
+  },
+  {
+    "emoji": "🕜",
+    "desc": "one-thirty. This emoji represents one thirty."
+  },
+  {
+    "emoji": "🕑",
+    "desc": "two o’clock. This emoji represents two o’clock."
+  },
+  {
+    "emoji": "🕝",
+    "desc": "two-thirty. This emoji represents two thirty."
+  },
+  {
+    "emoji": "🕒",
+    "desc": "three o’clock. This emoji represents three o’clock."
+  },
+  {
+    "emoji": "🕞",
+    "desc": "three-thirty. This emoji represents three thirty."
+  },
+  {
+    "emoji": "🕓",
+    "desc": "four o’clock. This emoji represents four o’clock."
+  },
+  {
+    "emoji": "🕟",
+    "desc": "four-thirty. This emoji represents four thirty."
+  },
+  {
+    "emoji": "🕔",
+    "desc": "five o’clock. This emoji represents five o’clock."
+  },
+  {
+    "emoji": "🕠",
+    "desc": "five-thirty. This emoji represents five thirty."
+  },
+  {
+    "emoji": "🕕",
+    "desc": "six o’clock. This emoji represents six o’clock."
+  },
+  {
+    "emoji": "🕡",
+    "desc": "six-thirty. This emoji represents six thirty."
+  },
+  {
+    "emoji": "🕖",
+    "desc": "seven o’clock. This emoji represents seven o’clock."
+  },
+  {
+    "emoji": "🕢",
+    "desc": "seven-thirty. This emoji represents seven thirty."
+  },
+  {
+    "emoji": "🕗",
+    "desc": "eight o’clock. This emoji represents eight o’clock."
+  },
+  {
+    "emoji": "🕣",
+    "desc": "eight-thirty. This emoji represents eight thirty."
+  },
+  {
+    "emoji": "🕘",
+    "desc": "nine o’clock. This emoji represents nine o’clock."
+  },
+  {
+    "emoji": "🕤",
+    "desc": "nine-thirty. This emoji represents nine thirty."
+  },
+  {
+    "emoji": "🕙",
+    "desc": "ten o’clock. This emoji represents ten o’clock."
+  },
+  {
+    "emoji": "🕥",
+    "desc": "ten-thirty. This emoji represents ten thirty."
+  },
+  {
+    "emoji": "🕚",
+    "desc": "eleven o’clock. This emoji represents eleven o’clock."
+  },
+  {
+    "emoji": "🕦",
+    "desc": "eleven-thirty. This emoji represents eleven thirty."
+  },
+  {
+    "emoji": "🌑",
+    "desc": "new moon. This emoji represents new moon."
+  },
+  {
+    "emoji": "🌒",
+    "desc": "waxing crescent moon. This emoji represents waxing crescent moon."
+  },
+  {
+    "emoji": "🌓",
+    "desc": "first quarter moon. This emoji represents first quarter moon."
+  },
+  {
+    "emoji": "🌔",
+    "desc": "waxing gibbous moon. This emoji represents waxing gibbous moon."
+  },
+  {
+    "emoji": "🌕",
+    "desc": "full moon. This emoji represents full moon."
+  },
+  {
+    "emoji": "🌖",
+    "desc": "waning gibbous moon. This emoji represents waning gibbous moon."
+  },
+  {
+    "emoji": "🌗",
+    "desc": "last quarter moon. This emoji represents last quarter moon."
+  },
+  {
+    "emoji": "🌘",
+    "desc": "waning crescent moon. This emoji represents waning crescent moon."
+  },
+  {
+    "emoji": "🌙",
+    "desc": "crescent moon. This emoji represents crescent moon."
+  },
+  {
+    "emoji": "🌚",
+    "desc": "new moon face. This emoji represents new moon face."
+  },
+  {
+    "emoji": "🌛",
+    "desc": "first quarter moon face. This emoji represents first quarter moon face."
+  },
+  {
+    "emoji": "🌜",
+    "desc": "last quarter moon face. This emoji represents last quarter moon face."
+  },
+  {
+    "emoji": "🌡",
+    "desc": "thermometer. This emoji represents thermometer."
+  },
+  {
+    "emoji": "☀",
+    "desc": "sun. This emoji represents sun."
+  },
+  {
+    "emoji": "🌝",
+    "desc": "full moon face. This emoji represents full moon face."
+  },
+  {
+    "emoji": "🌞",
+    "desc": "sun with face. This emoji represents sun with face."
+  },
+  {
+    "emoji": "🪐",
+    "desc": "ringed planet. This emoji represents ringed planet."
+  },
+  {
+    "emoji": "⭐",
+    "desc": "star. This emoji represents star."
+  },
+  {
+    "emoji": "🌟",
+    "desc": "glowing star. This emoji represents glowing star."
+  },
+  {
+    "emoji": "🌠",
+    "desc": "shooting star. This emoji represents shooting star."
+  },
+  {
+    "emoji": "🌌",
+    "desc": "milky way. This emoji represents milky way."
+  },
+  {
+    "emoji": "☁",
+    "desc": "cloud. This emoji represents cloud."
+  },
+  {
+    "emoji": "⛅",
+    "desc": "sun behind cloud. This emoji represents sun behind cloud."
+  },
+  {
+    "emoji": "⛈",
+    "desc": "cloud with lightning and rain. This emoji represents cloud with lightning and rain."
+  },
+  {
+    "emoji": "🌤",
+    "desc": "sun behind small cloud. This emoji represents sun behind small cloud."
+  },
+  {
+    "emoji": "🌥",
+    "desc": "sun behind large cloud. This emoji represents sun behind large cloud."
+  },
+  {
+    "emoji": "🌦",
+    "desc": "sun behind rain cloud. This emoji represents sun behind rain cloud."
+  },
+  {
+    "emoji": "🌧",
+    "desc": "cloud with rain. This emoji represents cloud with rain."
+  },
+  {
+    "emoji": "🌨",
+    "desc": "cloud with snow. This emoji represents cloud with snow."
+  },
+  {
+    "emoji": "🌩",
+    "desc": "cloud with lightning. This emoji represents cloud with lightning."
+  },
+  {
+    "emoji": "🌪",
+    "desc": "tornado. This emoji represents tornado."
+  },
+  {
+    "emoji": "🌫",
+    "desc": "fog. This emoji represents fog."
+  },
+  {
+    "emoji": "🌬",
+    "desc": "wind face. This emoji represents wind face."
+  },
+  {
+    "emoji": "🌀",
+    "desc": "cyclone. This emoji represents cyclone."
+  },
+  {
+    "emoji": "🌈",
+    "desc": "rainbow. This emoji represents rainbow."
+  },
+  {
+    "emoji": "🌂",
+    "desc": "closed umbrella. This emoji represents closed umbrella."
+  },
+  {
+    "emoji": "☂",
+    "desc": "umbrella. This emoji represents umbrella."
+  },
+  {
+    "emoji": "☔",
+    "desc": "umbrella with rain drops. This emoji represents umbrella with rain drops."
+  },
+  {
+    "emoji": "⛱",
+    "desc": "umbrella on ground. This emoji represents umbrella on ground."
+  },
+  {
+    "emoji": "⚡",
+    "desc": "high voltage. This emoji represents high voltage."
+  },
+  {
+    "emoji": "❄",
+    "desc": "snowflake. This emoji represents snowflake."
+  },
+  {
+    "emoji": "☃",
+    "desc": "snowman. This emoji represents snowman."
+  },
+  {
+    "emoji": "⛄",
+    "desc": "snowman without snow. This emoji represents snowman without snow."
+  },
+  {
+    "emoji": "☄",
+    "desc": "comet. This emoji represents comet."
+  },
+  {
+    "emoji": "🔥",
+    "desc": "fire. This emoji represents fire."
+  },
+  {
+    "emoji": "💧",
+    "desc": "droplet. This emoji represents droplet."
+  },
+  {
+    "emoji": "🌊",
+    "desc": "water wave. This emoji represents water wave."
+  },
+  {
+    "emoji": "🎃",
+    "desc": "jack-o-lantern. This emoji represents jack o lantern."
+  },
+  {
+    "emoji": "🎄",
+    "desc": "Christmas tree. This emoji represents Christmas tree."
+  },
+  {
+    "emoji": "🎆",
+    "desc": "fireworks. This emoji represents fireworks."
+  },
+  {
+    "emoji": "🎇",
+    "desc": "sparkler. This emoji represents sparkler."
+  },
+  {
+    "emoji": "🧨",
+    "desc": "firecracker. This emoji represents firecracker."
+  },
+  {
+    "emoji": "✨",
+    "desc": "sparkles. This emoji represents sparkles."
+  },
+  {
+    "emoji": "🎈",
+    "desc": "balloon. This emoji represents balloon."
+  },
+  {
+    "emoji": "🎉",
+    "desc": "party popper. This emoji represents party popper."
+  },
+  {
+    "emoji": "🎊",
+    "desc": "confetti ball. This emoji represents confetti ball."
+  },
+  {
+    "emoji": "🎋",
+    "desc": "tanabata tree. This emoji represents tanabata tree."
+  },
+  {
+    "emoji": "🎍",
+    "desc": "pine decoration. This emoji represents pine decoration."
+  },
+  {
+    "emoji": "🎎",
+    "desc": "Japanese dolls. This emoji represents Japanese dolls."
+  },
+  {
+    "emoji": "🎏",
+    "desc": "carp streamer. This emoji represents carp streamer."
   },
   {
     "emoji": "🎐",
-    "desc": "wind chime, gentle wistfulness, soft memories"
+    "desc": "wind chime. This emoji represents wind chime."
   },
   {
-    "emoji": "🪻",
-    "desc": "lavender, nostalgic wistfulness, gentle longing"
+    "emoji": "🎑",
+    "desc": "moon viewing ceremony. This emoji represents moon viewing ceremony."
+  },
+  {
+    "emoji": "🧧",
+    "desc": "red envelope. This emoji represents red envelope."
+  },
+  {
+    "emoji": "🎀",
+    "desc": "ribbon. This emoji represents ribbon."
+  },
+  {
+    "emoji": "🎁",
+    "desc": "wrapped gift. This emoji represents wrapped gift."
+  },
+  {
+    "emoji": "🎗",
+    "desc": "reminder ribbon. This emoji represents reminder ribbon."
+  },
+  {
+    "emoji": "🎟",
+    "desc": "admission tickets. This emoji represents admission tickets."
+  },
+  {
+    "emoji": "🎫",
+    "desc": "ticket. This emoji represents ticket."
+  },
+  {
+    "emoji": "🎖",
+    "desc": "military medal. This emoji represents military medal."
+  },
+  {
+    "emoji": "🏆",
+    "desc": "trophy. This emoji represents trophy."
+  },
+  {
+    "emoji": "🏅",
+    "desc": "sports medal. This emoji represents sports medal."
+  },
+  {
+    "emoji": "🥇",
+    "desc": "1st place medal. This emoji represents 1st place medal."
+  },
+  {
+    "emoji": "🥈",
+    "desc": "2nd place medal. This emoji represents 2nd place medal."
+  },
+  {
+    "emoji": "🥉",
+    "desc": "3rd place medal. This emoji represents 3rd place medal."
+  },
+  {
+    "emoji": "⚽",
+    "desc": "soccer ball. This emoji represents soccer ball."
+  },
+  {
+    "emoji": "⚾",
+    "desc": "baseball. This emoji represents baseball."
+  },
+  {
+    "emoji": "🥎",
+    "desc": "softball. This emoji represents softball."
+  },
+  {
+    "emoji": "🏀",
+    "desc": "basketball. This emoji represents basketball."
+  },
+  {
+    "emoji": "🏐",
+    "desc": "volleyball. This emoji represents volleyball."
+  },
+  {
+    "emoji": "🏈",
+    "desc": "american football. This emoji represents american football."
+  },
+  {
+    "emoji": "🏉",
+    "desc": "rugby football. This emoji represents rugby football."
+  },
+  {
+    "emoji": "🎾",
+    "desc": "tennis. This emoji represents tennis."
+  },
+  {
+    "emoji": "🥏",
+    "desc": "flying disc. This emoji represents flying disc."
+  },
+  {
+    "emoji": "🎳",
+    "desc": "bowling. This emoji represents bowling."
+  },
+  {
+    "emoji": "🏏",
+    "desc": "cricket game. This emoji represents cricket game."
+  },
+  {
+    "emoji": "🏑",
+    "desc": "field hockey. This emoji represents field hockey."
+  },
+  {
+    "emoji": "🏒",
+    "desc": "ice hockey. This emoji represents ice hockey."
+  },
+  {
+    "emoji": "🥍",
+    "desc": "lacrosse. This emoji represents lacrosse."
+  },
+  {
+    "emoji": "🏓",
+    "desc": "ping pong. This emoji represents ping pong."
+  },
+  {
+    "emoji": "🏸",
+    "desc": "badminton. This emoji represents badminton."
+  },
+  {
+    "emoji": "🥊",
+    "desc": "boxing glove. This emoji represents boxing glove."
+  },
+  {
+    "emoji": "🥋",
+    "desc": "martial arts uniform. This emoji represents martial arts uniform."
+  },
+  {
+    "emoji": "🥅",
+    "desc": "goal net. This emoji represents goal net."
+  },
+  {
+    "emoji": "⛳",
+    "desc": "flag in hole. This emoji represents flag in hole."
+  },
+  {
+    "emoji": "⛸",
+    "desc": "ice skate. This emoji represents ice skate."
+  },
+  {
+    "emoji": "🎣",
+    "desc": "fishing pole. This emoji represents fishing pole."
+  },
+  {
+    "emoji": "🤿",
+    "desc": "diving mask. This emoji represents diving mask."
+  },
+  {
+    "emoji": "🎽",
+    "desc": "running shirt. This emoji represents running shirt."
+  },
+  {
+    "emoji": "🎿",
+    "desc": "skis. This emoji represents skis."
+  },
+  {
+    "emoji": "🛷",
+    "desc": "sled. This emoji represents sled."
+  },
+  {
+    "emoji": "🥌",
+    "desc": "curling stone. This emoji represents curling stone."
+  },
+  {
+    "emoji": "🎯",
+    "desc": "bullseye. This emoji represents bullseye."
+  },
+  {
+    "emoji": "🪀",
+    "desc": "yo-yo. This emoji represents yo yo."
+  },
+  {
+    "emoji": "🪁",
+    "desc": "kite. This emoji represents kite."
+  },
+  {
+    "emoji": "🎱",
+    "desc": "pool 8 ball. This emoji represents pool 8 ball."
+  },
+  {
+    "emoji": "🔮",
+    "desc": "crystal ball. This emoji represents crystal ball."
+  },
+  {
+    "emoji": "🪄",
+    "desc": "magic wand. This emoji represents magic wand."
+  },
+  {
+    "emoji": "🧿",
+    "desc": "nazar amulet. This emoji represents nazar amulet."
+  },
+  {
+    "emoji": "🎮",
+    "desc": "video game. This emoji represents video game."
+  },
+  {
+    "emoji": "🕹",
+    "desc": "joystick. This emoji represents joystick."
+  },
+  {
+    "emoji": "🎰",
+    "desc": "slot machine. This emoji represents slot machine."
+  },
+  {
+    "emoji": "🎲",
+    "desc": "game die. This emoji represents game die."
+  },
+  {
+    "emoji": "🧩",
+    "desc": "puzzle piece. This emoji represents puzzle piece."
+  },
+  {
+    "emoji": "🧸",
+    "desc": "teddy bear. This emoji represents teddy bear."
+  },
+  {
+    "emoji": "🪅",
+    "desc": "piñata. This emoji represents piñata."
+  },
+  {
+    "emoji": "🪆",
+    "desc": "nesting dolls. This emoji represents nesting dolls."
+  },
+  {
+    "emoji": "♠",
+    "desc": "spade suit. This emoji represents spade suit."
+  },
+  {
+    "emoji": "♥",
+    "desc": "heart suit. This emoji represents heart suit."
+  },
+  {
+    "emoji": "♦",
+    "desc": "diamond suit. This emoji represents diamond suit."
+  },
+  {
+    "emoji": "♣",
+    "desc": "club suit. This emoji represents club suit."
+  },
+  {
+    "emoji": "♟",
+    "desc": "chess pawn. This emoji represents chess pawn."
+  },
+  {
+    "emoji": "🃏",
+    "desc": "joker. This emoji represents joker."
+  },
+  {
+    "emoji": "🀄",
+    "desc": "mahjong red dragon. This emoji represents mahjong red dragon."
+  },
+  {
+    "emoji": "🎴",
+    "desc": "flower playing cards. This emoji represents flower playing cards."
+  },
+  {
+    "emoji": "🎭",
+    "desc": "performing arts. This emoji represents performing arts."
+  },
+  {
+    "emoji": "🖼",
+    "desc": "framed picture. This emoji represents framed picture."
+  },
+  {
+    "emoji": "🎨",
+    "desc": "artist palette. This emoji represents artist palette."
+  },
+  {
+    "emoji": "🧵",
+    "desc": "thread. This emoji represents thread."
+  },
+  {
+    "emoji": "🪡",
+    "desc": "sewing needle. This emoji represents sewing needle."
+  },
+  {
+    "emoji": "🧶",
+    "desc": "yarn. This emoji represents yarn."
+  },
+  {
+    "emoji": "🪢",
+    "desc": "knot. This emoji represents knot."
+  },
+  {
+    "emoji": "👓",
+    "desc": "glasses. This emoji represents glasses."
+  },
+  {
+    "emoji": "🕶",
+    "desc": "sunglasses. This emoji represents sunglasses."
+  },
+  {
+    "emoji": "🥽",
+    "desc": "goggles. This emoji represents goggles."
+  },
+  {
+    "emoji": "🥼",
+    "desc": "lab coat. This emoji represents lab coat."
+  },
+  {
+    "emoji": "🦺",
+    "desc": "safety vest. This emoji represents safety vest."
+  },
+  {
+    "emoji": "👔",
+    "desc": "necktie. This emoji represents necktie."
+  },
+  {
+    "emoji": "👕",
+    "desc": "t-shirt. This emoji represents t shirt."
+  },
+  {
+    "emoji": "👖",
+    "desc": "jeans. This emoji represents jeans."
+  },
+  {
+    "emoji": "🧣",
+    "desc": "scarf. This emoji represents scarf."
+  },
+  {
+    "emoji": "🧤",
+    "desc": "gloves. This emoji represents gloves."
+  },
+  {
+    "emoji": "🧥",
+    "desc": "coat. This emoji represents coat."
+  },
+  {
+    "emoji": "🧦",
+    "desc": "socks. This emoji represents socks."
+  },
+  {
+    "emoji": "👗",
+    "desc": "dress. This emoji represents dress."
+  },
+  {
+    "emoji": "👘",
+    "desc": "kimono. This emoji represents kimono."
+  },
+  {
+    "emoji": "🥻",
+    "desc": "sari. This emoji represents sari."
+  },
+  {
+    "emoji": "🩱",
+    "desc": "one-piece swimsuit. This emoji represents one piece swimsuit."
+  },
+  {
+    "emoji": "🩲",
+    "desc": "briefs. This emoji represents briefs."
+  },
+  {
+    "emoji": "🩳",
+    "desc": "shorts. This emoji represents shorts."
+  },
+  {
+    "emoji": "👙",
+    "desc": "bikini. This emoji represents bikini."
+  },
+  {
+    "emoji": "👚",
+    "desc": "woman’s clothes. This emoji represents woman’s clothes."
+  },
+  {
+    "emoji": "👛",
+    "desc": "purse. This emoji represents purse."
+  },
+  {
+    "emoji": "👜",
+    "desc": "handbag. This emoji represents handbag."
+  },
+  {
+    "emoji": "👝",
+    "desc": "clutch bag. This emoji represents clutch bag."
+  },
+  {
+    "emoji": "🛍",
+    "desc": "shopping bags. This emoji represents shopping bags."
+  },
+  {
+    "emoji": "🎒",
+    "desc": "backpack. This emoji represents backpack."
+  },
+  {
+    "emoji": "🩴",
+    "desc": "thong sandal. This emoji represents thong sandal."
+  },
+  {
+    "emoji": "👞",
+    "desc": "man’s shoe. This emoji represents man’s shoe."
+  },
+  {
+    "emoji": "👟",
+    "desc": "running shoe. This emoji represents running shoe."
+  },
+  {
+    "emoji": "🥾",
+    "desc": "hiking boot. This emoji represents hiking boot."
+  },
+  {
+    "emoji": "🥿",
+    "desc": "flat shoe. This emoji represents flat shoe."
+  },
+  {
+    "emoji": "👠",
+    "desc": "high-heeled shoe. This emoji represents high heeled shoe."
+  },
+  {
+    "emoji": "👡",
+    "desc": "woman’s sandal. This emoji represents woman’s sandal."
+  },
+  {
+    "emoji": "🩰",
+    "desc": "ballet shoes. This emoji represents ballet shoes."
+  },
+  {
+    "emoji": "👢",
+    "desc": "woman’s boot. This emoji represents woman’s boot."
+  },
+  {
+    "emoji": "👑",
+    "desc": "crown. This emoji represents crown."
+  },
+  {
+    "emoji": "👒",
+    "desc": "woman’s hat. This emoji represents woman’s hat."
+  },
+  {
+    "emoji": "🎩",
+    "desc": "top hat. This emoji represents top hat."
+  },
+  {
+    "emoji": "🎓",
+    "desc": "graduation cap. This emoji represents graduation cap."
+  },
+  {
+    "emoji": "🧢",
+    "desc": "billed cap. This emoji represents billed cap."
+  },
+  {
+    "emoji": "🪖",
+    "desc": "military helmet. This emoji represents military helmet."
+  },
+  {
+    "emoji": "⛑",
+    "desc": "rescue worker’s helmet. This emoji represents rescue worker’s helmet."
+  },
+  {
+    "emoji": "📿",
+    "desc": "prayer beads. This emoji represents prayer beads."
+  },
+  {
+    "emoji": "💄",
+    "desc": "lipstick. This emoji represents lipstick."
+  },
+  {
+    "emoji": "💍",
+    "desc": "ring. This emoji represents ring."
+  },
+  {
+    "emoji": "💎",
+    "desc": "gem stone. This emoji represents gem stone."
+  },
+  {
+    "emoji": "🔇",
+    "desc": "muted speaker. This emoji represents muted speaker."
+  },
+  {
+    "emoji": "🔈",
+    "desc": "speaker low volume. This emoji represents speaker low volume."
+  },
+  {
+    "emoji": "🔉",
+    "desc": "speaker medium volume. This emoji represents speaker medium volume."
+  },
+  {
+    "emoji": "🔊",
+    "desc": "speaker high volume. This emoji represents speaker high volume."
+  },
+  {
+    "emoji": "📢",
+    "desc": "loudspeaker. This emoji represents loudspeaker."
+  },
+  {
+    "emoji": "📣",
+    "desc": "megaphone. This emoji represents megaphone."
+  },
+  {
+    "emoji": "📯",
+    "desc": "postal horn. This emoji represents postal horn."
+  },
+  {
+    "emoji": "🔔",
+    "desc": "bell. This emoji represents bell."
+  },
+  {
+    "emoji": "🔕",
+    "desc": "bell with slash. This emoji represents bell with slash."
+  },
+  {
+    "emoji": "🎼",
+    "desc": "musical score. This emoji represents musical score."
+  },
+  {
+    "emoji": "🎵",
+    "desc": "musical note. This emoji represents musical note."
+  },
+  {
+    "emoji": "🎶",
+    "desc": "musical notes. This emoji represents musical notes."
+  },
+  {
+    "emoji": "🎙",
+    "desc": "studio microphone. This emoji represents studio microphone."
+  },
+  {
+    "emoji": "🎚",
+    "desc": "level slider. This emoji represents level slider."
+  },
+  {
+    "emoji": "🎛",
+    "desc": "control knobs. This emoji represents control knobs."
+  },
+  {
+    "emoji": "🎤",
+    "desc": "microphone. This emoji represents microphone."
+  },
+  {
+    "emoji": "🎧",
+    "desc": "headphone. This emoji represents headphone."
+  },
+  {
+    "emoji": "📻",
+    "desc": "radio. This emoji represents radio."
+  },
+  {
+    "emoji": "🎷",
+    "desc": "saxophone. This emoji represents saxophone."
+  },
+  {
+    "emoji": "🪗",
+    "desc": "accordion. This emoji represents accordion."
+  },
+  {
+    "emoji": "🎸",
+    "desc": "guitar. This emoji represents guitar."
+  },
+  {
+    "emoji": "🎹",
+    "desc": "musical keyboard. This emoji represents musical keyboard."
+  },
+  {
+    "emoji": "🎺",
+    "desc": "trumpet. This emoji represents trumpet."
+  },
+  {
+    "emoji": "🎻",
+    "desc": "violin. This emoji represents violin."
+  },
+  {
+    "emoji": "🪕",
+    "desc": "banjo. This emoji represents banjo."
+  },
+  {
+    "emoji": "🥁",
+    "desc": "drum. This emoji represents drum."
+  },
+  {
+    "emoji": "🪘",
+    "desc": "long drum. This emoji represents long drum."
+  },
+  {
+    "emoji": "📱",
+    "desc": "mobile phone. This emoji represents mobile phone."
+  },
+  {
+    "emoji": "📲",
+    "desc": "mobile phone with arrow. This emoji represents mobile phone with arrow."
+  },
+  {
+    "emoji": "☎",
+    "desc": "telephone. This emoji represents telephone."
+  },
+  {
+    "emoji": "📞",
+    "desc": "telephone receiver. This emoji represents telephone receiver."
+  },
+  {
+    "emoji": "📟",
+    "desc": "pager. This emoji represents pager."
+  },
+  {
+    "emoji": "📠",
+    "desc": "fax machine. This emoji represents fax machine."
+  },
+  {
+    "emoji": "🔋",
+    "desc": "battery. This emoji represents battery."
+  },
+  {
+    "emoji": "🔌",
+    "desc": "electric plug. This emoji represents electric plug."
+  },
+  {
+    "emoji": "💻",
+    "desc": "laptop. This emoji represents laptop."
+  },
+  {
+    "emoji": "🖥",
+    "desc": "desktop computer. This emoji represents desktop computer."
+  },
+  {
+    "emoji": "🖨",
+    "desc": "printer. This emoji represents printer."
+  },
+  {
+    "emoji": "⌨",
+    "desc": "keyboard. This emoji represents keyboard."
+  },
+  {
+    "emoji": "🖱",
+    "desc": "computer mouse. This emoji represents computer mouse."
+  },
+  {
+    "emoji": "🖲",
+    "desc": "trackball. This emoji represents trackball."
+  },
+  {
+    "emoji": "💽",
+    "desc": "computer disk. This emoji represents computer disk."
+  },
+  {
+    "emoji": "💾",
+    "desc": "floppy disk. This emoji represents floppy disk."
+  },
+  {
+    "emoji": "💿",
+    "desc": "optical disk. This emoji represents optical disk."
+  },
+  {
+    "emoji": "📀",
+    "desc": "dvd. This emoji represents dvd."
+  },
+  {
+    "emoji": "🧮",
+    "desc": "abacus. This emoji represents abacus."
+  },
+  {
+    "emoji": "🎥",
+    "desc": "movie camera. This emoji represents movie camera."
+  },
+  {
+    "emoji": "🎞",
+    "desc": "film frames. This emoji represents film frames."
+  },
+  {
+    "emoji": "📽",
+    "desc": "film projector. This emoji represents film projector."
+  },
+  {
+    "emoji": "🎬",
+    "desc": "clapper board. This emoji represents clapper board."
+  },
+  {
+    "emoji": "📺",
+    "desc": "television. This emoji represents television."
+  },
+  {
+    "emoji": "📷",
+    "desc": "camera. This emoji represents camera."
+  },
+  {
+    "emoji": "📸",
+    "desc": "camera with flash. This emoji represents camera with flash."
+  },
+  {
+    "emoji": "📹",
+    "desc": "video camera. This emoji represents video camera."
+  },
+  {
+    "emoji": "📼",
+    "desc": "videocassette. This emoji represents videocassette."
+  },
+  {
+    "emoji": "🔍",
+    "desc": "magnifying glass tilted left. This emoji represents magnifying glass tilted left."
+  },
+  {
+    "emoji": "🔎",
+    "desc": "magnifying glass tilted right. This emoji represents magnifying glass tilted right."
+  },
+  {
+    "emoji": "🕯",
+    "desc": "candle. This emoji represents candle."
+  },
+  {
+    "emoji": "💡",
+    "desc": "light bulb. This emoji represents light bulb."
+  },
+  {
+    "emoji": "🔦",
+    "desc": "flashlight. This emoji represents flashlight."
+  },
+  {
+    "emoji": "🏮",
+    "desc": "red paper lantern. This emoji represents red paper lantern."
+  },
+  {
+    "emoji": "🪔",
+    "desc": "diya lamp. This emoji represents diya lamp."
+  },
+  {
+    "emoji": "📔",
+    "desc": "notebook with decorative cover. This emoji represents notebook with decorative cover."
+  },
+  {
+    "emoji": "📕",
+    "desc": "closed book. This emoji represents closed book."
+  },
+  {
+    "emoji": "📖",
+    "desc": "open book. This emoji represents open book."
+  },
+  {
+    "emoji": "📗",
+    "desc": "green book. This emoji represents green book."
+  },
+  {
+    "emoji": "📘",
+    "desc": "blue book. This emoji represents blue book."
+  },
+  {
+    "emoji": "📙",
+    "desc": "orange book. This emoji represents orange book."
+  },
+  {
+    "emoji": "📚",
+    "desc": "books. This emoji represents books."
+  },
+  {
+    "emoji": "📓",
+    "desc": "notebook. This emoji represents notebook."
+  },
+  {
+    "emoji": "📒",
+    "desc": "ledger. This emoji represents ledger."
+  },
+  {
+    "emoji": "📃",
+    "desc": "page with curl. This emoji represents page with curl."
+  },
+  {
+    "emoji": "📜",
+    "desc": "scroll. This emoji represents scroll."
+  },
+  {
+    "emoji": "📄",
+    "desc": "page facing up. This emoji represents page facing up."
+  },
+  {
+    "emoji": "📰",
+    "desc": "newspaper. This emoji represents newspaper."
+  },
+  {
+    "emoji": "🗞",
+    "desc": "rolled-up newspaper. This emoji represents rolled up newspaper."
+  },
+  {
+    "emoji": "📑",
+    "desc": "bookmark tabs. This emoji represents bookmark tabs."
+  },
+  {
+    "emoji": "🔖",
+    "desc": "bookmark. This emoji represents bookmark."
+  },
+  {
+    "emoji": "🏷",
+    "desc": "label. This emoji represents label."
+  },
+  {
+    "emoji": "💰",
+    "desc": "money bag. This emoji represents money bag."
+  },
+  {
+    "emoji": "🪙",
+    "desc": "coin. This emoji represents coin."
+  },
+  {
+    "emoji": "💴",
+    "desc": "yen banknote. This emoji represents yen banknote."
+  },
+  {
+    "emoji": "💵",
+    "desc": "dollar banknote. This emoji represents dollar banknote."
+  },
+  {
+    "emoji": "💶",
+    "desc": "euro banknote. This emoji represents euro banknote."
+  },
+  {
+    "emoji": "💷",
+    "desc": "pound banknote. This emoji represents pound banknote."
+  },
+  {
+    "emoji": "💸",
+    "desc": "money with wings. This emoji represents money with wings."
+  },
+  {
+    "emoji": "💳",
+    "desc": "credit card. This emoji represents credit card."
+  },
+  {
+    "emoji": "🧾",
+    "desc": "receipt. This emoji represents receipt."
+  },
+  {
+    "emoji": "💹",
+    "desc": "chart increasing with yen. This emoji represents chart increasing with yen."
+  },
+  {
+    "emoji": "✉",
+    "desc": "envelope. This emoji represents envelope."
+  },
+  {
+    "emoji": "📧",
+    "desc": "e-mail. This emoji represents e mail."
+  },
+  {
+    "emoji": "📨",
+    "desc": "incoming envelope. This emoji represents incoming envelope."
+  },
+  {
+    "emoji": "📩",
+    "desc": "envelope with arrow. This emoji represents envelope with arrow."
+  },
+  {
+    "emoji": "📤",
+    "desc": "outbox tray. This emoji represents outbox tray."
+  },
+  {
+    "emoji": "📥",
+    "desc": "inbox tray. This emoji represents inbox tray."
+  },
+  {
+    "emoji": "📦",
+    "desc": "package. This emoji represents package."
+  },
+  {
+    "emoji": "📫",
+    "desc": "closed mailbox with raised flag. This emoji represents closed mailbox with raised flag."
+  },
+  {
+    "emoji": "📪",
+    "desc": "closed mailbox with lowered flag. This emoji represents closed mailbox with lowered flag."
+  },
+  {
+    "emoji": "📬",
+    "desc": "open mailbox with raised flag. This emoji represents open mailbox with raised flag."
+  },
+  {
+    "emoji": "📭",
+    "desc": "open mailbox with lowered flag. This emoji represents open mailbox with lowered flag."
+  },
+  {
+    "emoji": "📮",
+    "desc": "postbox. This emoji represents postbox."
+  },
+  {
+    "emoji": "🗳",
+    "desc": "ballot box with ballot. This emoji represents ballot box with ballot."
+  },
+  {
+    "emoji": "✏",
+    "desc": "pencil. This emoji represents pencil."
+  },
+  {
+    "emoji": "✒",
+    "desc": "black nib. This emoji represents black nib."
+  },
+  {
+    "emoji": "🖋",
+    "desc": "fountain pen. This emoji represents fountain pen."
+  },
+  {
+    "emoji": "🖊",
+    "desc": "pen. This emoji represents pen."
+  },
+  {
+    "emoji": "🖌",
+    "desc": "paintbrush. This emoji represents paintbrush."
+  },
+  {
+    "emoji": "🖍",
+    "desc": "crayon. This emoji represents crayon."
+  },
+  {
+    "emoji": "📝",
+    "desc": "memo. This emoji represents memo."
+  },
+  {
+    "emoji": "💼",
+    "desc": "briefcase. This emoji represents briefcase."
+  },
+  {
+    "emoji": "📁",
+    "desc": "file folder. This emoji represents file folder."
+  },
+  {
+    "emoji": "📂",
+    "desc": "open file folder. This emoji represents open file folder."
+  },
+  {
+    "emoji": "🗂",
+    "desc": "card index dividers. This emoji represents card index dividers."
+  },
+  {
+    "emoji": "📅",
+    "desc": "calendar. This emoji represents calendar."
+  },
+  {
+    "emoji": "📆",
+    "desc": "tear-off calendar. This emoji represents tear off calendar."
+  },
+  {
+    "emoji": "🗒",
+    "desc": "spiral notepad. This emoji represents spiral notepad."
+  },
+  {
+    "emoji": "🗓",
+    "desc": "spiral calendar. This emoji represents spiral calendar."
+  },
+  {
+    "emoji": "📇",
+    "desc": "card index. This emoji represents card index."
+  },
+  {
+    "emoji": "📈",
+    "desc": "chart increasing. This emoji represents chart increasing."
+  },
+  {
+    "emoji": "📉",
+    "desc": "chart decreasing. This emoji represents chart decreasing."
+  },
+  {
+    "emoji": "📊",
+    "desc": "bar chart. This emoji represents bar chart."
+  },
+  {
+    "emoji": "📋",
+    "desc": "clipboard. This emoji represents clipboard."
+  },
+  {
+    "emoji": "📌",
+    "desc": "pushpin. This emoji represents pushpin."
+  },
+  {
+    "emoji": "📍",
+    "desc": "round pushpin. This emoji represents round pushpin."
+  },
+  {
+    "emoji": "📎",
+    "desc": "paperclip. This emoji represents paperclip."
+  },
+  {
+    "emoji": "🖇",
+    "desc": "linked paperclips. This emoji represents linked paperclips."
+  },
+  {
+    "emoji": "📏",
+    "desc": "straight ruler. This emoji represents straight ruler."
+  },
+  {
+    "emoji": "📐",
+    "desc": "triangular ruler. This emoji represents triangular ruler."
+  },
+  {
+    "emoji": "✂",
+    "desc": "scissors. This emoji represents scissors."
+  },
+  {
+    "emoji": "🗃",
+    "desc": "card file box. This emoji represents card file box."
+  },
+  {
+    "emoji": "🗄",
+    "desc": "file cabinet. This emoji represents file cabinet."
+  },
+  {
+    "emoji": "🗑",
+    "desc": "wastebasket. This emoji represents wastebasket."
+  },
+  {
+    "emoji": "🔒",
+    "desc": "locked. This emoji represents locked."
+  },
+  {
+    "emoji": "🔓",
+    "desc": "unlocked. This emoji represents unlocked."
+  },
+  {
+    "emoji": "🔏",
+    "desc": "locked with pen. This emoji represents locked with pen."
+  },
+  {
+    "emoji": "🔐",
+    "desc": "locked with key. This emoji represents locked with key."
+  },
+  {
+    "emoji": "🔑",
+    "desc": "key. This emoji represents key."
+  },
+  {
+    "emoji": "🗝",
+    "desc": "old key. This emoji represents old key."
+  },
+  {
+    "emoji": "🔨",
+    "desc": "hammer. This emoji represents hammer."
+  },
+  {
+    "emoji": "🪓",
+    "desc": "axe. This emoji represents axe."
+  },
+  {
+    "emoji": "⛏",
+    "desc": "pick. This emoji represents pick."
+  },
+  {
+    "emoji": "⚒",
+    "desc": "hammer and pick. This emoji represents hammer and pick."
+  },
+  {
+    "emoji": "🛠",
+    "desc": "hammer and wrench. This emoji represents hammer and wrench."
+  },
+  {
+    "emoji": "🗡",
+    "desc": "dagger. This emoji represents dagger."
+  },
+  {
+    "emoji": "⚔",
+    "desc": "crossed swords. This emoji represents crossed swords."
+  },
+  {
+    "emoji": "🔫",
+    "desc": "water pistol. This emoji represents water pistol."
+  },
+  {
+    "emoji": "🪃",
+    "desc": "boomerang. This emoji represents boomerang."
+  },
+  {
+    "emoji": "🏹",
+    "desc": "bow and arrow. This emoji represents bow and arrow."
+  },
+  {
+    "emoji": "🛡",
+    "desc": "shield. This emoji represents shield."
+  },
+  {
+    "emoji": "🪚",
+    "desc": "carpentry saw. This emoji represents carpentry saw."
+  },
+  {
+    "emoji": "🔧",
+    "desc": "wrench. This emoji represents wrench."
+  },
+  {
+    "emoji": "🪛",
+    "desc": "screwdriver. This emoji represents screwdriver."
+  },
+  {
+    "emoji": "🔩",
+    "desc": "nut and bolt. This emoji represents nut and bolt."
+  },
+  {
+    "emoji": "⚙",
+    "desc": "gear. This emoji represents gear."
+  },
+  {
+    "emoji": "🗜",
+    "desc": "clamp. This emoji represents clamp."
+  },
+  {
+    "emoji": "⚖",
+    "desc": "balance scale. This emoji represents balance scale."
+  },
+  {
+    "emoji": "🦯",
+    "desc": "white cane. This emoji represents white cane."
+  },
+  {
+    "emoji": "🔗",
+    "desc": "link. This emoji represents link."
+  },
+  {
+    "emoji": "⛓",
+    "desc": "chains. This emoji represents chains."
+  },
+  {
+    "emoji": "🪝",
+    "desc": "hook. This emoji represents hook."
+  },
+  {
+    "emoji": "🧰",
+    "desc": "toolbox. This emoji represents toolbox."
+  },
+  {
+    "emoji": "🧲",
+    "desc": "magnet. This emoji represents magnet."
+  },
+  {
+    "emoji": "🪜",
+    "desc": "ladder. This emoji represents ladder."
+  },
+  {
+    "emoji": "⚗",
+    "desc": "alembic. This emoji represents alembic."
+  },
+  {
+    "emoji": "🧪",
+    "desc": "test tube. This emoji represents test tube."
+  },
+  {
+    "emoji": "🧫",
+    "desc": "petri dish. This emoji represents petri dish."
+  },
+  {
+    "emoji": "🧬",
+    "desc": "dna. This emoji represents dna."
+  },
+  {
+    "emoji": "🔬",
+    "desc": "microscope. This emoji represents microscope."
+  },
+  {
+    "emoji": "🔭",
+    "desc": "telescope. This emoji represents telescope."
+  },
+  {
+    "emoji": "📡",
+    "desc": "satellite antenna. This emoji represents satellite antenna."
+  },
+  {
+    "emoji": "💉",
+    "desc": "syringe. This emoji represents syringe."
+  },
+  {
+    "emoji": "🩸",
+    "desc": "drop of blood. This emoji represents drop of blood."
+  },
+  {
+    "emoji": "💊",
+    "desc": "pill. This emoji represents pill."
+  },
+  {
+    "emoji": "🩹",
+    "desc": "adhesive bandage. This emoji represents adhesive bandage."
+  },
+  {
+    "emoji": "🩺",
+    "desc": "stethoscope. This emoji represents stethoscope."
+  },
+  {
+    "emoji": "🚪",
+    "desc": "door. This emoji represents door."
+  },
+  {
+    "emoji": "🛗",
+    "desc": "elevator. This emoji represents elevator."
+  },
+  {
+    "emoji": "🪞",
+    "desc": "mirror. This emoji represents mirror."
+  },
+  {
+    "emoji": "🪟",
+    "desc": "window. This emoji represents window."
+  },
+  {
+    "emoji": "🛏",
+    "desc": "bed. This emoji represents bed."
+  },
+  {
+    "emoji": "🛋",
+    "desc": "couch and lamp. This emoji represents couch and lamp."
+  },
+  {
+    "emoji": "🪑",
+    "desc": "chair. This emoji represents chair."
+  },
+  {
+    "emoji": "🚽",
+    "desc": "toilet. This emoji represents toilet."
+  },
+  {
+    "emoji": "🪠",
+    "desc": "plunger. This emoji represents plunger."
+  },
+  {
+    "emoji": "🚿",
+    "desc": "shower. This emoji represents shower."
+  },
+  {
+    "emoji": "🛁",
+    "desc": "bathtub. This emoji represents bathtub."
+  },
+  {
+    "emoji": "🪤",
+    "desc": "mouse trap. This emoji represents mouse trap."
+  },
+  {
+    "emoji": "🪒",
+    "desc": "razor. This emoji represents razor."
+  },
+  {
+    "emoji": "🧴",
+    "desc": "lotion bottle. This emoji represents lotion bottle."
+  },
+  {
+    "emoji": "🧷",
+    "desc": "safety pin. This emoji represents safety pin."
+  },
+  {
+    "emoji": "🧹",
+    "desc": "broom. This emoji represents broom."
+  },
+  {
+    "emoji": "🧺",
+    "desc": "basket. This emoji represents basket."
+  },
+  {
+    "emoji": "🧻",
+    "desc": "roll of paper. This emoji represents roll of paper."
+  },
+  {
+    "emoji": "🪣",
+    "desc": "bucket. This emoji represents bucket."
+  },
+  {
+    "emoji": "🧼",
+    "desc": "soap. This emoji represents soap."
+  },
+  {
+    "emoji": "🪥",
+    "desc": "toothbrush. This emoji represents toothbrush."
+  },
+  {
+    "emoji": "🧽",
+    "desc": "sponge. This emoji represents sponge."
+  },
+  {
+    "emoji": "🧯",
+    "desc": "fire extinguisher. This emoji represents fire extinguisher."
+  },
+  {
+    "emoji": "🛒",
+    "desc": "shopping cart. This emoji represents shopping cart."
+  },
+  {
+    "emoji": "🚬",
+    "desc": "cigarette. This emoji represents cigarette."
+  },
+  {
+    "emoji": "⚰",
+    "desc": "coffin. This emoji represents coffin."
+  },
+  {
+    "emoji": "🪦",
+    "desc": "headstone. This emoji represents headstone."
+  },
+  {
+    "emoji": "⚱",
+    "desc": "funeral urn. This emoji represents funeral urn."
+  },
+  {
+    "emoji": "🗿",
+    "desc": "moai. This emoji represents moai."
+  },
+  {
+    "emoji": "🪧",
+    "desc": "placard. This emoji represents placard."
+  },
+  {
+    "emoji": "🏧",
+    "desc": "ATM sign. This emoji represents ATM sign."
+  },
+  {
+    "emoji": "🚮",
+    "desc": "litter in bin sign. This emoji represents litter in bin sign."
+  },
+  {
+    "emoji": "🚰",
+    "desc": "potable water. This emoji represents potable water."
+  },
+  {
+    "emoji": "♿",
+    "desc": "wheelchair symbol. This emoji represents wheelchair symbol."
+  },
+  {
+    "emoji": "🚹",
+    "desc": "men’s room. This emoji represents men’s room."
+  },
+  {
+    "emoji": "🚺",
+    "desc": "women’s room. This emoji represents women’s room."
+  },
+  {
+    "emoji": "🚻",
+    "desc": "restroom. This emoji represents restroom."
+  },
+  {
+    "emoji": "🚼",
+    "desc": "baby symbol. This emoji represents baby symbol."
+  },
+  {
+    "emoji": "🚾",
+    "desc": "water closet. This emoji represents water closet."
+  },
+  {
+    "emoji": "🛂",
+    "desc": "passport control. This emoji represents passport control."
+  },
+  {
+    "emoji": "🛃",
+    "desc": "customs. This emoji represents customs."
+  },
+  {
+    "emoji": "🛄",
+    "desc": "baggage claim. This emoji represents baggage claim."
+  },
+  {
+    "emoji": "🛅",
+    "desc": "left luggage. This emoji represents left luggage."
+  },
+  {
+    "emoji": "⚠",
+    "desc": "warning. This emoji represents warning."
+  },
+  {
+    "emoji": "🚸",
+    "desc": "children crossing. This emoji represents children crossing."
+  },
+  {
+    "emoji": "⛔",
+    "desc": "no entry. This emoji represents no entry."
+  },
+  {
+    "emoji": "🚫",
+    "desc": "prohibited. This emoji represents prohibited."
+  },
+  {
+    "emoji": "🚳",
+    "desc": "no bicycles. This emoji represents no bicycles."
+  },
+  {
+    "emoji": "🚭",
+    "desc": "no smoking. This emoji represents no smoking."
+  },
+  {
+    "emoji": "🚯",
+    "desc": "no littering. This emoji represents no littering."
+  },
+  {
+    "emoji": "🚱",
+    "desc": "non-potable water. This emoji represents non potable water."
+  },
+  {
+    "emoji": "🚷",
+    "desc": "no pedestrians. This emoji represents no pedestrians."
+  },
+  {
+    "emoji": "📵",
+    "desc": "no mobile phones. This emoji represents no mobile phones."
+  },
+  {
+    "emoji": "🔞",
+    "desc": "no one under eighteen. This emoji represents no one under eighteen."
+  },
+  {
+    "emoji": "☢",
+    "desc": "radioactive. This emoji represents radioactive."
+  },
+  {
+    "emoji": "☣",
+    "desc": "biohazard. This emoji represents biohazard."
+  },
+  {
+    "emoji": "⬆",
+    "desc": "up arrow. This emoji represents up arrow."
+  },
+  {
+    "emoji": "↗",
+    "desc": "up-right arrow. This emoji represents up right arrow."
+  },
+  {
+    "emoji": "➡",
+    "desc": "right arrow. This emoji represents right arrow."
+  },
+  {
+    "emoji": "↘",
+    "desc": "down-right arrow. This emoji represents down right arrow."
+  },
+  {
+    "emoji": "⬇",
+    "desc": "down arrow. This emoji represents down arrow."
+  },
+  {
+    "emoji": "↙",
+    "desc": "down-left arrow. This emoji represents down left arrow."
+  },
+  {
+    "emoji": "⬅",
+    "desc": "left arrow. This emoji represents left arrow."
+  },
+  {
+    "emoji": "↖",
+    "desc": "up-left arrow. This emoji represents up left arrow."
+  },
+  {
+    "emoji": "↕",
+    "desc": "up-down arrow. This emoji represents up down arrow."
+  },
+  {
+    "emoji": "↔",
+    "desc": "left-right arrow. This emoji represents left right arrow."
+  },
+  {
+    "emoji": "↩",
+    "desc": "right arrow curving left. This emoji represents right arrow curving left."
+  },
+  {
+    "emoji": "↪",
+    "desc": "left arrow curving right. This emoji represents left arrow curving right."
+  },
+  {
+    "emoji": "⤴",
+    "desc": "right arrow curving up. This emoji represents right arrow curving up."
+  },
+  {
+    "emoji": "⤵",
+    "desc": "right arrow curving down. This emoji represents right arrow curving down."
+  },
+  {
+    "emoji": "🔃",
+    "desc": "clockwise vertical arrows. This emoji represents clockwise vertical arrows."
+  },
+  {
+    "emoji": "🔄",
+    "desc": "counterclockwise arrows button. This emoji represents counterclockwise arrows button."
+  },
+  {
+    "emoji": "🔙",
+    "desc": "BACK arrow. This emoji represents BACK arrow."
+  },
+  {
+    "emoji": "🔚",
+    "desc": "END arrow. This emoji represents END arrow."
+  },
+  {
+    "emoji": "🔛",
+    "desc": "ON! arrow. This emoji represents ON! arrow."
+  },
+  {
+    "emoji": "🔜",
+    "desc": "SOON arrow. This emoji represents SOON arrow."
+  },
+  {
+    "emoji": "🔝",
+    "desc": "TOP arrow. This emoji represents TOP arrow."
+  },
+  {
+    "emoji": "🛐",
+    "desc": "place of worship. This emoji represents place of worship."
+  },
+  {
+    "emoji": "⚛",
+    "desc": "atom symbol. This emoji represents atom symbol."
+  },
+  {
+    "emoji": "🕉",
+    "desc": "om. This emoji represents om."
+  },
+  {
+    "emoji": "✡",
+    "desc": "star of David. This emoji represents star of David."
+  },
+  {
+    "emoji": "☸",
+    "desc": "wheel of dharma. This emoji represents wheel of dharma."
+  },
+  {
+    "emoji": "☯",
+    "desc": "yin yang. This emoji represents yin yang."
+  },
+  {
+    "emoji": "✝",
+    "desc": "latin cross. This emoji represents latin cross."
+  },
+  {
+    "emoji": "☦",
+    "desc": "orthodox cross. This emoji represents orthodox cross."
+  },
+  {
+    "emoji": "☪",
+    "desc": "star and crescent. This emoji represents star and crescent."
+  },
+  {
+    "emoji": "☮",
+    "desc": "peace symbol. This emoji represents peace symbol."
+  },
+  {
+    "emoji": "🕎",
+    "desc": "menorah. This emoji represents menorah."
+  },
+  {
+    "emoji": "🔯",
+    "desc": "dotted six-pointed star. This emoji represents dotted six pointed star."
+  },
+  {
+    "emoji": "♈",
+    "desc": "Aries. This emoji represents Aries."
+  },
+  {
+    "emoji": "♉",
+    "desc": "Taurus. This emoji represents Taurus."
+  },
+  {
+    "emoji": "♊",
+    "desc": "Gemini. This emoji represents Gemini."
+  },
+  {
+    "emoji": "♋",
+    "desc": "Cancer. This emoji represents Cancer."
+  },
+  {
+    "emoji": "♌",
+    "desc": "Leo. This emoji represents Leo."
+  },
+  {
+    "emoji": "♍",
+    "desc": "Virgo. This emoji represents Virgo."
+  },
+  {
+    "emoji": "♎",
+    "desc": "Libra. This emoji represents Libra."
+  },
+  {
+    "emoji": "♏",
+    "desc": "Scorpio. This emoji represents Scorpio."
+  },
+  {
+    "emoji": "♐",
+    "desc": "Sagittarius. This emoji represents Sagittarius."
+  },
+  {
+    "emoji": "♑",
+    "desc": "Capricorn. This emoji represents Capricorn."
+  },
+  {
+    "emoji": "♒",
+    "desc": "Aquarius. This emoji represents Aquarius."
+  },
+  {
+    "emoji": "♓",
+    "desc": "Pisces. This emoji represents Pisces."
+  },
+  {
+    "emoji": "⛎",
+    "desc": "Ophiuchus. This emoji represents Ophiuchus."
+  },
+  {
+    "emoji": "🔀",
+    "desc": "shuffle tracks button. This emoji represents shuffle tracks button."
+  },
+  {
+    "emoji": "🔁",
+    "desc": "repeat button. This emoji represents repeat button."
+  },
+  {
+    "emoji": "🔂",
+    "desc": "repeat single button. This emoji represents repeat single button."
+  },
+  {
+    "emoji": "▶",
+    "desc": "play button. This emoji represents play button."
+  },
+  {
+    "emoji": "⏩",
+    "desc": "fast-forward button. This emoji represents fast forward button."
+  },
+  {
+    "emoji": "⏭",
+    "desc": "next track button. This emoji represents next track button."
+  },
+  {
+    "emoji": "⏯",
+    "desc": "play or pause button. This emoji represents play or pause button."
+  },
+  {
+    "emoji": "◀",
+    "desc": "reverse button. This emoji represents reverse button."
+  },
+  {
+    "emoji": "⏪",
+    "desc": "fast reverse button. This emoji represents fast reverse button."
+  },
+  {
+    "emoji": "⏮",
+    "desc": "last track button. This emoji represents last track button."
+  },
+  {
+    "emoji": "🔼",
+    "desc": "upwards button. This emoji represents upwards button."
+  },
+  {
+    "emoji": "⏫",
+    "desc": "fast up button. This emoji represents fast up button."
+  },
+  {
+    "emoji": "🔽",
+    "desc": "downwards button. This emoji represents downwards button."
+  },
+  {
+    "emoji": "⏬",
+    "desc": "fast down button. This emoji represents fast down button."
+  },
+  {
+    "emoji": "⏸",
+    "desc": "pause button. This emoji represents pause button."
+  },
+  {
+    "emoji": "⏹",
+    "desc": "stop button. This emoji represents stop button."
+  },
+  {
+    "emoji": "⏺",
+    "desc": "record button. This emoji represents record button."
+  },
+  {
+    "emoji": "⏏",
+    "desc": "eject button. This emoji represents eject button."
+  },
+  {
+    "emoji": "🎦",
+    "desc": "cinema. This emoji represents cinema."
+  },
+  {
+    "emoji": "🔅",
+    "desc": "dim button. This emoji represents dim button."
+  },
+  {
+    "emoji": "🔆",
+    "desc": "bright button. This emoji represents bright button."
+  },
+  {
+    "emoji": "📶",
+    "desc": "antenna bars. This emoji represents antenna bars."
+  },
+  {
+    "emoji": "📳",
+    "desc": "vibration mode. This emoji represents vibration mode."
+  },
+  {
+    "emoji": "📴",
+    "desc": "mobile phone off. This emoji represents mobile phone off."
+  },
+  {
+    "emoji": "♀",
+    "desc": "female sign. This emoji represents female sign."
+  },
+  {
+    "emoji": "♂",
+    "desc": "male sign. This emoji represents male sign."
+  },
+  {
+    "emoji": "⚧",
+    "desc": "transgender symbol. This emoji represents transgender symbol."
+  },
+  {
+    "emoji": "✖",
+    "desc": "multiply. This emoji represents multiply."
+  },
+  {
+    "emoji": "➕",
+    "desc": "plus. This emoji represents plus."
+  },
+  {
+    "emoji": "➖",
+    "desc": "minus. This emoji represents minus."
+  },
+  {
+    "emoji": "➗",
+    "desc": "divide. This emoji represents divide."
+  },
+  {
+    "emoji": "♾",
+    "desc": "infinity. This emoji represents infinity."
+  },
+  {
+    "emoji": "‼",
+    "desc": "double exclamation mark. This emoji represents double exclamation mark."
+  },
+  {
+    "emoji": "⁉",
+    "desc": "exclamation question mark. This emoji represents exclamation question mark."
+  },
+  {
+    "emoji": "❓",
+    "desc": "red question mark. This emoji represents red question mark."
+  },
+  {
+    "emoji": "❔",
+    "desc": "white question mark. This emoji represents white question mark."
+  },
+  {
+    "emoji": "❕",
+    "desc": "white exclamation mark. This emoji represents white exclamation mark."
+  },
+  {
+    "emoji": "❗",
+    "desc": "red exclamation mark. This emoji represents red exclamation mark."
+  },
+  {
+    "emoji": "〰",
+    "desc": "wavy dash. This emoji represents wavy dash."
+  },
+  {
+    "emoji": "💱",
+    "desc": "currency exchange. This emoji represents currency exchange."
+  },
+  {
+    "emoji": "💲",
+    "desc": "heavy dollar sign. This emoji represents heavy dollar sign."
+  },
+  {
+    "emoji": "⚕",
+    "desc": "medical symbol. This emoji represents medical symbol."
+  },
+  {
+    "emoji": "♻",
+    "desc": "recycling symbol. This emoji represents recycling symbol."
+  },
+  {
+    "emoji": "⚜",
+    "desc": "fleur-de-lis. This emoji represents fleur de lis."
+  },
+  {
+    "emoji": "🔱",
+    "desc": "trident emblem. This emoji represents trident emblem."
+  },
+  {
+    "emoji": "📛",
+    "desc": "name badge. This emoji represents name badge."
+  },
+  {
+    "emoji": "🔰",
+    "desc": "Japanese symbol for beginner. This emoji represents Japanese symbol for beginner."
+  },
+  {
+    "emoji": "⭕",
+    "desc": "hollow red circle. This emoji represents hollow red circle."
+  },
+  {
+    "emoji": "✅",
+    "desc": "check mark button. This emoji represents check mark button."
+  },
+  {
+    "emoji": "☑",
+    "desc": "check box with check. This emoji represents check box with check."
+  },
+  {
+    "emoji": "✔",
+    "desc": "check mark. This emoji represents check mark."
+  },
+  {
+    "emoji": "❌",
+    "desc": "cross mark. This emoji represents cross mark."
+  },
+  {
+    "emoji": "❎",
+    "desc": "cross mark button. This emoji represents cross mark button."
+  },
+  {
+    "emoji": "➰",
+    "desc": "curly loop. This emoji represents curly loop."
+  },
+  {
+    "emoji": "➿",
+    "desc": "double curly loop. This emoji represents double curly loop."
+  },
+  {
+    "emoji": "〽",
+    "desc": "part alternation mark. This emoji represents part alternation mark."
+  },
+  {
+    "emoji": "✳",
+    "desc": "eight-spoked asterisk. This emoji represents eight spoked asterisk."
+  },
+  {
+    "emoji": "✴",
+    "desc": "eight-pointed star. This emoji represents eight pointed star."
+  },
+  {
+    "emoji": "❇",
+    "desc": "sparkle. This emoji represents sparkle."
+  },
+  {
+    "emoji": "©",
+    "desc": "copyright. This emoji represents copyright."
+  },
+  {
+    "emoji": "®",
+    "desc": "registered. This emoji represents registered."
+  },
+  {
+    "emoji": "™",
+    "desc": "trade mark. This emoji represents trade mark."
+  },
+  {
+    "emoji": "#️⃣",
+    "desc": "keycap: #. This emoji represents keycap: #."
+  },
+  {
+    "emoji": "*️⃣",
+    "desc": "keycap: *. This emoji represents keycap: *."
+  },
+  {
+    "emoji": "0️⃣",
+    "desc": "keycap: 0. This emoji represents keycap: 0."
+  },
+  {
+    "emoji": "1️⃣",
+    "desc": "keycap: 1. This emoji represents keycap: 1."
+  },
+  {
+    "emoji": "2️⃣",
+    "desc": "keycap: 2. This emoji represents keycap: 2."
+  },
+  {
+    "emoji": "3️⃣",
+    "desc": "keycap: 3. This emoji represents keycap: 3."
+  },
+  {
+    "emoji": "4️⃣",
+    "desc": "keycap: 4. This emoji represents keycap: 4."
+  },
+  {
+    "emoji": "5️⃣",
+    "desc": "keycap: 5. This emoji represents keycap: 5."
+  },
+  {
+    "emoji": "6️⃣",
+    "desc": "keycap: 6. This emoji represents keycap: 6."
+  },
+  {
+    "emoji": "7️⃣",
+    "desc": "keycap: 7. This emoji represents keycap: 7."
+  },
+  {
+    "emoji": "8️⃣",
+    "desc": "keycap: 8. This emoji represents keycap: 8."
+  },
+  {
+    "emoji": "9️⃣",
+    "desc": "keycap: 9. This emoji represents keycap: 9."
+  },
+  {
+    "emoji": "🔟",
+    "desc": "keycap: 10. This emoji represents keycap: 10."
+  },
+  {
+    "emoji": "🔠",
+    "desc": "input latin uppercase. This emoji represents input latin uppercase."
+  },
+  {
+    "emoji": "🔡",
+    "desc": "input latin lowercase. This emoji represents input latin lowercase."
+  },
+  {
+    "emoji": "🔢",
+    "desc": "input numbers. This emoji represents input numbers."
+  },
+  {
+    "emoji": "🔣",
+    "desc": "input symbols. This emoji represents input symbols."
+  },
+  {
+    "emoji": "🔤",
+    "desc": "input latin letters. This emoji represents input latin letters."
+  },
+  {
+    "emoji": "🅰",
+    "desc": "A button (blood type). This emoji represents A button (blood type)."
+  },
+  {
+    "emoji": "🆎",
+    "desc": "AB button (blood type). This emoji represents AB button (blood type)."
+  },
+  {
+    "emoji": "🅱",
+    "desc": "B button (blood type). This emoji represents B button (blood type)."
+  },
+  {
+    "emoji": "🆑",
+    "desc": "CL button. This emoji represents CL button."
+  },
+  {
+    "emoji": "🆒",
+    "desc": "COOL button. This emoji represents COOL button."
+  },
+  {
+    "emoji": "🆓",
+    "desc": "FREE button. This emoji represents FREE button."
+  },
+  {
+    "emoji": "ℹ",
+    "desc": "information. This emoji represents information."
+  },
+  {
+    "emoji": "🆔",
+    "desc": "ID button. This emoji represents ID button."
+  },
+  {
+    "emoji": "Ⓜ",
+    "desc": "circled M. This emoji represents circled M."
+  },
+  {
+    "emoji": "🆕",
+    "desc": "NEW button. This emoji represents NEW button."
+  },
+  {
+    "emoji": "🆖",
+    "desc": "NG button. This emoji represents NG button."
+  },
+  {
+    "emoji": "🅾",
+    "desc": "O button (blood type). This emoji represents O button (blood type)."
+  },
+  {
+    "emoji": "🆗",
+    "desc": "OK button. This emoji represents OK button."
+  },
+  {
+    "emoji": "🅿",
+    "desc": "P button. This emoji represents P button."
+  },
+  {
+    "emoji": "🆘",
+    "desc": "SOS button. This emoji represents SOS button."
+  },
+  {
+    "emoji": "🆙",
+    "desc": "UP! button. This emoji represents UP! button."
+  },
+  {
+    "emoji": "🆚",
+    "desc": "VS button. This emoji represents VS button."
+  },
+  {
+    "emoji": "🈁",
+    "desc": "Japanese “here” button. This emoji represents Japanese “here” button."
+  },
+  {
+    "emoji": "🈂",
+    "desc": "Japanese “service charge” button. This emoji represents Japanese “service charge” button."
+  },
+  {
+    "emoji": "🈷",
+    "desc": "Japanese “monthly amount” button. This emoji represents Japanese “monthly amount” button."
+  },
+  {
+    "emoji": "🈶",
+    "desc": "Japanese “not free of charge” button. This emoji represents Japanese “not free of charge” button."
+  },
+  {
+    "emoji": "🈯",
+    "desc": "Japanese “reserved” button. This emoji represents Japanese “reserved” button."
+  },
+  {
+    "emoji": "🉐",
+    "desc": "Japanese “bargain” button. This emoji represents Japanese “bargain” button."
+  },
+  {
+    "emoji": "🈹",
+    "desc": "Japanese “discount” button. This emoji represents Japanese “discount” button."
+  },
+  {
+    "emoji": "🈚",
+    "desc": "Japanese “free of charge” button. This emoji represents Japanese “free of charge” button."
+  },
+  {
+    "emoji": "🈲",
+    "desc": "Japanese “prohibited” button. This emoji represents Japanese “prohibited” button."
+  },
+  {
+    "emoji": "🉑",
+    "desc": "Japanese “acceptable” button. This emoji represents Japanese “acceptable” button."
+  },
+  {
+    "emoji": "🈸",
+    "desc": "Japanese “application” button. This emoji represents Japanese “application” button."
+  },
+  {
+    "emoji": "🈴",
+    "desc": "Japanese “passing grade” button. This emoji represents Japanese “passing grade” button."
+  },
+  {
+    "emoji": "🈳",
+    "desc": "Japanese “vacancy” button. This emoji represents Japanese “vacancy” button."
+  },
+  {
+    "emoji": "㊗",
+    "desc": "Japanese “congratulations” button. This emoji represents Japanese “congratulations” button."
+  },
+  {
+    "emoji": "㊙",
+    "desc": "Japanese “secret” button. This emoji represents Japanese “secret” button."
+  },
+  {
+    "emoji": "🈺",
+    "desc": "Japanese “open for business” button. This emoji represents Japanese “open for business” button."
+  },
+  {
+    "emoji": "🈵",
+    "desc": "Japanese “no vacancy” button. This emoji represents Japanese “no vacancy” button."
+  },
+  {
+    "emoji": "🔴",
+    "desc": "red circle. This emoji represents red circle."
+  },
+  {
+    "emoji": "🟠",
+    "desc": "orange circle. This emoji represents orange circle."
+  },
+  {
+    "emoji": "🟡",
+    "desc": "yellow circle. This emoji represents yellow circle."
+  },
+  {
+    "emoji": "🟢",
+    "desc": "green circle. This emoji represents green circle."
+  },
+  {
+    "emoji": "🔵",
+    "desc": "blue circle. This emoji represents blue circle."
+  },
+  {
+    "emoji": "🟣",
+    "desc": "purple circle. This emoji represents purple circle."
+  },
+  {
+    "emoji": "🟤",
+    "desc": "brown circle. This emoji represents brown circle."
+  },
+  {
+    "emoji": "⚫",
+    "desc": "black circle. This emoji represents black circle."
+  },
+  {
+    "emoji": "⚪",
+    "desc": "white circle. This emoji represents white circle."
+  },
+  {
+    "emoji": "🟥",
+    "desc": "red square. This emoji represents red square."
+  },
+  {
+    "emoji": "🟧",
+    "desc": "orange square. This emoji represents orange square."
+  },
+  {
+    "emoji": "🟨",
+    "desc": "yellow square. This emoji represents yellow square."
+  },
+  {
+    "emoji": "🟩",
+    "desc": "green square. This emoji represents green square."
+  },
+  {
+    "emoji": "🟦",
+    "desc": "blue square. This emoji represents blue square."
+  },
+  {
+    "emoji": "🟪",
+    "desc": "purple square. This emoji represents purple square."
+  },
+  {
+    "emoji": "🟫",
+    "desc": "brown square. This emoji represents brown square."
+  },
+  {
+    "emoji": "⬛",
+    "desc": "black large square. This emoji represents black large square."
+  },
+  {
+    "emoji": "⬜",
+    "desc": "white large square. This emoji represents white large square."
+  },
+  {
+    "emoji": "◼",
+    "desc": "black medium square. This emoji represents black medium square."
+  },
+  {
+    "emoji": "◻",
+    "desc": "white medium square. This emoji represents white medium square."
+  },
+  {
+    "emoji": "◾",
+    "desc": "black medium-small square. This emoji represents black medium small square."
+  },
+  {
+    "emoji": "◽",
+    "desc": "white medium-small square. This emoji represents white medium small square."
+  },
+  {
+    "emoji": "▪",
+    "desc": "black small square. This emoji represents black small square."
+  },
+  {
+    "emoji": "▫",
+    "desc": "white small square. This emoji represents white small square."
+  },
+  {
+    "emoji": "🔶",
+    "desc": "large orange diamond. This emoji represents large orange diamond."
+  },
+  {
+    "emoji": "🔷",
+    "desc": "large blue diamond. This emoji represents large blue diamond."
+  },
+  {
+    "emoji": "🔸",
+    "desc": "small orange diamond. This emoji represents small orange diamond."
+  },
+  {
+    "emoji": "🔹",
+    "desc": "small blue diamond. This emoji represents small blue diamond."
+  },
+  {
+    "emoji": "🔺",
+    "desc": "red triangle pointed up. This emoji represents red triangle pointed up."
+  },
+  {
+    "emoji": "🔻",
+    "desc": "red triangle pointed down. This emoji represents red triangle pointed down."
+  },
+  {
+    "emoji": "💠",
+    "desc": "diamond with a dot. This emoji represents diamond with a dot."
+  },
+  {
+    "emoji": "🔘",
+    "desc": "radio button. This emoji represents radio button."
+  },
+  {
+    "emoji": "🔳",
+    "desc": "white square button. This emoji represents white square button."
+  },
+  {
+    "emoji": "🔲",
+    "desc": "black square button. This emoji represents black square button."
+  },
+  {
+    "emoji": "🏁",
+    "desc": "chequered flag. This emoji represents chequered flag."
+  },
+  {
+    "emoji": "🚩",
+    "desc": "triangular flag. This emoji represents triangular flag."
+  },
+  {
+    "emoji": "🎌",
+    "desc": "crossed flags. This emoji represents crossed flags."
+  },
+  {
+    "emoji": "🏴",
+    "desc": "black flag. This emoji represents black flag."
+  },
+  {
+    "emoji": "🏳",
+    "desc": "white flag. This emoji represents white flag."
+  },
+  {
+    "emoji": "🏳️‍🌈",
+    "desc": "rainbow flag. This emoji represents rainbow flag."
+  },
+  {
+    "emoji": "🏳️‍⚧️",
+    "desc": "transgender flag. This emoji represents transgender flag."
+  },
+  {
+    "emoji": "🏴‍☠️",
+    "desc": "pirate flag. This emoji represents pirate flag."
+  },
+  {
+    "emoji": "🇦🇨",
+    "desc": "flag: Ascension Island. This emoji represents flag: Ascension Island."
+  },
+  {
+    "emoji": "🇦🇩",
+    "desc": "flag: Andorra. This emoji represents flag: Andorra."
+  },
+  {
+    "emoji": "🇦🇪",
+    "desc": "flag: United Arab Emirates. This emoji represents flag: United Arab Emirates."
+  },
+  {
+    "emoji": "🇦🇫",
+    "desc": "flag: Afghanistan. This emoji represents flag: Afghanistan."
+  },
+  {
+    "emoji": "🇦🇬",
+    "desc": "flag: Antigua & Barbuda. This emoji represents flag: Antigua & Barbuda."
+  },
+  {
+    "emoji": "🇦🇮",
+    "desc": "flag: Anguilla. This emoji represents flag: Anguilla."
+  },
+  {
+    "emoji": "🇦🇱",
+    "desc": "flag: Albania. This emoji represents flag: Albania."
+  },
+  {
+    "emoji": "🇦🇲",
+    "desc": "flag: Armenia. This emoji represents flag: Armenia."
+  },
+  {
+    "emoji": "🇦🇴",
+    "desc": "flag: Angola. This emoji represents flag: Angola."
+  },
+  {
+    "emoji": "🇦🇶",
+    "desc": "flag: Antarctica. This emoji represents flag: Antarctica."
+  },
+  {
+    "emoji": "🇦🇷",
+    "desc": "flag: Argentina. This emoji represents flag: Argentina."
+  },
+  {
+    "emoji": "🇦🇸",
+    "desc": "flag: American Samoa. This emoji represents flag: American Samoa."
+  },
+  {
+    "emoji": "🇦🇹",
+    "desc": "flag: Austria. This emoji represents flag: Austria."
+  },
+  {
+    "emoji": "🇦🇺",
+    "desc": "flag: Australia. This emoji represents flag: Australia."
+  },
+  {
+    "emoji": "🇦🇼",
+    "desc": "flag: Aruba. This emoji represents flag: Aruba."
+  },
+  {
+    "emoji": "🇦🇽",
+    "desc": "flag: Åland Islands. This emoji represents flag: Åland Islands."
+  },
+  {
+    "emoji": "🇦🇿",
+    "desc": "flag: Azerbaijan. This emoji represents flag: Azerbaijan."
+  },
+  {
+    "emoji": "🇧🇦",
+    "desc": "flag: Bosnia & Herzegovina. This emoji represents flag: Bosnia & Herzegovina."
+  },
+  {
+    "emoji": "🇧🇧",
+    "desc": "flag: Barbados. This emoji represents flag: Barbados."
+  },
+  {
+    "emoji": "🇧🇩",
+    "desc": "flag: Bangladesh. This emoji represents flag: Bangladesh."
+  },
+  {
+    "emoji": "🇧🇪",
+    "desc": "flag: Belgium. This emoji represents flag: Belgium."
+  },
+  {
+    "emoji": "🇧🇫",
+    "desc": "flag: Burkina Faso. This emoji represents flag: Burkina Faso."
+  },
+  {
+    "emoji": "🇧🇬",
+    "desc": "flag: Bulgaria. This emoji represents flag: Bulgaria."
+  },
+  {
+    "emoji": "🇧🇭",
+    "desc": "flag: Bahrain. This emoji represents flag: Bahrain."
+  },
+  {
+    "emoji": "🇧🇮",
+    "desc": "flag: Burundi. This emoji represents flag: Burundi."
+  },
+  {
+    "emoji": "🇧🇯",
+    "desc": "flag: Benin. This emoji represents flag: Benin."
+  },
+  {
+    "emoji": "🇧🇱",
+    "desc": "flag: St. Barthélemy. This emoji represents flag: St. Barthélemy."
+  },
+  {
+    "emoji": "🇧🇲",
+    "desc": "flag: Bermuda. This emoji represents flag: Bermuda."
+  },
+  {
+    "emoji": "🇧🇳",
+    "desc": "flag: Brunei. This emoji represents flag: Brunei."
+  },
+  {
+    "emoji": "🇧🇴",
+    "desc": "flag: Bolivia. This emoji represents flag: Bolivia."
+  },
+  {
+    "emoji": "🇧🇶",
+    "desc": "flag: Caribbean Netherlands. This emoji represents flag: Caribbean Netherlands."
+  },
+  {
+    "emoji": "🇧🇷",
+    "desc": "flag: Brazil. This emoji represents flag: Brazil."
+  },
+  {
+    "emoji": "🇧🇸",
+    "desc": "flag: Bahamas. This emoji represents flag: Bahamas."
+  },
+  {
+    "emoji": "🇧🇹",
+    "desc": "flag: Bhutan. This emoji represents flag: Bhutan."
+  },
+  {
+    "emoji": "🇧🇻",
+    "desc": "flag: Bouvet Island. This emoji represents flag: Bouvet Island."
+  },
+  {
+    "emoji": "🇧🇼",
+    "desc": "flag: Botswana. This emoji represents flag: Botswana."
+  },
+  {
+    "emoji": "🇧🇾",
+    "desc": "flag: Belarus. This emoji represents flag: Belarus."
+  },
+  {
+    "emoji": "🇧🇿",
+    "desc": "flag: Belize. This emoji represents flag: Belize."
+  },
+  {
+    "emoji": "🇨🇦",
+    "desc": "flag: Canada. This emoji represents flag: Canada."
+  },
+  {
+    "emoji": "🇨🇨",
+    "desc": "flag: Cocos (Keeling) Islands. This emoji represents flag: Cocos (Keeling) Islands."
+  },
+  {
+    "emoji": "🇨🇩",
+    "desc": "flag: Congo - Kinshasa. This emoji represents flag: Congo   Kinshasa."
+  },
+  {
+    "emoji": "🇨🇫",
+    "desc": "flag: Central African Republic. This emoji represents flag: Central African Republic."
+  },
+  {
+    "emoji": "🇨🇬",
+    "desc": "flag: Congo - Brazzaville. This emoji represents flag: Congo   Brazzaville."
+  },
+  {
+    "emoji": "🇨🇭",
+    "desc": "flag: Switzerland. This emoji represents flag: Switzerland."
+  },
+  {
+    "emoji": "🇨🇮",
+    "desc": "flag: Côte d’Ivoire. This emoji represents flag: Côte d’Ivoire."
+  },
+  {
+    "emoji": "🇨🇰",
+    "desc": "flag: Cook Islands. This emoji represents flag: Cook Islands."
+  },
+  {
+    "emoji": "🇨🇱",
+    "desc": "flag: Chile. This emoji represents flag: Chile."
+  },
+  {
+    "emoji": "🇨🇲",
+    "desc": "flag: Cameroon. This emoji represents flag: Cameroon."
+  },
+  {
+    "emoji": "🇨🇳",
+    "desc": "flag: China. This emoji represents flag: China."
+  },
+  {
+    "emoji": "🇨🇴",
+    "desc": "flag: Colombia. This emoji represents flag: Colombia."
+  },
+  {
+    "emoji": "🇨🇵",
+    "desc": "flag: Clipperton Island. This emoji represents flag: Clipperton Island."
+  },
+  {
+    "emoji": "🇨🇷",
+    "desc": "flag: Costa Rica. This emoji represents flag: Costa Rica."
+  },
+  {
+    "emoji": "🇨🇺",
+    "desc": "flag: Cuba. This emoji represents flag: Cuba."
+  },
+  {
+    "emoji": "🇨🇻",
+    "desc": "flag: Cape Verde. This emoji represents flag: Cape Verde."
+  },
+  {
+    "emoji": "🇨🇼",
+    "desc": "flag: Curaçao. This emoji represents flag: Curaçao."
+  },
+  {
+    "emoji": "🇨🇽",
+    "desc": "flag: Christmas Island. This emoji represents flag: Christmas Island."
+  },
+  {
+    "emoji": "🇨🇾",
+    "desc": "flag: Cyprus. This emoji represents flag: Cyprus."
+  },
+  {
+    "emoji": "🇨🇿",
+    "desc": "flag: Czechia. This emoji represents flag: Czechia."
+  },
+  {
+    "emoji": "🇩🇪",
+    "desc": "flag: Germany. This emoji represents flag: Germany."
+  },
+  {
+    "emoji": "🇩🇬",
+    "desc": "flag: Diego Garcia. This emoji represents flag: Diego Garcia."
+  },
+  {
+    "emoji": "🇩🇯",
+    "desc": "flag: Djibouti. This emoji represents flag: Djibouti."
+  },
+  {
+    "emoji": "🇩🇰",
+    "desc": "flag: Denmark. This emoji represents flag: Denmark."
+  },
+  {
+    "emoji": "🇩🇲",
+    "desc": "flag: Dominica. This emoji represents flag: Dominica."
+  },
+  {
+    "emoji": "🇩🇴",
+    "desc": "flag: Dominican Republic. This emoji represents flag: Dominican Republic."
+  },
+  {
+    "emoji": "🇩🇿",
+    "desc": "flag: Algeria. This emoji represents flag: Algeria."
+  },
+  {
+    "emoji": "🇪🇦",
+    "desc": "flag: Ceuta & Melilla. This emoji represents flag: Ceuta & Melilla."
+  },
+  {
+    "emoji": "🇪🇨",
+    "desc": "flag: Ecuador. This emoji represents flag: Ecuador."
+  },
+  {
+    "emoji": "🇪🇪",
+    "desc": "flag: Estonia. This emoji represents flag: Estonia."
+  },
+  {
+    "emoji": "🇪🇬",
+    "desc": "flag: Egypt. This emoji represents flag: Egypt."
+  },
+  {
+    "emoji": "🇪🇭",
+    "desc": "flag: Western Sahara. This emoji represents flag: Western Sahara."
+  },
+  {
+    "emoji": "🇪🇷",
+    "desc": "flag: Eritrea. This emoji represents flag: Eritrea."
+  },
+  {
+    "emoji": "🇪🇸",
+    "desc": "flag: Spain. This emoji represents flag: Spain."
+  },
+  {
+    "emoji": "🇪🇹",
+    "desc": "flag: Ethiopia. This emoji represents flag: Ethiopia."
+  },
+  {
+    "emoji": "🇪🇺",
+    "desc": "flag: European Union. This emoji represents flag: European Union."
+  },
+  {
+    "emoji": "🇫🇮",
+    "desc": "flag: Finland. This emoji represents flag: Finland."
+  },
+  {
+    "emoji": "🇫🇯",
+    "desc": "flag: Fiji. This emoji represents flag: Fiji."
+  },
+  {
+    "emoji": "🇫🇰",
+    "desc": "flag: Falkland Islands. This emoji represents flag: Falkland Islands."
+  },
+  {
+    "emoji": "🇫🇲",
+    "desc": "flag: Micronesia. This emoji represents flag: Micronesia."
+  },
+  {
+    "emoji": "🇫🇴",
+    "desc": "flag: Faroe Islands. This emoji represents flag: Faroe Islands."
+  },
+  {
+    "emoji": "🇫🇷",
+    "desc": "flag: France. This emoji represents flag: France."
+  },
+  {
+    "emoji": "🇬🇦",
+    "desc": "flag: Gabon. This emoji represents flag: Gabon."
+  },
+  {
+    "emoji": "🇬🇧",
+    "desc": "flag: United Kingdom. This emoji represents flag: United Kingdom."
+  },
+  {
+    "emoji": "🇬🇩",
+    "desc": "flag: Grenada. This emoji represents flag: Grenada."
+  },
+  {
+    "emoji": "🇬🇪",
+    "desc": "flag: Georgia. This emoji represents flag: Georgia."
+  },
+  {
+    "emoji": "🇬🇫",
+    "desc": "flag: French Guiana. This emoji represents flag: French Guiana."
+  },
+  {
+    "emoji": "🇬🇬",
+    "desc": "flag: Guernsey. This emoji represents flag: Guernsey."
+  },
+  {
+    "emoji": "🇬🇭",
+    "desc": "flag: Ghana. This emoji represents flag: Ghana."
+  },
+  {
+    "emoji": "🇬🇮",
+    "desc": "flag: Gibraltar. This emoji represents flag: Gibraltar."
+  },
+  {
+    "emoji": "🇬🇱",
+    "desc": "flag: Greenland. This emoji represents flag: Greenland."
+  },
+  {
+    "emoji": "🇬🇲",
+    "desc": "flag: Gambia. This emoji represents flag: Gambia."
+  },
+  {
+    "emoji": "🇬🇳",
+    "desc": "flag: Guinea. This emoji represents flag: Guinea."
+  },
+  {
+    "emoji": "🇬🇵",
+    "desc": "flag: Guadeloupe. This emoji represents flag: Guadeloupe."
+  },
+  {
+    "emoji": "🇬🇶",
+    "desc": "flag: Equatorial Guinea. This emoji represents flag: Equatorial Guinea."
+  },
+  {
+    "emoji": "🇬🇷",
+    "desc": "flag: Greece. This emoji represents flag: Greece."
+  },
+  {
+    "emoji": "🇬🇸",
+    "desc": "flag: South Georgia & South Sandwich Islands. This emoji represents flag: South Georgia & South Sandwich Islands."
+  },
+  {
+    "emoji": "🇬🇹",
+    "desc": "flag: Guatemala. This emoji represents flag: Guatemala."
+  },
+  {
+    "emoji": "🇬🇺",
+    "desc": "flag: Guam. This emoji represents flag: Guam."
+  },
+  {
+    "emoji": "🇬🇼",
+    "desc": "flag: Guinea-Bissau. This emoji represents flag: Guinea Bissau."
+  },
+  {
+    "emoji": "🇬🇾",
+    "desc": "flag: Guyana. This emoji represents flag: Guyana."
+  },
+  {
+    "emoji": "🇭🇰",
+    "desc": "flag: Hong Kong SAR China. This emoji represents flag: Hong Kong SAR China."
+  },
+  {
+    "emoji": "🇭🇲",
+    "desc": "flag: Heard & McDonald Islands. This emoji represents flag: Heard & McDonald Islands."
+  },
+  {
+    "emoji": "🇭🇳",
+    "desc": "flag: Honduras. This emoji represents flag: Honduras."
+  },
+  {
+    "emoji": "🇭🇷",
+    "desc": "flag: Croatia. This emoji represents flag: Croatia."
+  },
+  {
+    "emoji": "🇭🇹",
+    "desc": "flag: Haiti. This emoji represents flag: Haiti."
+  },
+  {
+    "emoji": "🇭🇺",
+    "desc": "flag: Hungary. This emoji represents flag: Hungary."
+  },
+  {
+    "emoji": "🇮🇨",
+    "desc": "flag: Canary Islands. This emoji represents flag: Canary Islands."
+  },
+  {
+    "emoji": "🇮🇩",
+    "desc": "flag: Indonesia. This emoji represents flag: Indonesia."
+  },
+  {
+    "emoji": "🇮🇪",
+    "desc": "flag: Ireland. This emoji represents flag: Ireland."
+  },
+  {
+    "emoji": "🇮🇱",
+    "desc": "flag: Israel. This emoji represents flag: Israel."
+  },
+  {
+    "emoji": "🇮🇲",
+    "desc": "flag: Isle of Man. This emoji represents flag: Isle of Man."
+  },
+  {
+    "emoji": "🇮🇳",
+    "desc": "flag: India. This emoji represents flag: India."
+  },
+  {
+    "emoji": "🇮🇴",
+    "desc": "flag: British Indian Ocean Territory. This emoji represents flag: British Indian Ocean Territory."
+  },
+  {
+    "emoji": "🇮🇶",
+    "desc": "flag: Iraq. This emoji represents flag: Iraq."
+  },
+  {
+    "emoji": "🇮🇷",
+    "desc": "flag: Iran. This emoji represents flag: Iran."
+  },
+  {
+    "emoji": "🇮🇸",
+    "desc": "flag: Iceland. This emoji represents flag: Iceland."
+  },
+  {
+    "emoji": "🇮🇹",
+    "desc": "flag: Italy. This emoji represents flag: Italy."
+  },
+  {
+    "emoji": "🇯🇪",
+    "desc": "flag: Jersey. This emoji represents flag: Jersey."
+  },
+  {
+    "emoji": "🇯🇲",
+    "desc": "flag: Jamaica. This emoji represents flag: Jamaica."
+  },
+  {
+    "emoji": "🇯🇴",
+    "desc": "flag: Jordan. This emoji represents flag: Jordan."
+  },
+  {
+    "emoji": "🇯🇵",
+    "desc": "flag: Japan. This emoji represents flag: Japan."
+  },
+  {
+    "emoji": "🇰🇪",
+    "desc": "flag: Kenya. This emoji represents flag: Kenya."
+  },
+  {
+    "emoji": "🇰🇬",
+    "desc": "flag: Kyrgyzstan. This emoji represents flag: Kyrgyzstan."
+  },
+  {
+    "emoji": "🇰🇭",
+    "desc": "flag: Cambodia. This emoji represents flag: Cambodia."
+  },
+  {
+    "emoji": "🇰🇮",
+    "desc": "flag: Kiribati. This emoji represents flag: Kiribati."
+  },
+  {
+    "emoji": "🇰🇲",
+    "desc": "flag: Comoros. This emoji represents flag: Comoros."
+  },
+  {
+    "emoji": "🇰🇳",
+    "desc": "flag: St. Kitts & Nevis. This emoji represents flag: St. Kitts & Nevis."
+  },
+  {
+    "emoji": "🇰🇵",
+    "desc": "flag: North Korea. This emoji represents flag: North Korea."
+  },
+  {
+    "emoji": "🇰🇷",
+    "desc": "flag: South Korea. This emoji represents flag: South Korea."
+  },
+  {
+    "emoji": "🇰🇼",
+    "desc": "flag: Kuwait. This emoji represents flag: Kuwait."
+  },
+  {
+    "emoji": "🇰🇾",
+    "desc": "flag: Cayman Islands. This emoji represents flag: Cayman Islands."
+  },
+  {
+    "emoji": "🇰🇿",
+    "desc": "flag: Kazakhstan. This emoji represents flag: Kazakhstan."
+  },
+  {
+    "emoji": "🇱🇦",
+    "desc": "flag: Laos. This emoji represents flag: Laos."
+  },
+  {
+    "emoji": "🇱🇧",
+    "desc": "flag: Lebanon. This emoji represents flag: Lebanon."
+  },
+  {
+    "emoji": "🇱🇨",
+    "desc": "flag: St. Lucia. This emoji represents flag: St. Lucia."
+  },
+  {
+    "emoji": "🇱🇮",
+    "desc": "flag: Liechtenstein. This emoji represents flag: Liechtenstein."
+  },
+  {
+    "emoji": "🇱🇰",
+    "desc": "flag: Sri Lanka. This emoji represents flag: Sri Lanka."
+  },
+  {
+    "emoji": "🇱🇷",
+    "desc": "flag: Liberia. This emoji represents flag: Liberia."
+  },
+  {
+    "emoji": "🇱🇸",
+    "desc": "flag: Lesotho. This emoji represents flag: Lesotho."
+  },
+  {
+    "emoji": "🇱🇹",
+    "desc": "flag: Lithuania. This emoji represents flag: Lithuania."
+  },
+  {
+    "emoji": "🇱🇺",
+    "desc": "flag: Luxembourg. This emoji represents flag: Luxembourg."
+  },
+  {
+    "emoji": "🇱🇻",
+    "desc": "flag: Latvia. This emoji represents flag: Latvia."
+  },
+  {
+    "emoji": "🇱🇾",
+    "desc": "flag: Libya. This emoji represents flag: Libya."
+  },
+  {
+    "emoji": "🇲🇦",
+    "desc": "flag: Morocco. This emoji represents flag: Morocco."
+  },
+  {
+    "emoji": "🇲🇨",
+    "desc": "flag: Monaco. This emoji represents flag: Monaco."
+  },
+  {
+    "emoji": "🇲🇩",
+    "desc": "flag: Moldova. This emoji represents flag: Moldova."
+  },
+  {
+    "emoji": "🇲🇪",
+    "desc": "flag: Montenegro. This emoji represents flag: Montenegro."
+  },
+  {
+    "emoji": "🇲🇫",
+    "desc": "flag: St. Martin. This emoji represents flag: St. Martin."
+  },
+  {
+    "emoji": "🇲🇬",
+    "desc": "flag: Madagascar. This emoji represents flag: Madagascar."
+  },
+  {
+    "emoji": "🇲🇭",
+    "desc": "flag: Marshall Islands. This emoji represents flag: Marshall Islands."
+  },
+  {
+    "emoji": "🇲🇰",
+    "desc": "flag: North Macedonia. This emoji represents flag: North Macedonia."
+  },
+  {
+    "emoji": "🇲🇱",
+    "desc": "flag: Mali. This emoji represents flag: Mali."
+  },
+  {
+    "emoji": "🇲🇲",
+    "desc": "flag: Myanmar (Burma). This emoji represents flag: Myanmar (Burma)."
+  },
+  {
+    "emoji": "🇲🇳",
+    "desc": "flag: Mongolia. This emoji represents flag: Mongolia."
+  },
+  {
+    "emoji": "🇲🇴",
+    "desc": "flag: Macao SAR China. This emoji represents flag: Macao SAR China."
+  },
+  {
+    "emoji": "🇲🇵",
+    "desc": "flag: Northern Mariana Islands. This emoji represents flag: Northern Mariana Islands."
+  },
+  {
+    "emoji": "🇲🇶",
+    "desc": "flag: Martinique. This emoji represents flag: Martinique."
+  },
+  {
+    "emoji": "🇲🇷",
+    "desc": "flag: Mauritania. This emoji represents flag: Mauritania."
+  },
+  {
+    "emoji": "🇲🇸",
+    "desc": "flag: Montserrat. This emoji represents flag: Montserrat."
+  },
+  {
+    "emoji": "🇲🇹",
+    "desc": "flag: Malta. This emoji represents flag: Malta."
+  },
+  {
+    "emoji": "🇲🇺",
+    "desc": "flag: Mauritius. This emoji represents flag: Mauritius."
+  },
+  {
+    "emoji": "🇲🇻",
+    "desc": "flag: Maldives. This emoji represents flag: Maldives."
+  },
+  {
+    "emoji": "🇲🇼",
+    "desc": "flag: Malawi. This emoji represents flag: Malawi."
+  },
+  {
+    "emoji": "🇲🇽",
+    "desc": "flag: Mexico. This emoji represents flag: Mexico."
+  },
+  {
+    "emoji": "🇲🇾",
+    "desc": "flag: Malaysia. This emoji represents flag: Malaysia."
+  },
+  {
+    "emoji": "🇲🇿",
+    "desc": "flag: Mozambique. This emoji represents flag: Mozambique."
+  },
+  {
+    "emoji": "🇳🇦",
+    "desc": "flag: Namibia. This emoji represents flag: Namibia."
+  },
+  {
+    "emoji": "🇳🇨",
+    "desc": "flag: New Caledonia. This emoji represents flag: New Caledonia."
+  },
+  {
+    "emoji": "🇳🇪",
+    "desc": "flag: Niger. This emoji represents flag: Niger."
+  },
+  {
+    "emoji": "🇳🇫",
+    "desc": "flag: Norfolk Island. This emoji represents flag: Norfolk Island."
+  },
+  {
+    "emoji": "🇳🇬",
+    "desc": "flag: Nigeria. This emoji represents flag: Nigeria."
+  },
+  {
+    "emoji": "🇳🇮",
+    "desc": "flag: Nicaragua. This emoji represents flag: Nicaragua."
+  },
+  {
+    "emoji": "🇳🇱",
+    "desc": "flag: Netherlands. This emoji represents flag: Netherlands."
+  },
+  {
+    "emoji": "🇳🇴",
+    "desc": "flag: Norway. This emoji represents flag: Norway."
+  },
+  {
+    "emoji": "🇳🇵",
+    "desc": "flag: Nepal. This emoji represents flag: Nepal."
+  },
+  {
+    "emoji": "🇳🇷",
+    "desc": "flag: Nauru. This emoji represents flag: Nauru."
+  },
+  {
+    "emoji": "🇳🇺",
+    "desc": "flag: Niue. This emoji represents flag: Niue."
+  },
+  {
+    "emoji": "🇳🇿",
+    "desc": "flag: New Zealand. This emoji represents flag: New Zealand."
+  },
+  {
+    "emoji": "🇴🇲",
+    "desc": "flag: Oman. This emoji represents flag: Oman."
+  },
+  {
+    "emoji": "🇵🇦",
+    "desc": "flag: Panama. This emoji represents flag: Panama."
+  },
+  {
+    "emoji": "🇵🇪",
+    "desc": "flag: Peru. This emoji represents flag: Peru."
+  },
+  {
+    "emoji": "🇵🇫",
+    "desc": "flag: French Polynesia. This emoji represents flag: French Polynesia."
+  },
+  {
+    "emoji": "🇵🇬",
+    "desc": "flag: Papua New Guinea. This emoji represents flag: Papua New Guinea."
+  },
+  {
+    "emoji": "🇵🇭",
+    "desc": "flag: Philippines. This emoji represents flag: Philippines."
+  },
+  {
+    "emoji": "🇵🇰",
+    "desc": "flag: Pakistan. This emoji represents flag: Pakistan."
+  },
+  {
+    "emoji": "🇵🇱",
+    "desc": "flag: Poland. This emoji represents flag: Poland."
+  },
+  {
+    "emoji": "🇵🇲",
+    "desc": "flag: St. Pierre & Miquelon. This emoji represents flag: St. Pierre & Miquelon."
+  },
+  {
+    "emoji": "🇵🇳",
+    "desc": "flag: Pitcairn Islands. This emoji represents flag: Pitcairn Islands."
+  },
+  {
+    "emoji": "🇵🇷",
+    "desc": "flag: Puerto Rico. This emoji represents flag: Puerto Rico."
+  },
+  {
+    "emoji": "🇵🇸",
+    "desc": "flag: Palestinian Territories. This emoji represents flag: Palestinian Territories."
+  },
+  {
+    "emoji": "🇵🇹",
+    "desc": "flag: Portugal. This emoji represents flag: Portugal."
+  },
+  {
+    "emoji": "🇵🇼",
+    "desc": "flag: Palau. This emoji represents flag: Palau."
+  },
+  {
+    "emoji": "🇵🇾",
+    "desc": "flag: Paraguay. This emoji represents flag: Paraguay."
+  },
+  {
+    "emoji": "🇶🇦",
+    "desc": "flag: Qatar. This emoji represents flag: Qatar."
+  },
+  {
+    "emoji": "🇷🇪",
+    "desc": "flag: Réunion. This emoji represents flag: Réunion."
+  },
+  {
+    "emoji": "🇷🇴",
+    "desc": "flag: Romania. This emoji represents flag: Romania."
+  },
+  {
+    "emoji": "🇷🇸",
+    "desc": "flag: Serbia. This emoji represents flag: Serbia."
+  },
+  {
+    "emoji": "🇷🇺",
+    "desc": "flag: Russia. This emoji represents flag: Russia."
+  },
+  {
+    "emoji": "🇷🇼",
+    "desc": "flag: Rwanda. This emoji represents flag: Rwanda."
+  },
+  {
+    "emoji": "🇸🇦",
+    "desc": "flag: Saudi Arabia. This emoji represents flag: Saudi Arabia."
+  },
+  {
+    "emoji": "🇸🇧",
+    "desc": "flag: Solomon Islands. This emoji represents flag: Solomon Islands."
+  },
+  {
+    "emoji": "🇸🇨",
+    "desc": "flag: Seychelles. This emoji represents flag: Seychelles."
+  },
+  {
+    "emoji": "🇸🇩",
+    "desc": "flag: Sudan. This emoji represents flag: Sudan."
+  },
+  {
+    "emoji": "🇸🇪",
+    "desc": "flag: Sweden. This emoji represents flag: Sweden."
+  },
+  {
+    "emoji": "🇸🇬",
+    "desc": "flag: Singapore. This emoji represents flag: Singapore."
+  },
+  {
+    "emoji": "🇸🇭",
+    "desc": "flag: St. Helena. This emoji represents flag: St. Helena."
+  },
+  {
+    "emoji": "🇸🇮",
+    "desc": "flag: Slovenia. This emoji represents flag: Slovenia."
+  },
+  {
+    "emoji": "🇸🇯",
+    "desc": "flag: Svalbard & Jan Mayen. This emoji represents flag: Svalbard & Jan Mayen."
+  },
+  {
+    "emoji": "🇸🇰",
+    "desc": "flag: Slovakia. This emoji represents flag: Slovakia."
+  },
+  {
+    "emoji": "🇸🇱",
+    "desc": "flag: Sierra Leone. This emoji represents flag: Sierra Leone."
+  },
+  {
+    "emoji": "🇸🇲",
+    "desc": "flag: San Marino. This emoji represents flag: San Marino."
+  },
+  {
+    "emoji": "🇸🇳",
+    "desc": "flag: Senegal. This emoji represents flag: Senegal."
+  },
+  {
+    "emoji": "🇸🇴",
+    "desc": "flag: Somalia. This emoji represents flag: Somalia."
+  },
+  {
+    "emoji": "🇸🇷",
+    "desc": "flag: Suriname. This emoji represents flag: Suriname."
+  },
+  {
+    "emoji": "🇸🇸",
+    "desc": "flag: South Sudan. This emoji represents flag: South Sudan."
+  },
+  {
+    "emoji": "🇸🇹",
+    "desc": "flag: São Tomé & Príncipe. This emoji represents flag: São Tomé & Príncipe."
+  },
+  {
+    "emoji": "🇸🇻",
+    "desc": "flag: El Salvador. This emoji represents flag: El Salvador."
+  },
+  {
+    "emoji": "🇸🇽",
+    "desc": "flag: Sint Maarten. This emoji represents flag: Sint Maarten."
+  },
+  {
+    "emoji": "🇸🇾",
+    "desc": "flag: Syria. This emoji represents flag: Syria."
+  },
+  {
+    "emoji": "🇸🇿",
+    "desc": "flag: Eswatini. This emoji represents flag: Eswatini."
+  },
+  {
+    "emoji": "🇹🇦",
+    "desc": "flag: Tristan da Cunha. This emoji represents flag: Tristan da Cunha."
+  },
+  {
+    "emoji": "🇹🇨",
+    "desc": "flag: Turks & Caicos Islands. This emoji represents flag: Turks & Caicos Islands."
+  },
+  {
+    "emoji": "🇹🇩",
+    "desc": "flag: Chad. This emoji represents flag: Chad."
+  },
+  {
+    "emoji": "🇹🇫",
+    "desc": "flag: French Southern Territories. This emoji represents flag: French Southern Territories."
+  },
+  {
+    "emoji": "🇹🇬",
+    "desc": "flag: Togo. This emoji represents flag: Togo."
+  },
+  {
+    "emoji": "🇹🇭",
+    "desc": "flag: Thailand. This emoji represents flag: Thailand."
+  },
+  {
+    "emoji": "🇹🇯",
+    "desc": "flag: Tajikistan. This emoji represents flag: Tajikistan."
+  },
+  {
+    "emoji": "🇹🇰",
+    "desc": "flag: Tokelau. This emoji represents flag: Tokelau."
+  },
+  {
+    "emoji": "🇹🇱",
+    "desc": "flag: Timor-Leste. This emoji represents flag: Timor Leste."
+  },
+  {
+    "emoji": "🇹🇲",
+    "desc": "flag: Turkmenistan. This emoji represents flag: Turkmenistan."
+  },
+  {
+    "emoji": "🇹🇳",
+    "desc": "flag: Tunisia. This emoji represents flag: Tunisia."
+  },
+  {
+    "emoji": "🇹🇴",
+    "desc": "flag: Tonga. This emoji represents flag: Tonga."
+  },
+  {
+    "emoji": "🇹🇷",
+    "desc": "flag: Turkey. This emoji represents flag: Turkey."
+  },
+  {
+    "emoji": "🇹🇹",
+    "desc": "flag: Trinidad & Tobago. This emoji represents flag: Trinidad & Tobago."
+  },
+  {
+    "emoji": "🇹🇻",
+    "desc": "flag: Tuvalu. This emoji represents flag: Tuvalu."
+  },
+  {
+    "emoji": "🇹🇼",
+    "desc": "flag: Taiwan. This emoji represents flag: Taiwan."
+  },
+  {
+    "emoji": "🇹🇿",
+    "desc": "flag: Tanzania. This emoji represents flag: Tanzania."
+  },
+  {
+    "emoji": "🇺🇦",
+    "desc": "flag: Ukraine. This emoji represents flag: Ukraine."
+  },
+  {
+    "emoji": "🇺🇬",
+    "desc": "flag: Uganda. This emoji represents flag: Uganda."
+  },
+  {
+    "emoji": "🇺🇲",
+    "desc": "flag: U.S. Outlying Islands. This emoji represents flag: U.S. Outlying Islands."
+  },
+  {
+    "emoji": "🇺🇳",
+    "desc": "flag: United Nations. This emoji represents flag: United Nations."
+  },
+  {
+    "emoji": "🇺🇸",
+    "desc": "flag: United States. This emoji represents flag: United States."
+  },
+  {
+    "emoji": "🇺🇾",
+    "desc": "flag: Uruguay. This emoji represents flag: Uruguay."
+  },
+  {
+    "emoji": "🇺🇿",
+    "desc": "flag: Uzbekistan. This emoji represents flag: Uzbekistan."
+  },
+  {
+    "emoji": "🇻🇦",
+    "desc": "flag: Vatican City. This emoji represents flag: Vatican City."
+  },
+  {
+    "emoji": "🇻🇨",
+    "desc": "flag: St. Vincent & Grenadines. This emoji represents flag: St. Vincent & Grenadines."
+  },
+  {
+    "emoji": "🇻🇪",
+    "desc": "flag: Venezuela. This emoji represents flag: Venezuela."
+  },
+  {
+    "emoji": "🇻🇬",
+    "desc": "flag: British Virgin Islands. This emoji represents flag: British Virgin Islands."
+  },
+  {
+    "emoji": "🇻🇮",
+    "desc": "flag: U.S. Virgin Islands. This emoji represents flag: U.S. Virgin Islands."
+  },
+  {
+    "emoji": "🇻🇳",
+    "desc": "flag: Vietnam. This emoji represents flag: Vietnam."
+  },
+  {
+    "emoji": "🇻🇺",
+    "desc": "flag: Vanuatu. This emoji represents flag: Vanuatu."
+  },
+  {
+    "emoji": "🇼🇫",
+    "desc": "flag: Wallis & Futuna. This emoji represents flag: Wallis & Futuna."
+  },
+  {
+    "emoji": "🇼🇸",
+    "desc": "flag: Samoa. This emoji represents flag: Samoa."
+  },
+  {
+    "emoji": "🇽🇰",
+    "desc": "flag: Kosovo. This emoji represents flag: Kosovo."
+  },
+  {
+    "emoji": "🇾🇪",
+    "desc": "flag: Yemen. This emoji represents flag: Yemen."
+  },
+  {
+    "emoji": "🇾🇹",
+    "desc": "flag: Mayotte. This emoji represents flag: Mayotte."
+  },
+  {
+    "emoji": "🇿🇦",
+    "desc": "flag: South Africa. This emoji represents flag: South Africa."
+  },
+  {
+    "emoji": "🇿🇲",
+    "desc": "flag: Zambia. This emoji represents flag: Zambia."
+  },
+  {
+    "emoji": "🇿🇼",
+    "desc": "flag: Zimbabwe. This emoji represents flag: Zimbabwe."
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "desc": "flag: England. This emoji represents flag: England."
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "desc": "flag: Scotland. This emoji represents flag: Scotland."
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "desc": "flag: Wales. This emoji represents flag: Wales."
   }
 ]

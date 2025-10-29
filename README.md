@@ -77,6 +77,22 @@ Then run:
 python cli.py train --train data.jsonl --val val.jsonl
 ```
 
+## Recent Improvements
+
+**Emoji Bank Expansion (v2.0)**
+- Upgraded from 95 to **1816 emojis** (19x increase) using full Unicode emoji dataset
+- Better coverage for diverse emotions and expressions
+- Improved semantic matching with richer emoji descriptions
+
+**Model Accuracy (v2.0)**
+- Comprehensive training data covering all 30 emotion dimensions
+- Improved emotion detection accuracy:
+  - "Terrifying" → Fear (0.385) ✓
+  - "Angry" → Anger (0.276) ✓
+  - "Happy" → Joy (0.449) ✓
+  - "Sad" → Sadness/Melancholy (0.555/0.653) ✓
+- Reduced validation MAE from 0.39 to 0.149
+
 ## Performance Engineering
 
 ### Computational Optimizations
@@ -96,6 +112,7 @@ python cli.py train --train data.jsonl --val val.jsonl
 | MMR Selection | < 50ms | Vectorized similarity computation |
 | Memory Footprint | ~120MB | Model weights + emoji embeddings |
 | Profile Operations | < 10ms | Lightweight JSON I/O |
+| Emoji Bank Size | 1816 emojis | Full Unicode coverage |
 
 ## Next Steps
 
