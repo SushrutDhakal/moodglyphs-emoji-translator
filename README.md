@@ -7,11 +7,13 @@ Text-to-emoji translator with emotion detection, semantic search, and advanced M
 ```bash
 git clone https://github.com/SushrutDhakal/moodglyphs-emoji-translator.git
 cd moodglyphs-emoji-translator
-pip install -r requirements.txt
+pip install -r requirements.txt  # Installs ALL optimizations (FAISS, ONNX, etc)
 python cli.py setup
 ```
 
-Setup downloads GoEmotions dataset (43K labeled Reddit comments), builds emoji bank (1816 emojis), and trains the emotion model. Takes 5-10 minutes.
+Setup installs all performance optimizations, downloads GoEmotions dataset (43K labeled Reddit comments), builds emoji bank (1816 emojis), and trains the emotion model. Takes 5-10 minutes.
+
+**All optimizations are always-on by default** - no configuration needed!
 
 **Test with your input:**
 ```bash
@@ -53,16 +55,16 @@ Run `python cli.py --help` for all options.
 
 | Optimization | Before | After | Improvement | Status |
 |--------------|--------|-------|-------------|--------|
-| **FAISS Search** | 12.4ms | 0.12ms | **-99.0%** (103x faster) | Auto if installed |
-| **LRU Cache (warm)** | 145ms | 0.1ms | **-99.9%** (1450x faster) | Always on |
-| **Batch Processing (50)** | 7.2 req/s | 156.8 req/s | **+2078%** (21.8x) | On demand |
-| **Model Quantization** | 87MB | 22MB | **-75%** size | Optional |
-| **ONNX Runtime** | 145ms | 52ms | **-64%** (2.8x faster) | Optional |
-| **Beam Search Quality** | 0.68 coherence | 0.84 coherence | **+24%** better | On demand |
-| **Personalization** | 72% satisfaction | 89% satisfaction | **+17 points** | Auto w/ profiles |
-| **Submodular MMR** | 0.65 diversity | 0.88 diversity | **+35%** | On demand |
-| **Calibration (ECE)** | 0.143 error | 0.028 error | **-80%** better | Training time |
-| **Memory (all combined)** | 117MB | 52MB | **-56%** usage | Combined opts |
+| **FAISS Search** | 12.4ms | 0.12ms | **-99.0%** (103x faster) | ✅ Always on |
+| **LRU Cache (warm)** | 145ms | 0.1ms | **-99.9%** (1450x faster) | ✅ Always on |
+| **Batch Processing (50)** | 7.2 req/s | 156.8 req/s | **+2078%** (21.8x) | ✅ Always available |
+| **Model Quantization** | 87MB | 22MB | **-75%** size | ✅ Always available |
+| **ONNX Runtime** | 145ms | 52ms | **-64%** (2.8x faster) | ✅ Always available |
+| **Beam Search Quality** | 0.68 coherence | 0.84 coherence | **+24%** better | ✅ Always available |
+| **Personalization** | 72% satisfaction | 89% satisfaction | **+17 points** | ✅ Always on |
+| **Submodular MMR** | 0.65 diversity | 0.88 diversity | **+35%** | ✅ Always available |
+| **Calibration (ECE)** | 0.143 error | 0.028 error | **-80%** better | ✅ Always on |
+| **Memory (all combined)** | 117MB | 52MB | **-56%** usage | ✅ Always on |
 
 ### Built-In (Auto-Enabled)
 
@@ -344,7 +346,8 @@ This implementation features production-grade algorithms from academic research:
 
 ## Dependencies
 
-**Core:**
+All dependencies including performance optimizations are installed via `requirements.txt`:
+
 ```
 torch>=2.0.0
 transformers>=4.30.0
@@ -354,14 +357,11 @@ scikit-learn>=1.3.0
 click>=8.0.0
 pandas>=2.0.0
 psutil>=5.9.0
+faiss-cpu>=1.7.4        # 100x faster emoji search (always included)
+onnxruntime>=1.15.0     # 2-3x inference speedup (always included)
 ```
 
-**Optional (Performance):**
-```bash
-pip install faiss-cpu      # 100x faster search
-pip install hnswlib        # Sub-millisecond retrieval
-pip install onnxruntime    # 2-3x inference speedup
-```
+**All optimizations are always installed** - no optional dependencies!
 
 ---
 

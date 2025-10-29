@@ -8,8 +8,5 @@ emoji>=2.8.0
 tqdm>=4.65.0
 pandas>=2.0.0
 psutil>=5.9.0
-
-# Optional: Advanced optimizations
-# faiss-cpu>=1.7.4  # For 100x faster emoji search
-# hnswlib>=0.7.0    # For sub-millisecond nearest neighbor
-# onnxruntime>=1.15.0  # For 2-3x inference speedup
+faiss-cpu>=1.7.4
+onnxruntime>=1.15.0
